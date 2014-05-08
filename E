@@ -1,7 +1,13 @@
 each : (ichh), adj. pakhat zel, a mal mal, tin.
 eager : (igar), adj. nghakhlel, phur, chak.
 eagle : (igl), n. mupui, muvanlai, eagle-eyed, eagle-sighted, adjs. meng fir, thil awmze hmutlang thiam, eaglet, n. mupui no.
-ear : (iar), n. beng, buh vui, vaimim kawm. bengkhawnn. earache (iareik), n. bengkherh. eardrum, n. bengling. earphone (iarfawn), n. biakhlatna (telephone) beng vuah. earshot, hriat phak. ear-trumpet, n. bengchhette ngaihthlak na dawt. earwax, n. beng ek. give ear, lend and ear, bengkhawn, ngaithla.
+ear : (iar), n. beng, buh vui, vaimim kawm. bengkhawnn.
+earache : (iareik), n. bengkherh. 
+eardrum : n. bengling.
+earphone : (iarfawn), n. biakhlatna (telephone) beng vuah.
+earshot : hriat phak.
+ear-trumpet : n. bengchhette ngaihthlak na dawt.
+earwax : n. beng ek. give ear, lend and ear, bengkhawn, ngaithla.
 earmark : n. chhinchhiahna, hual, v.t. chhinchhiah, hual.
 earl : (arl), n. British lal upa chi khat, earldom (arldam), n. earl ram awp chhung or lalna.
 early : (arli), adj. adv. hma, zing. early bird, tho hma thei.
@@ -69,7 +75,7 @@ egg : (eg), v.t. tur, fuihpawrh.
 ego : (egow), n. mahni, keimah, mahni taksa nikhaw hre lai. egocentric, adj. mahni chauh inhrechang, mahni inngai hlu mi. egoism (egawizm), n. mahni hma ngaihna, mahni hmasial mi, mahni inngai hlu mi, egotism, n. tawngkama 'kei' leh 'ka' tih hman zin luattukna, chapona, induh luattukna.
 egotist : n. egoist nen thuhmun.
 egregious : (igrijas), adj. huaikawm bawl, rapthlak, bawrow.
-egress : (igres) n. kal chhuahna : chhuahna, kal chhuah theihna.
+egress : (igres) n. kal chhuahna, chhuahna, kal chhuah theihna.
 egurgitate : (igarjiteit), v.t., luak chhuak, irh chhuak.
 Egypt : (ijipt), n. Aigupta. Egyptian (ijipshan), adj. n. Aigupta thil, Aigupta mi or tawng, Egyptology, n. hmasang Aigupta chanchin chhuina.
 eh : (e), interj. eng a ni?
@@ -101,7 +107,7 @@ electrocute : (ilektrawkhiut), v.t. electric thaa tihlum. electro-magnet, n. ele
 electron : (ilektrawn), n. atom lairil (nucleus) heltu electric them te tak te (negative).
 elegant : (eligant), adj. nalh.
 elegy : (eliji), n. sunna hla, hla urhsun.
-element : (eliment), n. thil bul, a hmahruai, thil reng renga a pawimawh lai pakhat, leilunga thil pawimawh ber ber pali (mei, tui, lei leh boruak) zinga pakhat. elements, n. p.l. zir tanna, sakrament-a chhang leh uain, leilung siamna bawlhlo bulpui (Lei leh vana thil awm zawng zawng hi element chi 92-a siam niin an hre thin a. Tunah zawngin a dang pawh an hmuh belh ta zel a. Atom an chhut keh theih atang hi chuan mihring siam chawp element thar pawh a awm ta zeuh zeuh a ni). sik leh sa, khua (ni leh thli leh ruah). (The elements were incclement : Khuain zah a ngai lo). 
+element : (eliment), n. thil bul, a hmahruai, thil reng renga a pawimawh lai pakhat, leilunga thil pawimawh ber ber pali (mei, tui, lei leh boruak) zinga pakhat. elements, n. p.l. zir tanna, sakrament-a chhang leh uain, leilung siamna bawlhlo bulpui (Lei leh vana thil awm zawng zawng hi element chi 92-a siam niin an hre thin a. Tunah zawngin a dang pawh an hmuh belh ta zel a. Atom an chhut keh theih atang hi chuan mihring siam chawp element thar pawh a awm ta zeuh zeuh a ni). sik leh sa, khua (ni leh thli leh ruah). (The elements were incclement - Khuain zah a ngai lo). 
 elementary : adj. bul, a tantir.
 elephant : (elefant), n. sai, elephant-grass, n. phairuang, rairuang, elephantine (-tin) adj. sai ang, sai thil. white elephant, thil kawl hautak (Zunteinu, ka siam ang che..)
 elephantiasis : (elefantaiasis), n. ke vung natna, tilpuk.
@@ -162,7 +168,9 @@ emetic : (emetic), adj. luak tichhuah. n. luakna damdawi.
 emigrate : (emigreit), v.i., v.t. mahni ram pemsan. emigrant, n. ram pemsantu. emigration, n. pem.
 eminent : adj. challang, hmingthang. eminence, n. mual pawng, hmun sang, challanna.
 emir : (emir, imir), n. Africa khawchhak leh hmar biala lal tenau zawng zawng an kohna. Mohammed-a thlah nia an rin zawng zawngte an kohna.
-emit : v.i. eng chhuah, chhuah (emit sound. ri chhuah, the skin emits sweat : vunin thlan a chhuah. etc). emissary, n. a ruka palai, puar-ak. emission, n. chhuahna, thil put chhuak.
+emit : v.i. eng chhuah, chhuah (emit sound. ri chhuah, the skin emits sweat - vunin thlan a chhuah. etc).
+emissary : n. a ruka palai, puar-ak.
+emission : n. chhuahna, thil put chhuak.
 emolument : (imawliument), n. hlawh, lukhawng.
 emotion : (emawsh, imowshn), n. thil nung hnathawh, thinlunga vei dan, thinlung deh dan, rilru phawklek dan, emotional, adj. thinlunga thil vei hma, rilrua belebut awlsam, mi phawklek, zauthau.
 emperor : (emparar), n. lalna ram zau tak nei, empire awptu, lalberte zinga a ropui pawl an kohna, empress, n. hmeichhe emperor.
@@ -173,7 +181,10 @@ empirical : adj. empiric. empiric, n. thil chhintu leh fiahtu.
 empiricism : (empirisizm), n. thil bul chhut tumna (philsophy) kawnga mahni hriat leh fiah ve chiah hmaa miina thil dik saa an lo pawm tawh pawm duh lohna.
 emplacement : (empleisment), n. dah, laipui bunna dawh sang.
 emplane : (emplein), v.t. thlawhna chhunga dah lut, v.i. thlawhna chhunga lut, thlawhna chuang.
-employ : (emplawi), v.t. chhawr, ruai, hmang, hna pe. employee, (America hman dan chuan employe (emplawii), n. mi hnuaia hnathawk, inhlawhfa, employer, n. mi ruaitu or chhawrtu. employment : n. hna inhlawhfakna, hnathawh.
+employ : (emplawi), v.t. chhawr, ruai, hmang, hna pe. 
+employee : (America hman dan chuan employe (emplawii)), n. mi hnuaia hnathawk, inhlawhfa.
+employer : n. mi ruaitu or chhawrtu.
+employment : n. hna inhlawhfakna, hnathawh.
 emporium : (empawriam), n. thil lei khawm zawrh leh chhawnna dawr, dawr lian pui, fawrpui.
 empoverish : v.t. see impoverish,
 empower : (empauar), n. thuneihna pe.
@@ -288,7 +299,8 @@ enumerate : (eniumereit), v.t. chhiar chhuak, hming chhiar. enumeration, n. chhi
 enunciate : (inanshieit), v.t. dan ang thlapa puang, fiah taka sawi ri, chiang taka sawi,
 enunciation : n. lam rik dan, chiang taka sawina, rawtna.
 envenom : v.t. tur tat, thin tiur, tur hnawih, rilru chhia puttir.
-environ : (envairawn), v.t. hual, environent, n. chhehvel, chawrna hmun, chettlatna hmuna than dan khawih danglam thei (He would be good in a better environment : Seilenna hmun tha zawkah chuan mi thain a seilian ngei ang).
+environ : (envairawn), v.t. hual.
+environment : n. chhehvel, chawrna hmun, chettlatna hmuna than dan khawih danglam thei (He would be good in a better environment - Seilenna hmun tha zawkah chuan mi thain a seilian ngei ang).
 envisage : (envizij), v.t. mitthlaa hmu, thlir lawk, suangtuah.
 envision : (envishan), v.t. mitthlaa hmu, hmu lawk.
 envoy : (envawi), n. palai.
@@ -332,7 +344,7 @@ equity : (ekhuiti), n. leilung dan dik tak, dan fel, equitable, adj. dik, fel.
 equivalent : (ekhuivalent), adj. intluk inzat, awmze thuhmun, n. tlukpui, equivalence, n. tlukpui, intlukna.
 equivocal : (ekhuivawkhal), adj. awmze phir nei, rinhlehawm, ngaihsual theih.
 equivocate : v.i. mi bum tum vanga chiang lo taka thu sawi.
-era : (ira), n. hun pawimawh tak atanga hun chhiar tanna, hun pawimawh tak, hun bi. (The Christian era : Krista hun lai atanga kum chhiar).
+era : (ira), n. hun pawimawh tak atanga hun chhiar tanna, hun pawimawh tak, hun bi. (The Christian era - Krista hun lai atanga kum chhiar).
 eradiate : (iredieit), v.t.,v.i. eng zunga kap, eng.
 eradicate : (iradikheit, eradikheit), v.t. nuai bo, timang. eradication, n.
 erase : (ireiz, ereiz, ireis), v.t. nuai bo, tichhia, thi chhia, erasor, n. nuai botu, nawh rehna.
@@ -487,7 +499,11 @@ expand : (ekspand), v.t.,v.i. tizau, zauh, tilian, thang lian, tipuar, expanse, 
 ex-parte : (eksparti), adj. lehlam pawl hmakhua chauh.
 expatiate : (ekspeshiet), v.i. dapo zau, huang zau, sawi zau.
 expatriate : (ekspetreieit), v.t. ram pawn lama thawn chhuak, mahni ram atanga hnawt chhuak.
-expect : (elspekt), v.t. ring, beisei, lo thlen ring, expectance, expentancy, nn. beiseina, rin lawkna. expectant. adj. beisei. expectation, n. beiseina, rin lawkna, thlir lawkna, expecting : adj. beisei mek, nau neih inring.
+expect : (elspekt), v.t. ring, beisei, lo thlen ring.
+expectance : expentancy, nn. beiseina, rin lawkna.
+expectant : adj. beisei.
+expectation : n. beiseina, rin lawkna, thlir lawkna.
+expecting : adj. beisei mek, nau neih inring.
 expectorate : (ekspektawreit), v.t.,v.i. khak chhak, khuh chhuak, expectoration, n. khak, khak chhakna.
 expedient : (ekspidient), adj. remchang, awm, n. remchang, tul, mamawh. expendience, -cy, nn. remchanna.
 expedite : (ekspidait), v.t. tihmanhmawh, thawn chhuak.
@@ -551,7 +567,10 @@ extraneous : (ekstrenias), n. pawn lam atanga lo kal, pawn lam thil, penhleh, tu
 extraordinary : adj. a pangngai bakchham, dan pangngai ang lo, mak, a belhchhah.
 extravagant : adj. hluar, hleihluak, tlaran, sum ren lo. extravagance, n. hleihluakna, inren lohna.
 extravaganza : n. hla leh lemchan thila a hleihluaka thil tih, mak leh ropui taka thil tih.
-extreme : (ekstrim), adj. lutuk, tawpkhawk, hmawr tawp, piah ber, khauh, n. tawp ret, a ber. extremist, n. a nasa thei ang bera thawh duh chi. extremity, n. hmawrtawng, a tawpkhawk. extremes : n. kutke hmawr, extreme unction, Katholik Kohhran hriak thianghlim hawih hnuhnung ber sakrament.
+extreme : (ekstrim), adj. lutuk, tawpkhawk, hmawr tawp, piah ber, khauh, n. tawp ret, a ber.
+extremist : n. a nasa thei ang bera thawh duh chi.
+extremity : n. hmawrtawng, a tawpkhawk. 
+extremes : n. kutke hmawr, extreme unction, Katholik Kohhran hriak thianghlim hawih hnuhnung ber sakrament.
 extricate : (ekstikeit), v.t. tichhuak, tal chhuak.
 extrude : (ekstrud), v.t. tilawr, extrusion (-zhan), n. hawlh lawrna.
 exuberent : (egziubarant, eksiu-,egzu-,eksu-) adj. hluar, hlim, engthawl.
