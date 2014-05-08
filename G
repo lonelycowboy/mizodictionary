@@ -418,7 +418,14 @@ grotesque : (grawtesk), adj. kawm ngel ngul, hmelhang mawi lo.
 grotto : (grawtow), n. puk lung puk siamchawp.
 grouch : (grauchh), v.i., n. Same as grouse.
 ground : (graund), pa.t. of grind.
-ground : (graund), n. lei, mual, mual zawl, buaina hmun, tanhmun, dinhmun, hun chhan, tanchhan, lem ziakna hmai. grounds, n. in vel huan, chhan leh vang, mwng nawi. v.t. leia tumtir, thlawk thei lova siam. tanchhan siam, a bul leh bal zirtir. groundless, adj. chhan nei lo. ground floor, ground story, nn. chhawng hnuai ber. ground-nut, n. badam. ground-sheet, n. thelretpuan awngphah. ground-crew, ground staff n. thlawhna sipai pawla leia khawla hnathawkho. ground-work, n. nghahchhan, lungphu.
+ground : (graund), n. lei, mual, mual zawl, buaina hmun, tanhmun, dinhmun, hun chhan, tanchhan, lem ziakna hmai.
+grounds : n. in vel huan, chhan leh vang, mawng nawi. v.t. leia tumtir, thlawk thei lova siam. tanchhan siam, a bul leh bal zirtir.
+groundless : adj. chhan nei lo.
+ground floor : ground story, nn. chhawng hnuai ber.
+ground-nut : n. badam.
+ground-sheet : n. thelretpuan awngphah.
+ground-crew : ground staff n. thlawhna sipai pawla leia khawla hnathawk ho.
+ground-work : n. nghahchhan, lungphu.
 groundsel : (graundsel, graunsel), n. buar lam chi.
 group : (grup), n. rual, ho, pawl, grouping, n. silai inthemthiama a lai lem lo pawha a bit thei ang bera kah khawm tumna.
 grouse : (graus), n. Britain leh Ireland-a sava veh chi.
@@ -434,7 +441,7 @@ gruel : (gruel), n. buh tuiril, buh tuihnang, (tawng ler) hremna, hrehawm, v.t. 
 gruesome : (grusam), adj. rapthlak, hmuh nahawm lo.
 gruff : (graf), adj. tawng bung ngut, bung nghut.
 grumble : (grambl), v.i. phun, phunnawi, ngur, rum.
-grumpy (grampi) adj. tau : titau, nuar, thinchhia, nelawm lo.
+grumpy : (grampi) adj. tau, titau, nuar, thinchhia, nelawm lo.
 grunt : (grant), v.i., u, hawk, nguk.
 guano : (guanow, huanow), n. tuipui sava ek chheng khawl (lei tha atana an hman).
 guarantee : (garanti), n. a dikzia or thatzia nemnghehna or tiamna, tiamkamna, v.t. tiamkam. guarantor, n. tiamkamtu.
