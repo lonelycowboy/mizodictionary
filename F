@@ -1,4 +1,4 @@
-Fabian (febian : adj. fimkhur, hmanhmawh lo.
+Fabian : (febian), adj. fimkhur, hmanhmawh lo.
 fable : (febl), n. thawnthu fing tawi, phuahchawp thil, dawt thu. fabled, adj. phuahchawp thil. fabulous (fabiulas), adj. mak. ropui.
 fabric : n. puan, ruhrel.,
 fabricate : (fabrikheit), v.t. phuahchawp. fabrication, n. dawt thu, phuahchawp thil.
@@ -8,10 +8,13 @@ facet : (faset), n. hmai khat, hmai tam tak nei (thingrem, in, etc.) hmai zinga 
 facetious : (fesishas), adj. fiamthu duh, a hun lova fiamthu rawlh hmang.
 facia : faacia (fashia), n. dawr neitu hming chuanna dawr hmai.
 facial : (feshal), adj. hmai lam thil.
-facile (fasil : fasail), adj. tihawlsam, thunun awlsam. facilitate (fasilieit), v.t. tiawlsam, tiremchang, awlaia siam. facility, n. awlsamna, remchanna.
-facsimile (faksimili :-le), n. anpui chuah, a copy chiah.
+facile : (fasil, fasail), adj. tihawlsam, thunun awlsam.
+facilitate : (fasilieit), v.t. tiawlsam, tiremchang, awlaia siam.
+facility, n. awlsamna, remchanna.
+facsimile : (faksimili, -le), n. anpui chuah, a copy chiah.
 fact : (fakt), n. a tak tak, a dik, thudik, thil kalhmang leh awm dan, thil nihna, thil dik anga ngaih tawhphawt mai (lo dik ta lo mah se), factual (fakchiual), adj., n. dik pai, a tak kalpui, as a matter of fact, a dik a dik chuan.
-faction : (fakshn), n. innghirnghona, pawl inrem lo, a hel pawl. factious (fakshas), adj. hel.
+faction : (fakshn), n. innghirnghona, pawl inrem lo, a hel pawl.
+factious : (fakshas), adj. hel.
 factitius : (faktishas), adj. phuah chawp.
 factor : (faktar), n. titu, thil thelntir or awmtirtu, chhiarkawp namber puntir kimtu zinga pakhat, chuang awm lova sem theitu nambar. factorial, adj., factorise, v.t., factor-a then sawm.
 factory : (faktari), n. thilsiamna hmun pui.
@@ -21,10 +24,10 @@ fade : (feid), v.i. chuai, chul, mit.
 faeces : feces (fisiz), n. ek, faecal (fikal), adj.
 fag : v.i. hah, rim taka thawk, chau, v.t. tihah, tirim, n. hna ninawm, vaihlozial, (tawng ler), feg-end, n. puan fem, hruizen hmawr fip lo, meizial bung, ekchhia.
 faggot : fagot, nn. thingfak, thingtuah, thingfak tumtel, pawl tana duhthawh vanga vote nei thei lo vote theia insiam.adj. phuahchawp thil.
-Fahrenheit (farenheit : farenait), adj. Dr. Gabriel-a lum leh vawt tehkhawng, tui hi degree 32-ah vurah a khang a, degree 212-ah a so tia tehkhawnga siamna.
+Fahrenheit : (farenheit, farenait), adj. Dr. Gabriel-a lum leh vawt tehkhawng, tui hi degree 32-ah vurah a khang a, degree 212-ah a so tia tehkhawnga siamna.
 fail : (feil), v.i. hlawhchham, tling lo, pamtul, v.t. phatsan, hlawh chhamtir, beidawntir,
 failing : n. tlin lohna, hlawhchhamna, without fail, matheilovin.
-fain (fein) adj. chak : chiang lo, lungawi mai. adv. chak takin, lawm takin.
+fain : (fein) adj. chak, chiang lo, lungawi mai. adv. chak takin, lawm takin.
 faint : (feint), adj. chiang lo, chang chang, chau, chak lo. v.i. kulcho, chau, thidang, zam.
 fair : (feir), adj. chiang, eng, ngo, thianghlim, mit la, khaw thiang, beiseiawm, dik, hleih nei lo, tha thawkhat, mawi tawk tak, n. huau huau, intihlimna dawrpui, dawrpui ropui tak. fair-play, n. dik taka thiltih. fair-way, n. lawng chawlhna hmuna lawng luh leh chhuahna kawngka, fair-sex, hmeichhia.
 fairy : (feiri), n. lasi (nula leh tlangval).
@@ -32,10 +35,10 @@ faith accompli : (fet akawpli), n. ngasa or ni sa anga ngaih theih.
 faith : (feith), v. rinna, sakhua, faithful, adj. rinawm, ringtu. faith-healing, faith-cure, nn. rinna tihdam, tawngtai dam. faithless, adj. rinawm lo. rinna nei lo, uire hmang. in good
 faith : rilru or tum tha tak nen.
 fake : (feik), v.t. a lem siam, a lem nena bum. n. inbumna, a lem.
-fakir (fakir : fekir), n. Vai (Mosolman) puithiam (dawithiam ang renga an sawi tel).
+fakir : (fakir, fekir), n. Vai (Mosolman) puithiam (dawithiam ang renga an sawi tel).
 falcate : falcated (falkeit, -ed), adjs. favah anga kawm (kual).
 falchion : (fawlchhawn), n. kawlhnam kawm.
-falcon (fawlkn : fawkn), n. mu, mupui, falcorner, n. ramar pel tura mupui khawitu leh zirtirtu
+falcon : (fawlkn, fawkn), n. mu, mupui, falcorner, n. ramar pel tura mupui khawitu leh zirtirtu.
 foldstool : (fawldstul), n. thutthleng veivak kaihthleh theih, lallukhum khumtir tuma lalthutthleng, bishop thutthleng ban nei lo, biak ina tawngtaina bu nghahchhan.
 fall : (fawl), n. tla, tlu, sawp, indonaa thi, tla hniam, hrilhai hmel pu, uai, awih, bei, thlemna laka tlu, chang, lo thleng tan, chana tlu, n. tlakna, lak chhiatna, tlawmna, ral kuta tlakna, man tlawmna, favang thing hnah tlak kawlh hun, inchaia tan khat, suala Evi leh Adama tlukna, fallen (fawlen, fawln), adj. indonna thi, beidawnna khura tlu-tla, falling sickness, n. phungzawl natna. falling star, arsi tla.thlawk. fall away, hel, fall back, hnung tawlh. fall behind, vuaicha, hnufual. fall in, sipai intlar. fall out, innghirngho. fall short of. daih lo. tlin lo, pha lo. fall through, pamtul, fall to, phur taka tan.
 fallacy : (falasi), n. dik hlelhna, hriat sualna. fallacious (faleshas), adj. dik hlel, ngaihdan hruai sual thei.
@@ -55,19 +58,25 @@ famine : (famin), n. tam.
 famis : v.t. titam, v.i. nasa taka tam or riltam or tuihal.
 famous : (femas), adj. hmingthang, challang.
 fan : n. hmaizah, thlangra, sisep, (America ramah chuan), zuitu, ngainatu, lawmtu, v.t. zap, v.i. phe vat vat. tai darh (America ramah chuan) ngainatu, zuitu, lawmtu.
-fancy : (fansi), n. mitthlaa thil hmuh, suangtuahna, mitvai, mahni rilru lem zawng, duhzawng, adj. rilru lem duhzawng, nalh, chan buai, uluk leh ler taka chei. v.t. suangtuah, ngaihruat, duh, lawm, fancier (fansiar), n. thil ngaina mi, ran ngaina mi. (dog-fancier : ui lawma vulh mi). fanciful, adj. ngaihruat thil, a tak tak tling lo, mumal nei lo, ler. fancydress, n. mahni duh ang anga ler leh maka incheina. fancy-fair, n. mi rethei tanpui nana thawmhnaw mak tak tak zawrhna dawrpui.
+fancy : (fansi), n. mitthlaa thil hmuh, suangtuahna, mitvai, mahni rilru lem zawng, duhzawng, adj. rilru lem duhzawng, nalh, chan buai, uluk leh ler taka chei. v.t. suangtuah, ngaihruat, duh, lawm.
+fancier : (fansiar), n. thil ngaina mi, ran ngaina mi. (dog-fancier - ui lawma vulh mi).
+fanciful : adj. ngaihruat thil, a tak tak tling lo, mumal nei lo, ler.
+fancydress : n. mahni duh ang anga ler leh maka incheina.
+fancy-fair : n. mi rethei tanpui nana thawmhnaw mak tak tak zawrhna dawrpui.
 fanfare : (fanfeir), n. a ruala tawtawrawt tam tak ham rik, ropui taka puanzarna or tlangauna.
 fang : n. ngho, sava tin, siak, rul ngho, hahni chhunga ha inphum chin.
-fantasia (fantazia : fantezia), n. dan pangngai - kalhmang zui lova hla phuah.
+fantasia : (fantazia, fantezia), n. dan pangngai - kalhmang zui lova hla phuah.
 fantasy : phantasy (fantazi), n. mitthla, suangtuahna, ngaihruatna, neih phak loh ita suangtuahna, fantastic,-al, adjs, mak, maksak.
-far (far) adj. hla : adv. hla takah, deuhvah, tui takah, lutukin. far-fetched, adj. hla tak atangin, tihluih thil. far-reachig, adj. huang zau or thui.
+far : (far) adj. hla, adv. hla takah, deuhvah, tui takah, lutukin.
+far-fetched : adj. hla tak atangin, tihluih thil.
+far-reaching : adj. huang zau or thui.
 farad : n. electric tehkhawng.
 farce : (fars), n. lemchan ho tak, thupui funlo. farcical,adj. holam.
 fardel : (fardl), n. phurrit.
 fare : (feir), v.i. khawsa, hlawhtling, zinvak, n. kal man, zin man, chuan man, ei tur, chaw.
 farewell : interj. chibai, dam takin, n. inthlahna.
 farm : (farm), n. thlawhhma, leilet, leilet neitu in-leh-lo, ran huan, v.t. thlawhhma nei, lova siam.
-farrago (faragow : faregow), n. thil hlawm khat hnawk nuai.
+farrago : (faragow, faregow), n. thil hlawm khat hnawk nuai.
 farrier : (fariar), n. sakawr pu, sakawr daktawr, sakawr pheikhawk khen saktu.
 farrow : (farow), adj. no hruai loh lai.
 fart : (fart), v.i. vawih (tawng hmang mawi lo).
@@ -100,7 +109,9 @@ fear : (fiar), n. hlauhna, hlauhthawnna, tihna, thlaphanna, thil hlauh, v.t.,.v.
 feasible : (fizibl), adj. tihtheih.
 feast : (fist), n. kut ni, ni serh, ruai, hlimhlawpna ropui, v.t. ruai siam sak, v.i. kut serh, chaw tui tak ei, inhrai, nasa taka nuamti, movable feast, n. kut ni a kum a tina insawn chi (Easter, Good Friday, etc.). immovable feast, n. kut ni calendar a danglam ve ngai lo (Krismas, Kumthar, etc.).
 feat : (fit), n. thiltih ropui tak, chakna or themthiamna or theihna thiltih.
-feather : (fedhar), n. hmul, sava/ar hmul, sava zawng zawng khaikhawmna hming. v.t. sava/ar hmula chei, bu chei, bu chhep. featherweight, n. inchai, inbuan, boxing, etc. a a zang ber feather : adj. sava hmul ang feather one's nest, mi hnuaia hnathawk chunga mahni intuak muk.
+feather : (fedhar), n. hmul, sava/ar hmul, sava zawng zawng khaikhawmna hming. v.t. sava/ar hmula chei, bu chei, bu chhep.
+featherweight : n. inchai, inbuan, boxing, etc. a a zang ber.
+feather : adj. sava hmul ang. feather one's nest, mi hnuaia hnathawk chunga mahni intuak muk.
 feature : (fitiar, fichiar), n. hmelhmang, hmaifang, zia, lan dan, v.t. tar lang. 
 featureless : adj. hmelhmang mumal nei lo.
 febrile : (fibrail, febrail, febril), adj. khawsik ang, khawsik vei. 
@@ -196,16 +207,20 @@ fill : v.t. tikhat, awh khat, hrai tlai, hmun luah, awh, v.i. khat, puar.
 fillet : n. malpui ti hrang, sa hrang (a ruh tel lovin), v.t. a ruh paih.
 fillip : n. chawh phurna, v.i. pen (zungtang nena pen).
 filly : (fili), n. sakawr la, tleirawl lepchiah.
-film (else hi eles leh es a ni ang bawk hian : film pawh hi filim of fim a ni lo. hriat thamin l hi m-ah hian pial lut mai ani), n. vun pan tak, sarang, hamda, duar, thlalak na lehkha, cinema thlalak, romei pan tak, v.t. hamsaa tuam, cinema thla la,
+film : (else hi eles leh es a ni ang bawk hian film pawh hi filim of fim a ni lo. hriat thamin l hi m-ah hian pial lut mai ani), n. vun pan tak, sarang, hamda, duar, thlalak na lehkha, cinema thlalak, romei pan tak, v.t. hamsaa tuam, cinema thla la,
 filmy : adj. pan.
 filter : (filtar), n. thlawr.thlit fimna, v.t. thlawr/thli fim, v.i. put, inthlawr, inthli fim, hnam.
 filth : n. bawlhhlawh, filthy, adj. bawlhhlawh, tenawm, zahmawh.
 filtrate : (filtreit), v.t. put, hnam, tui thlawr fim hnu.
 fin : n. sangha pangparh, thlawhna mei ziding.
 final : (final), adj. n. hnuhnung ber, a tawp, finality, n. tawpna.
-finale (finale) n. a tawp : hla tlipna.
-finance (finans : fainans), n. pawisa chungthu, vantlang sum. finances, n. pawisa deh chhuahna, sum hnar. finance, v.t. pawisa tum sak. financial (-shal), adj. pawisa lam thil. financier, n. pawisa enkawltu, pawisa lam khawih thiam.
-finch (finchh : finsh), n. vate lam chi.
+finale : (finale) n. a tawp, hla tlipna.
+finance : (finans, fainans), n. pawisa chungthu, vantlang sum.
+finances : n. pawisa deh chhuahna, sum hnar.
+finance : v.t. pawisa tum sak.
+financial : (-shal), adj. pawisa lam thil.
+financier : n. pawisa enkawltu, pawisa lam khawih thiam.
+finch : (finchh, finsh), n. vate lam chi.
 find : (faind), v.t. chhar, zawng chhuak, hmu, nei thei, n. thil hlu chhar chhuah.
 fine : (fain), adj. tha nalh, mam, sin, finery, n. ropuina, mawina, thli thlawr fimna hmun, thir hlo chhuantuina zem. fine arts, thil mawi lampanga themthiamna (hla mawi, lemziak, milem ker, etc.) fine feathers, kawr man tam.
 fine : (fain), n. lei chawi, v.t. lei chawitir, in fine, a tawpah chuan.
@@ -228,7 +243,8 @@ firth : n. lui chhuah hnaiha lui kuang zau, khawmuala tuipui peng.
 fiscal : (fiskal), adj. vantlang/ram chhiah/pawisa lam thil.
 fish : n. sangha, v.i. sangha man or man tumna, tui chhunga dap, zawng, len deng, nghakuai chiah. v.t. tui atanga khai chhuak, khai chhuak, la chhuak, fisher, fisherman, nn. sangha man mi, fishery, n. sangha mana sumdawnna. fish-monger, sangha zuar, fishy, adj. sangha ang, thil awihawm loh, rinhlelhawm, queer fish, mi mak, mi danglam.
 fish : n. thingphel thlawptu thingphel, fish-plate, n. rel kawng zawmna thir phek.
-fissile (fisil : fisail), adj. thing ilo a ti zui zawnga cheh keh theih, fission (fishon), n. atom lairil chhut keh.
+fissile : (fisil, fisail), adj. thing ilo a ti zui zawnga cheh keh theih.
+fission : (fishon), n. atom lairil chhut keh.
 fissiparous : (fisiparas), adj. keh darh chi, mahni inphel darha pung chi.
 fissure : (fishar), n. keh, kak, khi.
 fist : n. kuttum, v.t. chum, hnek, hmer. fisticuff (fistikhaf), n. chum, hnekna.
@@ -241,10 +257,12 @@ fizz : v.i. put ri ser ser, n. thil in tur phuan buah.
 flabbergast : (flabagast), v.t. mak ti taka siam, mak tihtir, ti hrilhai, a ngaihna tihre lo.
 flabby : (flabi), adj. nem, zawi, bawr, ti liak luak.
 flaccid : (flaksid), adj. nem.
-flag : n. puanzar, thil them tar/khai. flag-ship, n. lawng sipai officer lian (admiral), chuanna indo lawng. flag-staff, n. puanzar khaina ngul.
+flag : n. puanzar, thil them tar/khai.
+flag-ship : n. lawng sipai officer lian (admiral), chuanna indo lawng.
+flag-staff : n. puanzar khaina ngul.
 flag : v.i. ngui, nguai, zuai.
 flag : n. lung a zena keh chi, kalkawnga phah lung phek.
-flagellate : (flajeleit), v.t. vow hrep, flagellant, n. sakhaw thila in chhirna leh inhremna thiltih atana mahni invuak ching mi.
+flagellate : (flajeleit), v.t. vaw hrep, flagellant, n. sakhaw thila in chhirna leh inhremna thiltih atana mahni invuak ching mi.
 flagon : n. no or bur ringrek.
 flagrant : (flegrant), adj. mualpho, a chhe lama thang.
 flail : (fleil), n. buh vuakna hmanrua.
@@ -296,9 +314,11 @@ flock : (flawk), n. ran/ramsa/sava rual, rual khat, Kristian kal khawm (beram ru
 floe : (flow), n. tuia vur tlang hrawl tak lang.
 flog : v.t, vua, hnek, talhfiak nena hrem.
 flood : (flad), n. tui lian, tui let, thil tam tak, v.t. chim.
-floor : (flawr), n. chhuat, dawh, inchhawnga chhawng pakhat (seond floor : chhawng thuman, America ramah chuan chhawng hnihna), v.t. chhuata titlu, hnek thlu, tlawm.
+floor : (flawr), n. chhuat, dawh, inchhawnga chhawng pakhat (second floor - chhawng thuman, America ramah chuan chhawng hnihna), v.t. chhuata titlu, hnek thlu, tlawm.
 flop : v.i. tla/tlu, hnawk, hlawhchham, n. leia tluk, kehchhiatna, pamtulna, tlawlhna.
-flora : (lawra), n. ram bial khata thing leh hnim chi zawng zawng khai khawmna. floral, adj. pangpar thil (floral decoration : pangpara chei). florescence, n. par chhuahna.
+flora : (lawra), n. ram bial khata thing leh hnim chi zawng zawng khai khawmna.
+floral : adj. pangpar thil (floral decoration - pangpara chei).
+florescence : n. par chhuahna.
 florescent : adj. floriculture, n. pangpar/hnim chin dan. florid, adj. lar, sen, pangpar ang. tawnghmangthiam thil, florist, n. pangpar zuar/ching/ngaina mi.
 florin : n. English pawisa shilling 2 hen.
 flotation : n. tuia lanna, company bul tanna.
@@ -338,8 +358,10 @@ foil : (fawil), v.t. titlawm, a ngaihna tihre lo, bum, dal, n. invai fiam nana h
 foil : (fawil), n. thir phek pan tak, tin phek pan tak.
 foist : (fawist), v.t. puanhnuai ru, a ruka la lut, a tak tak anga lantir.
 fold : (fawld), v.t., n. thlep, thleh, thuah, tuam, kuangkuah, kut suih, kuah.
-fold : n. a thuah, a let engemaw zat (ten-fold : a let sawm), folder, n. lehkha tlahlang dahkhawmna bawm or ip or kawm.
-follage : (fawliji), n. hnah reng reng a hlawma sawina, hnah. folliation, n. hnah chhung.
+fold : n. a thuah, a let engemaw zat (ten-fold - a let sawm).
+folder : n. lehkha tlahlang dahkhawmna bawm or ip or kawm.
+follage : (fawliji), n. hnah reng reng a hlawma sawina, hnah.
+folliation : n. hnah chhung.
 folio : (folow), n. lehkha kawm, lehkha phek thleh.
 folk : (america ramah chuan pluralah -ah folkas), n. mi, mipui, mahni chhungkua/ thian, folklore, n. pi pute nunphung or chetdan, hmanlai mite nunphung chhuina. folk- song, folk -dance, nn. hnam zai, hnam lam. folk-tale, n. ziak nilova tawngka a thawnthu in hlan chhawng.
 follow : (fawlow), v.t. zui, thawk, chhui, zir, entawn, zawm, hrethiam, chhawm. follow suit, mi tih ang ti ve.
@@ -456,14 +478,14 @@ foyer : (fuaie ), n. inlengte thut chawlhna pindan hmasa, sumhmun pindan.
 fracas : (fraka), n. buai luai luaina, bengchheng taka in tihbuaina, inhauhbuaina.
 fracion : (frakshn), n. a them, fractional adj.
 fractious : (frakshas), adj. buaina cho, thinram, tawhkhirh.
-fracture (frakchar : fraktiar), n. keh, tliak, khi, ruh tliak, v.t.,.v.i. tikeh, tliak.
-fragile (frajail : frajil), adj. keh sam, ram, derthawng, dawrawm, fragility, n.
+fracture : (frakchar, fraktiar), n. keh, tliak, khi, ruh tliak, v.t.,.v.i. tikeh, tliak.
+fragile : (frajail, frajil), adj. keh sam, ram, derthawng, dawrawm, fragility, n.
 fragment : n. keh them, a them bang, fragmentary, adj.
 fragrant : (fregrant), adj. rimtui. fragrance, n.
 frail : (freil), adj. derthawng. ram, bawrhsawm, derdep, dawrawm, frailty, frailness, nn.
 frame : (freim), v.t. duang, vuah, phuah khawm, riruat, tuahrem, phuahchawp, dawt phuahchawp, dawt phuahchawpa hek, cher, a kawm siam, n. taksa ruangam, ruhrel, chheh khawm, khawm, cherna, puan thui mawi lai kah parhna, belval kual, mowza phiarna khawl, rilru put dan. frame-up, n. dawta mi puhna or hekna, phuahchawpa thiltih. framework, n. a ruhrel.
 franc : (frangk), n. French ram pawisa tualleng.
-franchise (franchhaiz : -shaiz), n. Parliament Member tana vote pek theihna, chanvo neih theihna.
+franchise : (franchhaiz, -shaiz), n. Parliament Member tana vote pek theihna, chanvo neih theihna.
 Franco- : (frangkhaw), ram dang hming nena kawpa French tihna. (Franco-German, Franco-Russian, etc.)
 frangible : (franjibl), adj. keh sam, tliak awl.
 frank : (frangk), adj. tlang, inhawng, inzep lo, thukhuh lo, frankness, n.
@@ -474,7 +496,7 @@ fraternal : adj. unaupa chungchang, in-u leh-nauna lam (mipa lamah) fraternise, 
 fratricide : (fratrisaid), n. mahni unaupa thattu, unaupa thahna.
 frau : (frau), n. German tawnga hmeichhia tihna. Frau (f aia F) tiha hman a nih chuan Pi tihna.
 fraud : (frowd), n. inbumna, a der, a lem, fraudulent, adj. dik hlel, intihderna thil, bum hmang, fraudulence,-cy, nn.
-fraught : (frawt), adj. khot, pai, kalpui (fraught with danger : hlauhawmnaa khat, hlauhawm pai).
+fraught : (frawt), adj. khot, pai, kalpui (fraught with danger - hlauhawmnaa khat, hlauhawm pai).
 fray : (frei), n. insual buai.
 freak : (frik), n. rapthlak khawpa piangsual, duh dan thlak thutna, rilru danglam thut, freakish, adj. rilru thlak thut hmang, mak danglam.
 freak : (frik), v.t. a hanga kap, tial.
@@ -516,16 +538,22 @@ from : prep. atangin.
 frond : n. tum, meihle, etc. kau hniar, katchat kau hniar.
 front : (frant), n. hma, hma lam, chal, hmai, hmasa ber, indona hmun, politics pawl,
 frontage : n. inhmai, kawt. frontal adj. hma lam, inchhawn, inep.
-frontier (frantiar : frawntiar), n., adj. ramri. frontiersman, n. ramri hrula cheng.
+frontier : (frantiar, frawntiar), n., adj. ramri. frontiersman, n. ramri hrula cheng.
 frontispiece : (frantispis, frawntispis), n. in hmai, lehkhabu phek hmasa bera milem chuang.
-frost : n. vur (hei hi Zorama vur tla kan tih ang chi hi a ni). vura dai khal, frostbite, n. vur ei, vawtina taksa peng a seh hik (enkawl var loh chuan a seh lai kha thi hlen or tawih chhe thei). frosty, adj. vur ang, vawt tak.
+frost : n. vur (hei hi Zorama vur tla kan tih ang chi hi a ni). vura dai khal.
+frostbite : n. vur ei, vawtina taksa peng a seh hik (enkawl var loh chuan a seh lai kha thi hlen or tawih chhe thei).
+frosty : adj. vur ang, vawt tak.
 froth : n., v.i. phul, phuan, frothy. adj.
 froword : (frowuard), adj. ihmawh, luhlul, mi herh.
 frawn : (fraun), n.,v.i. hmai thuar, thinur hmel lantir.
 frozen : (frowzn), adj. vawt hmeh khawng.
 fructify : (fraktifai), v.t. tirah, rah neihtir, v.i. rah. fructescence, n. thei rah hmin hun.
 frugal : (frugal), adj. inremchem, inren, tlem, beitham.
-fruit : (frut), n. thei, thei rah, ei tur bar tur, lukhawng (nei), a rah. fruitarian, n. kamrah ringa khawsa mi, thei ringa nung. fruiterer. n. thei rah zuar. fruitful, adj. rah thei, rah tha, rah tam, lukhawng nei, hlawh tling, fruitless, adj. rah thei lo, ching.
+fruit : (frut), n. thei, thei rah, ei tur bar tur, lukhawng (nei), a rah. 
+fruitarian : n. kamrah ringa khawsa mi, thei ringa nung.
+fruiterer : n. thei rah zuar.
+fruitful : adj. rah thei, rah tha, rah tam, lukhawng nei, hlawh tling.
+fruitless : adj. rah thei lo, ching.
 fruition : (fruishn), n. neitu nihna, changtlunna, hlawhtlinna, hlim taka chhawrbawkna or neihna.
 frustrate : (frastreit), v.t. tihrilhai, tibeidawng, kalh thla, tibahlah, hwhchhamtir, tlawlhtir,
 frustration : n. frustration dream, a taktaka hlawhchham avanga mumang lama thil tih tuma bahlah zut zut ang hi.
@@ -540,7 +568,9 @@ fuge : (fing), n. hla lawn (inla lawn).
 fulcrum : (falkhram), n. tulung kar chhan.
 fulfil : v.t. tizo, hlen, puitlin, fulfilment, n.
 full : (ful), adj. khat, hnianghnar, thahnem tawk, kim, tluan.
-full : (ful), v.t. puan khuiha tichhah, fuller, n. puan dumtu leh tifaitu. fuller's earth, thil mawm hip hul thei lei or hlum nem tak.
+full : (ful), v.t. puan khuiha tichhah.
+fuller : n. puan dumtu leh tifaitu.
+fuller's earth : thil mawm hip hul thei lei or hlum nem tak.
 fulminate : (falmineit), v.i. puak dur, vauna emaw, tharum nen emawa dan lekkawh, hau, v.t. tipuak, thawn chhuak, n. acid puak thei. fulmination, n. puah, hekna,
 fulsome : (fulsam), adj. tlai/puar lutuk, khamawm, ngeiawm, tenawm, rimchhia, hmusitawm khawpa inphah hnuai.
 fumble : (fambl), v.i. zei lo taka che vel, zei lo taka khawih. v.t. zei lo taka hmang.
@@ -578,7 +608,7 @@ furtive : (fartiv), adj. a rukin (furtive glance - mel)
 fury : (fiuri), n. nasa taka thinurna, atna.
 fuse : (fiuz), v.t. titui, hem tui, hem tuia char belhbawm, belhbawm, zawm, v.i. tui, inbelhbawm, electric fuse chah vanga khawnvar mit, n. electric hrui kal sual palh ven nana suan zai tui awlsam tak an vuah. fusible, adj. chhuan tui theih.
 fuse : (fiuz), n. halpuah halna dawt.
-fuselage (fiuzelij : fiuzelazh), n. thlawhna "taksa' thlawhna pumrua ( athla leh mei tiam lovin).
+fuselage : (fiuzelij, fiuzelazh), n. thlawhna "taksa' thlawhna pumrua ( athla leh mei tiam lovin).
 fusil : (finzl), n. awlan silai.
 fusillade : (fiuzileid), n. silai inruanna.
 fuss : (fas), n. philina, phek buaina, v.i. phili, fussy, adj. helhhawlh, mi phili chi, phunchiar, ti kher kher.
@@ -586,5 +616,6 @@ fust : (fast), n. thing rim, chawmpangkar rim, v.i. hmuar, fusty, adj. hing rim,
 fustian : (fustian), n. mawihnai lo leh hluar taka thu sawi/thu ziak.
 fustigate : (fastigeit), v.t. vua, hem.
 futile : (fiutail), adj. sawt lo, sawtsawhlawt lo. dutility, n.
-future : (fiuchhar), n. adj., hun la thleng tur, tun hnu lam, chavo, hmabak, futureless, adj. hmachhuan tur tlachham, beisei tur tlachham. futurity, adj. hun la lo thleng tur, hmabak.
-fuzz : (faz) n. bawlhhlawh them : vaivut them, lazam zai, fuzny, adj. puk, fiah lo.
+future : (fiuchhar), n. adj., hun la thleng tur, tun hnu lam, chavo, hmabak, futureless, adj. hmachhuan tur tlachham, beisei tur tlachham.
+futurity : adj. hun la lo thleng tur, hmabak.
+fuzz : (faz) n. bawlhhlawh them, vaivut them, lazam zai, fuzny, adj. puk, fiah lo.
