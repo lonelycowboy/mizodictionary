@@ -3,7 +3,9 @@ dab : v.t. thil nem taka vow bek bek, chulh, n. themthiam.
 dabble : (dabl), v.t. tuia thing, tuia theh, v.i. tui sawisa, beitham taka thil ti.
 dachshund : (dashund - dakshunt), n. ui khan hniam leh rawng sei tak chi.
 dacoit : (dakawit), n. suamhmang a rual chetla.
-dactyl : (daktil), n. zungtang, hla thua ri pathum inzui (a hmasa chu thluk sei, a zuitu pahnih chu thluk ran, Entir nan : Lengi man). dactylography, n. zungtang ze awmze chhuina, zungtang nena zaizira inbiak dan. dactylology, n. zaizira inbiak dan
+dactyl : (daktil), n. zungtang, hla thua ri pathum inzui (a hmasa chu thluk sei, a zuitu pahnih chu thluk ran, Entir nan - Lengi man).
+dactylography : n. zungtang ze awmze chhuina, zungtang nena zaizira inbiak dan.
+dactylology : n. zaizira inbiak dan
 dad : daddy (dadi), n. pa, pa te kohna.
 daddle : (dadl), v.i. pai, nghet lo taka kal.
 daff : (daf), v.i. ninhlei, infiam.
@@ -49,7 +51,7 @@ dark : adj. thim, dum, mawk, dur, duk, darken, v.i.,v.t. tithim, thim, darkness,
 darkey : nn. Negro.
 darling : n. duh tak, ngaihzawng.
 darn : v.t. phiar, thui.
-darn : v.t. anhla mawihnai deuh atana damn an hmanna (Darn it : Ho mai mai. Sawi suh. Hnawl rawh).
+darn : v.t. anhla mawihnai deuh atana damn an hmanna (Darn it - Ho mai mai. Sawi suh. Hnawl rawh).
 dart : n. hamthal, vawmbur, vawmbur nena infiamna, v.t.,v.i. per, perh, zuang. kap.
 dash : v.t., v.i. paih, theh, vawm, paih keh, chulh, tlan thut, bawh thut. dashing, adj. huai, phur, alar zawnga inchei mi.
 dastard : adj. n. dawihzep, tenawm khawpa dawihzep. dastardly, adj., adv.
@@ -115,7 +117,7 @@ dabar : (dibar), v.t., dal, khap, telh ve lo.
 debase : (debeis), v.t. tihniam, hlutna tibo, tihawlhhlawh, titlawm.
 debate : (dibeit), n.,v.t.,v.i., inhnialna, inhnial fiamna, hnial, hnial fiam, ngaihtuahho.
 debauch : (dibowchh), v.t. thlem sual, hurna kawnga kal sualtir. v.i. a lutuka thil ti. debauchery, n. nawmsipbawl luattukna, hur luattukna.
-debenture : (debenchiar), n. ziaka leibat nemnghehna, company pawisa puka in-leh-lo dahkhamna, ram dang atanga bungraw lei ram dang veka hralh chhuak lehtu hnena lak luh chhiah pek kir leh thiamna lehkha. (England atangin press khawl cheng singkhat man lei ila, India sawrkarin chhiah cheng sangnga min chawi tir sela, chu khawl chu Burma ramah hralh leh ta ila : India sawrkar chuan mi rama mi lak luh man cheng sangnga chhiah kha min pe kir leh ang).
+debenture : (debenchiar), n. ziaka leibat nemnghehna, company pawisa puka in-leh-lo dahkhamna, ram dang atanga bungraw lei ram dang veka hralh chhuak lehtu hnena lak luh chhiah pek kir leh thiamna lehkha. (England atangin press khawl cheng singkhat man lei ila, India sawrkarin chhiah cheng sangnga min chawi tir sela, chu khawl chu Burma ramah hralh leh ta ila - India sawrkar chuan mi rama mi lak luh man cheng sangnga chhiah kha min pe kir leh ang).
 debilitate : (dibiliteit), v.t. tiderthawng, tichak lo, debility, n. chak lohna.
 debit : n. leibat, hekna lam, v.t., ban, puh, hekna lama ziak lut.
 debonair : debonnire (denneir), adjs. nalh, chettlat mawi, hawihhawm.
@@ -183,7 +185,7 @@ deduct : (didakt), v.t. la chhuak, paih. deduction, n. a vantlang atanga a bik c
 deed : (did), n. thiltih, ziaka thuthlung or intiamna nemnghehna.
 deem : (dim), v.t.,v.i., ngai, ngaihruat, ring.
 deep (dip) adj. thuk : ril, muk, ruk, hniam, vei ril. adv. ril takin, n. tui thuk. deepen, v.t. tithuk, thuk tial tial. deep-sea, tuipui thuk lai. in deep water, mangang awm.
-deer : (diar), n. sazuk chi reng reng {sakhi (barking deer : sazuk bauh chi) tiamin}.
+deer : (diar), n. sazuk chi reng reng {sakhi (barking deer - sazuk bauh chi) tiamin}.
 deface : (difeis), v.t. nuai chhia, tihmelhem, nuai reh.
 defalcate : (di-,defalkeit), v.t. tlang sum vawn lai ei ru, mi pawisa kawl sak ei ru, defalcator, n. pawisa kawl eiru.
 defame : (defeim), v.t. tihmingchhia, rel, dik lo taka puh or hek, defamation (defamashn), n. intihhmingchhiatna, dik lo taka insawichhiatna, defamatory (defamatawri), adj. 
@@ -280,7 +282,7 @@ denegation : (denigeshn), n. phatna.
 dengue : (dengge), n. khawsik hri chi khat.
 denial : (dinaial), n. phatna, duh lohna, hnialna, hnawlna, hranna.
 denigrate : (dinigreit), v.t. tidum, tihmingchhia.
-denizen : n. luahtu, hmuna cheng. (The deer is a denizen of the forest : Sazuk chu ngawa cheng a ni), khua-leh-tuia lak luh hnam dang tawng chhawm hlen (Mizo pawhin 'ukil' 'rangva', 'politics', 'sipai', 'rawng', 'sahbawn', etc. hi denize-ah kan hmang tawh a ni), v.t. luahtu hmuh sak. v.i. luah, cheng.
+denizen : n. luahtu, hmuna cheng. (The deer is a denizen of the forest - Sazuk chu ngawa cheng a ni), khua-leh-tuia lak luh hnam dang tawng chhawm hlen (Mizo pawhin 'ukil' 'rangva', 'politics', 'sipai', 'rawng', 'sahbawn', etc. hi denize-ah kan hmang tawh a ni), v.t. luahtu hmuh sak. v.i. luah, cheng.
 denominate : (dinawmineit), v.t. hming vuah, hming sak sak, denomination, n. hming sakna, kohna, hming, nihna, sakhua, pawl, denominator, n. hming petu, fraction-a a nambar hnuai hnung zawk.
 denote : (dinawt), v.t. chhinchhiah hrang, awmze hril, denotate, v.t. denote nen thunhmun.
 denouement : (denuma), n. thil nihna laihlann, thuruk puan zarna.
@@ -388,7 +390,7 @@ detrument : n. kiamna, nepna, chhiatna, hekna, detrimental, adj. hek, chhia, tha
 detruncate : (ditrangkeit), v.t. tan tawi, sat sawm.
 detumescence : (ditiumesens), n. vung kianna (Daktawr thenkhat chuan zang fuk sawizawi nan pawh an hmang).
 deuce : (dius), n. lehkhaden leh thumvawr lunga chhun han pahnih awmna.
-deuce : (dius), n. ramhuai {What the deuce, (what the devil) are you ding? : Eng ramhuai in nge mawlh che.}
+deuce : (dius), n. ramhuai {What the deuce, (what the devil) are you doing? - Eng ramhuai in nge mawlh che.}
 deutero-(diutarow) n. a pahnihna : a dawt. Deuteronomy, n. Thuthlung Hlui bu hmasa ber 5-te zinga a 5-na. Thu Sawm Pek leh Exodus thu sawi nawnna chuanna.
 devalue : (divaliu), v.t. a man titlem, a hlutna tikiam. devaluate, v.t. hlutna tikiam.
 devanagari : devnagari (devnagari) nn. Sanskrit leh Hindi hawrawp.
@@ -506,7 +508,7 @@ diptheria : (diftheiria), n. hrawk na hlauhawm tak leh inkai awlsam tah.
 dipththong : (difthawng), n. vowel pahnih ri khata ri (ow,ei, etc). ae,oe.
 Diphysite : (difizait, difisait), n. Kristain Pathian leh mihring nihna a kawp tih ringtu.
 diploma : (diplawma), n. zirna lama tlinna lehkha, sartifiket, zirna lama chawmawina lehkha.
-diplomacy : (diplawmasi) n. ram leh ram inkara palai thiamna : mi biangbiak thiamna, mi cheng deh thiamna, diplomat, n. palai, palai thiam. diplomatic, adj. palai thiam, biangbiak thiam.
+diplomacy : (diplawmasi) n. ram leh ram inkara palai thiamna - mi biangbiak thiamna, mi cheng deh thiamna, diplomat, n. palai, palai thiam. diplomatic, adj. palai thiam, biangbiak thiam.
 dipper : (dipar) n. hnimtu, chiahtu, thil suahna, fian liangsei, Zangkhua (bungbu tihna ang deuh a ni).
 dipsomania : (dipsawmenia), n.zu hak hluah hluahna.
 dire : (dair), adj. rapthlak, pawi leh hlauhawm.
@@ -553,7 +555,7 @@ disconcert : (diskhawnsart), v.t. tibuai, tithilhai, awm ngaihna tihre lo, hneh.
 disconnect : (diskhawnekt), v.t. thlawn, tichar.
 disconsolate : (diskhawnsalit), adj. lunghnur, lungngai, khawhar.
 discontent : (diskhawntent), adj. lungawi lo, lungni lo, n. lungnih lohna, discontented, adj. lung awi lo, lungni lo.
-discontinue : (diskhawntiniu) v.t. : v.i. bang, bansan, titawp, chaw thlawn. discontinuance, discontinuation, nn. discontinuity (diskhawntiniuiti), n. chhumbung, thlingthawnna, discontinuous : (diskhawntiniuas), adj. thlingthlawm, chhumbung, khaihlak.
+discontinue : (diskhawntiniu) v.t., v.i. bang, bansan, titawp, chaw thlawn. discontinuance, discontinuation, nn. discontinuity (diskhawntiniuiti), n. chhumbung, thlingthawnna, discontinuous : (diskhawntiniuas), adj. thlingthlawm, chhumbung, khaihlak.
 discord : (diskhawrd), n. inrem lohna, intihbuaina, inmil lohna, ri chher, ri inmil lo,
 discordant : adj. inrem lo, inkalh, bengkhawrh. discordance, n.
 discount : (diskhaunt), n. man intlemna, man kiam zat.
@@ -628,7 +630,7 @@ dispensation : (dispenseshn), n. sem chhuahna, rorelna, Pathian min enkawlna, mi
 disperse : (dispars), v.t. hnawt darh, tin, botir. dispersal, n.
 dispirit : v.t. tilunghnual, dispirited, adj. lunghnual, ngui.
 displace : (displeis), v.t. la sawn, dah sawn, luahlan. displacement, n.
-display : v.t. tar chhuak : langsar taka tar lang, phelh darh.
+display : v.t. tar chhuak, langsar taka tar lang, phelh darh.
 displease : (displiz), v.t. tilawm lo. v.i. lawm lo, displeasure (displezhar), n. lawm lohna.
 dispose : (dispowz), v.t. sem, dah, dek ral, thehthang, awn, thlek. disposal, (dispowzal), n. remruatna, semna, enkawlna, remruatna. disposed, adj. awn, achhia or tha lam awn.
 disposure : (dispowzhar), n. disposal.
@@ -696,9 +698,10 @@ divination : (divineshen), n. thil lo thleng tur sawi lawkna.
 divinity : (diviniti), n. pathianna, pathian, van mi.
 division : (divizhan), n. semna, inthenna, daidanna, daidangtu, a them, a khing, vote lat, ram bial khat, sipai pawl khat thawmhnawa mahni intodelh thei (dan naranin army khat chanve zat), ngaihdan inpersanna. divisible (divizibl), adj. sem theih, then theih.
 divisional : (divizhanal), adj. division of labour, hna sem, zaina.
-divorce : (divawrs), n. nupa inthenna, v.t. nupa tang then, then (divorced of : nei lo, pai lo, inhnamhnawih lo). divorcee (divawrsi), n. nupa inthen.
-divulge (daivalj : divalj), v.t. lailang, puangzar.
-divulsion (daivalzhn : divalzhn), n. pawh darhna, pawh thenna.
+divorce : (divawrs), n. nupa inthenna, v.t. nupa tang then, then (divorced of - nei lo, pai lo, inhnamhnawih lo).
+divorcee : (divawrsi), n. nupa inthen.
+divulge : (daivalj), v.t. lailang, puangzar.
+divulsion : (daivalzhn), n. pawh darhna, pawh thenna.
 dixie : (diksi), n. sipai bel dar, dekchi.
 dizzy : (dizi), adj. lu hai, lu haithlak. dizziness, n.
 do : (du), v.t., ti thawk, zo, hlen, cheibawl, buatsaih, v.i. tlak, tawkfang, do away with, tiral, tihlum. do in, that, bum. do to death, that. do up, suih nghet, thian fihlim, hah hnawp. do with, chhawrbawk, ninhleipui. do without, nghei, tel lova khawsa.
@@ -812,7 +815,7 @@ drift : n.. thil nawi khalh khawm. hnawl, thil len khawm, kalna lampang, thli le
 drill : v.t. verh, sipai insawizawitir, sipai lamtir, n. thil verhna, insawizawina, a tlar pawnga thlai chinna.
 drink : (dringk), v.t., v.i. in, hip lut, zu in, drank, drunk, (drangk), pa.t. in tawh, zu rui.
 drip : v.i. far, dir.
-drive : (draiv), v.t. khalh, thu fah lui. {tenses : drive, drove, driven (drivn)}. drive, n. motor ilo khalh luhna hung chhung kawng, intur thutna. hnathawh chakna, beihrual.
+drive : (draiv), v.t. khalh, thu fah lui. {tenses - drive, drove, driven (drivn)}. drive, n. motor ilo khalh luhna hung chhung kawng, intur thutna. hnathawh chakna, beihrual.
 driver : n. khalhtu.
 drivel : (drivl), v.i. chilthli thlauh, mi chhaw nih, atthlak taka tawng.
 drizzle : (drizl), v.i. ruah si seng seng.
@@ -832,7 +835,8 @@ drudge : (draj), v.i. hna ninawm thawk, n. hna ninawm thawktu, bawi, chhiahhlawh
 drug : (drag), n. damdawi bawlhlo, damdawi ruih theih chi. v.t. drug nena hrai rui, kani rui. drug-addict, drug-fiend, nn. kani or opium ngai.
 Druid : (druid), n. hmasang Britain, France leh Germany-a an puithiam pawl.
 drum : (dram), n. khuang (khuang hmelhmang pu bawm chi reng reng. petrol drum, etc.), bengling, v.t.,v.i. khuang vua, hrilh nawn chhen, drumhead, n. khuang vun, zikhlum per chi. drum-major, n. sipai band tumtu pawla a hruaitu. drummer, n. khuangpu.
-drunk (drungk) : adj. zu rui. drunkard : n. zu ruih hmang, drunken, adj. zu rui.
+drunk : (drungk), adj. zu rui.
+drunkard : n. zu ruih hmang, drunken, adj. zu rui.
 dry : (drai), adj. ro, hul, tuihal, rakzu, Sap zu hau, zu khapna hmun, ngaihnawm lo, a elsen zawng. v.t.,v.i., pho ro, hul. drily, dryly, advs. dry-clean, v.t. tui hmang lova su fai. dry-cell (draisel), n. battery hul (battery tam tak hi chu tui leh acid leih fo a ngai a ni.) dry-dock, lawng chawlhna hmuna tui paih hul theih. dry-eyed, adj. mittui hul. dry-nurse, n. mahni hnute hnektir lova naute awmtu go dry, zu khap.
 dual : (diual), adj. a kawp, pahnih, kalpui.
 dup : (dab), hming vuah sak, nihna siam sak.
