@@ -181,7 +181,7 @@ Carnivora : (karnivawra), n. ramsa zinga sa ei chi. carnivorous, adj. sa ei chi.
 carol : (karawl), n., v.i. hlimna leh fakna hla (sa). v.t. hlaa fak.
 carouse : (karauz), n. zu tam tak inna, zu chenna. v.i. zu nena bengchheng taka hlimna siam, carousal, n. carouse.
 carp : (karp), v.i. thil tenau sawisel, dik lohna chhe te pawh lai lang zel.
-carpal : (karpal), adj. banrek thil (carpal hair : banrek hmul), n. banrek ruh.
+carpal : (karpal), adj. banrek thil (carpal hair - banrek hmul), n. banrek ruh.
 carpenter : n. thing lampanga thil siam mi, thing mistiri. carpentry, n. carpenter hna.
 carpet : (karpet), n. chhuat phah, lei dapa pangpar chin, v.t., carpet nena khuh. 
 carpet-bag : n. zin ip (carpet-a siam). 
@@ -258,7 +258,7 @@ cathedral : (kathidral), n. biak in pui (dan naranin bishop awm na).
 catheter : (kathetar), n. zun siak chhuahna thelret dawt.
 catholic : (kathawlik), adj. khawvel huap, mi tin huap, Kristian sakhuana kengkawh, huang zau, Roman Katholik Kohhran thil.
 catle : (katl), n. ran (dan naranin bawng lam chi; mahse sakawr leh beram sawi nan pawh an hmang).
-caucus : (kawkas), n. mei lam thil. (coudal hair : mei hmul).
+caucus : (kawkas), n. mei lam thil. (coudal hair - mei hmul).
 cauldron : (kawldrawn), n. thil chhuan sona ketli hrawl tak, tui chhuanna bel lianpui.
 cauliflower : (kawliflaur, kawliflauar), n. parhlawm, parbawr.
 caulk : calk (kawk), v.t. tuizem, lawng, etc., a tui puh thieh loh nana a thui zawmna laia hrui kilh hnan.
@@ -370,7 +370,7 @@ chanter : n. hla satu, zaipawl hruaitu, bazaa a thluk sakna kuang.
 chaos : (keows), n. mumal lohna, buai nuai nuaina. chaotic, adj.
 chap : (chhap), n. mi tuemaw, pa. 
 chapie : (chhapi), n. thian pa te nel taka kohna.
-chap : (chhap) n. khabe : biang, heh rep.
+chap : (chhap) n. khabe - biang, heh rep.
 chapel : (chhapel) n. biak in, tawngtaina pindan.
 chaperon : (shaperawn), n., v.t., hmeichhe naupang zahawm taka chawm liantu hmeichhia, chutianga chawm lian.
 chaplain : (chhaplin), n. lawng, sipai pawl, vantlang ho khat leh chhungkaw mal te'na puithiam pual bik an rawih.
@@ -391,9 +391,9 @@ charivari : (sharivari), n. buaina nena lungnih lohna lantirna.
 charlatan : (sharlatan), n. thu tak fun si lova tawngka ringawta insawi milian a der, tidertu.
 charm : (chharm), n. aizial, aikaih. zel, ai neia an chhal tlereuh awrh leh bun chi, nungchang duhawmna, mi hip theihna. v.t. aizial, mi hip, mi tilawm.
 chart : (chhart), n. ram leh tuipui lem, kawng zawn nana ram leh tuipui lem ziah, thil hming ilo ziak thlithlaina phek, v.t. ram lem ziak or chhui.
-charter : (chhartar), n. nihna leh chanvo nemnghehna thu ziak, thuthlung, neitu inthlak dawna thuthlung ziak, voh bik nihna. v.t. charter nena thlung, pawisa chawia mahni puala lawng, thlawhna leh zin velna hmanraw hawh. (The king flew in a chartered plane : Lalber chu ama puala thlawhna ruat bikah chuan a thlawk a).
+charter : (chhartar), n. nihna leh chanvo nemnghehna thu ziak, thuthlung, neitu inthlak dawna thuthlung ziak, voh bik nihna. v.t. charter nena thlung, pawisa chawia mahni puala lawng, thlawhna leh zin velna hmanraw hawh. (The king flew in a chartered plane - Lalber chu ama puala thlawhna ruat bikah chuan a thlawk a).
 chary : (chhera), adj. renchem, fimkhur.
-chase : (chheis), v.t. um, sa pel, hnawt bo. n. inumna, sa pel, sa hnu chhui. wild-goose chase : n. thil beisei phak loh tur umna.
+chase : (chheis), v.t. um, sa pel, hnawt bo. n. inumna, sa pel, sa hnu chhui. wild-goose chase - n. thil beisei phak loh tur umna.
 chasm : (kazm), n. kua, lei chat, thil khi or kak, leilawt.
 chassis : (shasi), n. motor leh tawlailir taksa pum innghahna ruangam.
 chaste : (chheist), adj. nungchanga thianghlim, thinlung thianghlim, nula/tlangval la ngai lo, pawlpui la nei lo, hnahkhat. chastity, n. hurna laka fihlim or thianghlim.
@@ -408,7 +408,7 @@ chauffeur : (showfar), n. mi hausa lenvahna motor khalhtu.
 chauvinism : (showvinizm), n. mahni ram chhuang lutuka ram dang hmusitna.
 cheap : (chhip), adj. man tlawm, tenau, ho, cheapen, v.t. man leh hming tihniam or titlawm.
 cheat : (chhit), v.t. bum, n. bumhmang.
-check : (chhek), v.t. tiding, chelh, dang, hau, endik, chik, fiah, ze killi tam taka tial (check shirt : kamis dungleh vang zawnga ze tial nei), n. chess khelhnaah chuan a lal vauna, tihdinna, danna, thil hming ziah tlara duh zawng zawng chhinchhiahna thai hi, pawisaa chantir theih lehkha thupek (dan naranin 'cheque'), ze killi nei insi that. checkmate, n. chess khela a lal dan tawngkhawngna.
+check : (chhek), v.t. tiding, chelh, dang, hau, endik, chik, fiah, ze killi tam taka tial (check shirt - kamis dungleh vang zawnga ze tial nei), n. chess khelhnaah chuan a lal vauna, tihdinna, danna, thil hming ziah tlara duh zawng zawng chhinchhiahna thai hi, pawisaa chantir theih lehkha thupek (dan naranin 'cheque'), ze killi nei insi that. checkmate, n. chess khela a lal dan tawngkhawngna.
 checkers : (chhekarz), n. draught (draft) infiamna.
 cheek : (chhik), n. biang, kawngka biang, zahtheih lohna. cheeky, adj. zakthei lo, luhlul.
 cheer : (chhir), n. rilru put dan, hlimna, rawl nena lawmpui or fuihna, inlawmna, v.t. hnem, fuih, inlawmna, v.t. hnem, fuih, lawm, lawmpui. 
@@ -416,7 +416,7 @@ cheerful : adj. hlim, lawm (cheery an ti bawk) cheerly, cheerfully. advs.
 cheese : (chhiz), n. Sap saum kan tih mai, bawnghnute khal atanga thingfanghma phel hmel ang tak thil khal an siam.
 cheetah : (chhita), n. keite chi khat (ramsa zinga tlan chak bera an sawi).
 chef : (shef), n. chawchhum or eisiam hotu ber.
-cheiromancy : (kairawmansi), n. kutze en. (Grik, cheir : kut. manteia : hrilh lawkna).
+cheiromancy : (kairawmansi), n. kutze en. (Grik, cheir - kut. manteia - hrilh lawkna).
 chemise : (shemiz), n. hmeichhe kawrhnuai.
 chemistry : (kemistri), n. leilung thil reng reng hi eng atang leh eng anga siam nge tia chhuina. chemical, adj.
 cheque : (chhek), n. pawisaa chan theih lehkha, pawisa lakna lehkha. (chek an ti bawk)
@@ -468,7 +468,7 @@ choice : (chhawis), n. thlanna, duh zawk thlanna, a tha ber. adj. thlan nahawm.
 choir : (khuair), n. zaipawl, biak ina zaipawl awmna hmun.
 choke : (chhawk), v.t. rek, inhnawh tawt, thow thei lova siam.
 choler : (kawlar), n. pumpui aikal, thinurna, thinchhiatna. choleric, adj. thinchhia.
-cholera : (kawlara) n. tuihri : choleraic (kawlereik), adj.
+cholera : (kawlara) n. tuihri. choleraic (kawlereik), adj.
 choose : (chhuz), v.t. thlang, chose (chhawz), pa.t of choose.
 chop : (chhawp) v.t. tan, tan chhum, chek, ek, chan sawm, n. chhumbung, thil tan chhum, kel or beram or vawksa hrang (a nak ruh telin).
 chopsticks : (chhawpstiks), n. China hovina thirfian leh thirkut aia chaw ei nana an hman Mau hmawlh kawp khat.
@@ -505,9 +505,9 @@ chubby : (-chhabi) adj. chum, chawm, bing.
 chuck : (chhak), n. arpui tuk ri, ar, koh duatna, v.i. tuk
 chuck : (chhak), v.t. paih theh.
 chuckle : (chhakl), n., v.i. nui heuh heuh, arpui tuk arpui note koh anga ko (a-a a, chiuhiah, etc.)
-chum : (chham), n. thian kawmngeih tak. chummy : adj. nelawm, kawm nuam.
+chum : (chham), n. thian kawmngeih tak. chummy, adj. nelawm, kawm nuam.
 chump : (chhamp), n. thingtum lu lam.
-chunk : (chhangk), n. thil chhum bung hrawl tak. (cut off a chunk of mat : sa hrang hrawl tak hlep thla).
+chunk : (chhangk), n. thil chhum bung hrawl tak. (cut off a chunk of mat - sa hrang hrawl tak hlep thla).
 church : n. biak in, Kristian kohhran, kohhran khai dingtute (pastor, puithiam etc.)
 churchyard : n. biak in hung chhunga thlanmual. Church militant, n. leia sual do lai mek kohhran.
 Church triumphant : n. vana kohhran sual hneh tawha vana cheng.
@@ -531,7 +531,7 @@ circuit : (sarkit), n. a hualtu kawng, aveltu kawng, electric kalna, zau lam, zi
 circuitous : (sarkhiutas), adj. kual, kikawi.
 circular : (sarkhiular), adj. bial, kual, n. mitam tak hnena hriattirna thawn darh.
 circularise : v.t. thawn darh.
-circulate : (sarkhiuleit), v.t., v.i. kal kualtir, heltir, tai darh, thawn darh, circulation, n. kal kualna, thil theh darh, lehkhabu or chanchinbu theh darh or hralh zat, ram chhunga pawisa hman lai (The annas is no more in circulation : Hna khat hman a ni tawh ngai lo.) circulatory, adj.
+circulate : (sarkhiuleit), v.t., v.i. kal kualtir, heltir, tai darh, thawn darh, circulation, n. kal kualna, thil theh darh, lehkhabu or chanchinbu theh darh or hralh zat, ram chhunga pawisa hman lai (The annas is no more in circulation - Hna khat hman a ni tawh ngai lo.) circulatory, adj.
 circumambient : (sarkamambient), adj. a vel thil, hualtu.
 circumambulate : (sarkamambiuleit), v.t. vak kual, kal kual, hel.
 circumcise : (sarkamsaiz), v.t. serhtan, zang hmur tan. circumcision, n.
@@ -572,7 +572,7 @@ clamber : ( khlambar), v.i. harsa taka lawn, kutke chhawra lawn.
 clamour : (khlamar), n., v.i. ring leh rei taka au, ri hulh hulh, bengchheng taka ngen, clamrous, adj. bengchheng.
 clamp : (khlamp), n. thingphek ilo kilh zawmna hmanrua, thil cher khawmna or cher nghehna. v.t. clamp nena cher.
 clan : (khlan), n. hnam, chi, rual khat, ho khat, pawl khat.
-clandestine : (khlandestin), adj. aruk a rala thil tih (His wife indulged in a clandestine love affair : A nupui chuan a rukin tlangval a nei.)
+clandestine : (khlandestin), adj. aruk a rala thil tih (His wife indulged in a clandestine love affair - A nupui chuan a rukin tlangval a nei.)
 clang : (khlang), v.i., v.t. ri tlang tlang, ri val val, thir leh thir intauh ri anga ri chhawr chhawr.
 clank : (khlangk), n. clang aia ri zawi leh ri tawi deuh, khaidiat paih ri anga ri chhek chhek.
 clap : (khlap), n., v.t., v.i., vuak thut, ben thut, kut beng (ri), khung thut.
@@ -789,7 +789,7 @@ commerce : (kawmars), n. sumdawnna, sumdawn awnna, n. zawmna. commercial, adj.
 commingie : (kawminggl), v.t., v.i., fin, zinga chetla, inpawlh.
 commiserate : (kawmizareit), v.t. tuarpui.
 commissary : (kawmisari), n. thuneihna dawngtu, police hotu, sipai pawla rowsawt semtu officer.
-commission : (kawmishn), n. mawhphurhna, inpekna, thil (sual) tih, thuneihna, inpekna, mi ai awhna, thil intihsiak tura thupek, (lawng, khawl, motor, etc.) hna thawk thei mai tura inpeih. (The ship was in commission : Lawng lian chu chhawr theihin a awm), mi sumdawn saka ei ve zat. v.t. commissionner, n. sawrkar aiawha ram bial khat awptu.
+commission : (kawmishn), n. mawhphurhna, inpekna, thil (sual) tih, thuneihna, inpekna, mi ai awhna, thil intihsiak tura thupek, (lawng, khawl, motor, etc.) hna thawk thei mai tura inpeih. (The ship was in commission - Lawng lian chu chhawr theihin a awm), mi sumdawn saka ei ve zat. v.t. commissionner, n. sawrkar aiawha ram bial khat awptu.
 commit : (kawmit), v.t. hlan, kawltir, thil tisual, tiamkam, inhnamhnawih, commitment, n. lung in tantirna thupek, tanna, thil ti tura intiamna. committal, n. commitment, committee, n. mi tam zawk aiawha thu rel tura inkhawm.
 commix : (kawmiks), v.t. chawhpawlh.
 commodious : (kawmowdias), adj. remchang, zau tawk, thawl, commodity, n. zawrhsum.
@@ -828,7 +828,7 @@ complaisant (kawmplesant : kawmplezant), adj. hawihhawm, tawh awlsam, phungthlu,
 complement : (kawmpliment), n. tikhattu, tibikimtu, tipuitlingtu. complemental, adj. tikim thei. complementary, adj. phuhruk thei.
 complete : (kawmplit), adj. kim, famkim, v.t. peih, tizo, siam zo. compltion, n.
 complex : (kawmpleks), adj. chipchiar, buai, hnawk, harsa. n. thil chipchiar tak hlawm khawm, rilru put dan, khawvel en dan, (Superiority complex - Mi aia chungnunga inngaihna, Inferiority complex - Mi hnuaihnung zawka inngaihna. Rilru hniamna), complexity, n. chipchiar dan.
-complexion : (kawmplekshn), n. vun or hmai vun rawng, hmel hmang, hmel, (Fair complexion : Ngo.)
+complexion : (kawmplekshn), n. vun or hmai vun rawng, hmel hmang, hmel, (Fair complexion - Ngo.)
 compliance : (kawmplaians), n. thu awih theihna, mi thu zawmna, compliant, adj. thu awih thei, hmin awlsam, thunun awlsam.
 complicate : (kawmplikeit), v.t. tihnawk, tibuai, tichipchiar, complicacy, complication, nn. buai leh hnawkna, khirhkhanna, a hnawk zawnga inkaihhnawih belhchhahna, natna inbelhchhahna.
 compliment : (kawmpliment), n. fakna, inzahderna thiltih, fakderna, v.t. mi fakder, mi
@@ -957,7 +957,7 @@ conspisuous : (kawnspikiuas), adj. langsar.
 conspire : (kawnpair), v.i., v.t. phiar, phiarru, ruahman, duang. conspiracy (kawnspirasi), n. phiarrukna, conspiration, n. conspirator, n. phiarrutu.
 constable : (kawnstabl), n. police, constabulary, n. naupang pawl.
 constant : (kawnstant), adj. nghet, danglam thei lo, chatlak lo, rinawm, constancy, n.
-constellate : (kawnsteleit), v.t. bawrkhawm, constellation, n. arsi rual khat, mihring ho khat. (Ursa Major is a constallation : Zangkhua khi arsi rual khat an ni).
+constellate : (kawnsteleit), v.t. bawrkhawm, constellation, n. arsi rual khat, mihring ho khat. (Ursa Major is a constallation - Zangkhua khi arsi rual khat an ni).
 consternate : (kawnstarneit), v.t. timangang, tihrilhhai, consternation, n. manganna, hrilhhaina, buai chi-aina.
 constipate : (kawnstipeit), v.t. hnawh phui. constipation, n. ek khatna, ek khal, ek theih lohna.
 constitute : (kawnstitiut), v.t. siam, din, chang, ni, induang. constituency, n. inthlanna bial khat chhung. constituent, adj., n.. insiam, induang, inruahman, a peng, a mur, them pawimawh tak, constition, n. taksa kalhmang, rilru thlek dan, ram rorel dan tlangpui, ram inkaihhruaina dan zam. constitutional, adj. a ruangama awm ve reng, dan pangngai ang ram dan zui, dan dik, n. insawizawi nana lenvah.
@@ -1086,7 +1086,7 @@ corrigendum : (kawrijendam), n. siam that or tihdik ngai. corrigenda, pl.
 corrigent : (kawrijent), adj. tidik thei.
 coroborate : (kawrowbawreit), adj., v.t. nemnghet, tichiang, nemngheh.
 corrode : (kawrowd), v.t., vi. eichhia, seh chhia, tuiek. corrosion, n. corrosive, adj.
-corrugate : (kawrugeit), v.t. cchuar (corrugated iron sheets : rangva gol nei, corrugation, n.
+corrugate : (kawrugeit), v.t. cchuar (corrugated iron sheets - rangva gol nei, corrugation, n.
 corsage (kawrsij : kawsazh), n. hmeichhe kawrhnuai, hmeichhe kawr kawng rek lai.
 corsair : (kawrseir), n. hmelma lawng suam tura ruat lawng, chutiang lawng hotu chu, suamhmang lawng, lawng suamhmang.
 corse : (kawrs), n. hla thua corpse.
@@ -1219,7 +1219,7 @@ cripple : (kript), adj., n. kuttual leichham, keibai, v.i. tisilawng.
 crisis : (krisis), n. hun pawimawh lai tak, hun inher danglam lai tak, hun khirh lai, crises (khraisiz), pl. of crisis.
 crisp : (khrisp), adj. kir, ro ram, ram, tharlam, ruh.
 criss-cross : (khriskhrows), n., v.t., v.i., rin inkawkalh, thil kawkalh, thil vawi tam intan tlang, bial leh x nena rin pali inkawkalh kara ziak tlar tluan tuma infiamna.
-criterion : (kraiterian), n. tehkhawng, tehna, entawnna, khaikhinna, (plural : kraiteria).
+criterion : (kraiterian), n. tehkhawng, tehna, entawnna, khaikhinna, (plural - kraiteria).
 critic (kritik) n. mi kutchhuak that leh that loh endik thiam or endiktu : sawiseltu, critical, adj. hun pawimawh lai, thil ngaihtuahawm lai tak, sawi selna thil, endik lai thil, sawisel hmang. criticise (kritisais), v.t. a hlut dan sawi, sawisel, critisizm, n. chik taka thil endikna, sawiselna.
 croak : (krawk), v.i. thum leh chher taka hram (chungu hram), teng taka hram.
 crochet (krowshe) n. phiarkawm.
@@ -1258,7 +1258,7 @@ crucify : (khrusifai), v.t. khengbet, nghaisa.
 crude (khrud) adj. phawk : mawl, la chei that loh, chei mam loh.
 cruel : (khruel), adj. nunrawng. cruelty, n.
 cruet : (khruit), chawei dawhkana hmui hmer dip dahna bur te.
-cruise : (khruz) v.i. lawng kar : lawnga vei vak,chak lutuk lo leh zawi lutuk lova kal or thlawk (cruising speed, kal dan or thlawh dan pang ngai tluka chak).
+cruise : (khruz) v.i. lawng kar - lawnga vei vak,chak lutuk lo leh zawi lutuk lova kal or thlawk (cruising speed, kal dan or thlawh dan pang ngai tluka chak).
 cruiser : n. indo lawng lian (battle ship) leh lawng te (destroyer) inkara mi, indo lawng laihawl.
 crumb : ( khram), n. chhang nawi, ningnawi, buhmal, chhang hnip lai.
 crumble : (khrambl), v.i., v.t. kehchhia, tinawi.
@@ -1272,7 +1272,7 @@ crust : (khrast), n. hawng, pil, kawr, chhangthawp pawn lam (a ut lai), lei pawn
 crustecea : (khrashteshia), n. kaikuang leh chakai leh tuia cheng chi thil nung chi tam tak khai khawmna hming.
 crutch : (khrachh), n. kebaite tiang zak do, thil dona.
 crux : (khraks), n. kros, thil khirhkhan tan, thil pawimawhna lai tak.
-cry : (khrai), v.i.,v.t.,n. tap, hram, awih tuar, ring taka sawi, a huhova ngenna, au hla, hming chhalna : (war-cry, battle-cry), ral beih laia hming chhal). crier, n. tlangau. crying, adj. ring taka koh, ngaihsak ngiat. a far cry, inkarhlat.
+cry : (khrai), v.i.,v.t.,n. tap, hram, awih tuar, ring taka sawi, a huhova ngenna, au hla, hming chhalna - (war-cry, battle-cry), ral beih laia hming chhal). crier, n. tlangau. crying, adj. ring taka koh, ngaihsak ngiat. a far cry, inkarhlat.
 crypt : (khript), n. lei hnuaia pindan or chapel. cryptal, adj. cryptic, adj. biru, thuhruk, hmuh thiam har, hriat thiam loh a ruka tih.
 cryptogam : (khriptowgam), n. thing leh hnim par lo chi. cryptograph, n. awmze ruk neia thil ziak.
 crystal : (khristl), n. lung kara darthlalang anga fim rilh relh inzep ve, thal, adj. crystal ang. crystalline (-lain, -lin), adj. crystal ang, crystal thil, crystallise, v.t. crystal-a chang, lang chiang.
