@@ -17,7 +17,7 @@ gain : (gein), v.t. hlep, hlawkpui, hlawh, man, hneh, thleng. n. hlep, hlawh.
 gainsay : (geinsel), v.t. kalh, hnial kalh pha.
 gait : (geit), n. kal zawnga sukthlek dan.
 gaiter : (geitar), n. kerek zem, ke rek khuhna.
-gala (gela : gala), n. hlimhlawpna, intihhlimna, huau huau, galadress, n. huau huau tuman inchei lerna/inchei makna.
+gala : (gela, gala), n. hlimhlawpna, intihhlimna, huau huau, galadress, n. huau huau tuman inchei lerna/inchei makna.
 galaxy : (galaksi), n. thlasik kawng, arsi rual, mi ropui fuan khawm.
 gale : (geil), n. thlipui satliah (thli chhe tling lo deuh).
 Galilean : (ghlian), adj. Galili (Galilee) thil, Italy mi chhiarkawp thiam Galileo chungchang, n. Galili mi, Kristian.
@@ -31,7 +31,7 @@ galley-slave : n. galley lawng kartu atana sal man, lawng kartu bawih.
 Gallic : (galik), adj. Gaul chungchang, France ram thil.
 gallimaufry : (galimowfri), n. chawhchawrawi.
 gallivant : (galivant), v.i. theuleu, ler, lepler.
-gallon (galan : galawn), n. thil tuiril tehkhawng, quarts 4 dawng (tui ser nga dawng vel).
+gallon : (galan, galawn), n. thil tuiril tehkhawng, quarts 4 dawng (tui ser nga dawng vel).
 gallop : (galawp), v.i., n. a chak thei ang bera tlan, sakawr tlan, sakawr kawdawm.
 galloway : (galowuei), n. sakawr te chi sa nghet tak, ramsa ki nei lo chi khat.
 gallows : (galowz), n. mihring khai hlumna thing dawh.
@@ -42,7 +42,7 @@ galavanism : (galavanizm), n. electric tha kal lai, kawlphe hnathawh. galvanic, 
 galvanise : v.t. electric-a dep, tiphu zawr zawr, galvanometer, n. kawlphe hnathawh tehna sana, galvanised iron, n. zinc nena thir tui luan.
 gambit : n. chess khela chan tha zawk uma a tira mahni sa eitirna, mi biuak dawna intlawhkhalna, insakhithingchunglawn.
 gamble : (gambl), v.i.,v.t. pawisa inchawi, pawisa inkhel, thum vawr, paih ral, n. vanneih palh ringa thil tihna, gambler, n. pawisa inkhel mi, gambling, n. pawi inkhelna.
-gambol (gambl : gambal), v.i., thau khawh, zuang, lim, hlim vanga zuang.
+gambol : (gambl, gambal), v.i., thau khawh, zuang, lim, hlim vanga zuang.
 game : (geim), n. infiamna, intihsiakna, infiamna or inkhelhnaa tlinna zat, fiamthu, thil zawn lai or um lai, veh chi or pel chi ramsa leh sava reng reng. adj. ramsa pel chungthu, tlawmngaithei, v.t.,v.i. pawisa khel. gamecock, n. insual tura vulh bik arpa. gamekeeper, n. ramsa pel tur chi vengtu or humhalhtu or enkawltu gamesome, adj. fiamthu suh. gaming, n. pawisa inkhelna. make game of, nuihzabura hmang, play the game, dik taka thil ti, fet lova ti, the fame is up, in thil tum or in thil phiar ruk chu a tlawlh or thawn ta.
 gamma : (gama), n. Grik hawrawpa a pathumna. gamma rays, a tom zung chi khat.
 gamut : (gamat), n. solfaa a aw hniam leh sang inkar, a hniam leh sang lama aw tlin tawk, huan (huang), theih chin tawk.
@@ -58,7 +58,7 @@ goal : goaler (jeil),-ar), nn. hman laia jail leh jailer an spell dan.
 gap : n. kua, awng, kal tlangna, khaihlaknna, karlak, kar awl.
 gape : (geip), v.i. ang, ham, ka ho, kaw huau, awng huau, n. an zau theih ang ber. the
 gapes : ka ang zawnga phungzawla tlukna, ar hrawka rulhut a inhnawh vanga an an vak vakna hri.
-garage (garij : garazh), n. motor dahna in, motor siamna in.
+garage : (garij, garazh), n. motor dahna in, motor siamna in.
 garb : (garb), n. inchei dan, incheina, thuam, v.t. thuam, chei.
 garbage : (garbij), n. hnawmhnawk, bawlhhlawh, saa a tawphnawk, hnephnawl.
 garble : (garbl), v.t. a chhuanchhe zawnga kaih sawih atana lehkhabu atanga thu chang thlan chhuah, la kawi, la kikawi.
@@ -73,11 +73,12 @@ garment : n. kawr, thawmhnaw.
 garner : (garnar), v.t. fawm khawm, chhek khawm, n. buh in, chhek in.
 garnish : v.t. chei, a sehhmeh or chawhmeh or behbawm nena chhawp, n. chawhmeh.
 garrison : (garisn), n. kulh nghaktu sipai, kulh.
-garrulous (garulas : gariulas), adj. tawng thei, dangnal, kamtam, tawngcheh.
+garrulous : (garulas, gariulas), adj. tawng thei, dangnal, kamtam, tawngcheh.
 garter : (gartar), n. mowza hrenna. Knight of the Garter, British pasaltha sang ber.
 garth : n. tual hung bik, khar, ngawi.
-gas : n. boruak chi hrang hrang, tui hu, (America ramah chuan) petrol gaseous (gasias
-gesias : gezias), adj. gas ang. gasmantle, n. pentromax khawnvar phungsahmim. gas-mask, n. boruak rimchhe laka invenna hmaithingkawr. step on the gas, motor tichak sauh.
+gas : n. boruak chi hrang hrang, tui hu, (America ramah chuan) petrol gaseous (gasias)
+gesias : (gezias), adj. gas ang. gasmantle, n. pentromax khawnvar phungsahmim. 
+gas-mask : n. boruak rimchhe laka invenna hmaithingkawr. step on the gas, motor tichak sauh.
 gash : n., v.t. hliam kak thuk, thuk taka tikak.
 gasp : v.i. thow hlawp hlawp, thow ip, v.t. thawk harsa ti chunga sawi, n. thawk hlawp hlawp, thawk harsa.
 gastric : (gastrik), gastral, adjs. pumpui thil. gastritis (gastraitis), n. pumpui natna.
@@ -113,7 +114,8 @@ Gemini : (geminai), n. arsi thiang (unau anga an chhal).
 gendarme : (zhowdam), n. French sipai police.
 gender : (jender), n. a nu leh pa thliarna.
 gene : (jin), n. chia pianphung leh ze inthlah chawnna.
-geneology (jinialowji : jenialowji), n. chhungkaw thlahtute or thlah te chhuina. geneologist, n. thlahtu chhuitu.
+geneology : (jinialowji, jenialowji), n. chhungkaw thlahtute or thlah te chhuina.
+geneologist : n. thlahtu chhuitu.
 general : (jeneral), adj. a tlangpui, a bik ni lo. huang chin nei lo. a tlanglawn, inzawn or inmil thuak, a puipa ber (Secretary-General, etc.) n. sipai hotu ber, hotu. generalise, v.t. pawngpow vai hmer. generalissimo, (jeneralisimow), n. sipai hotu ber. generally, adv. a tlangpui thuin, dan naranin, generalship, n. general nihna, sipai ho thiamna.
 generate : (jenereit), v.t. siam, tinung, awmtir, nunna pe, din, hring chhuak, generation, n. siamna, inthlah chawnna, thangkhat leh, thlah, thlah khat, chhuan, tuchhuan. generator, n. siamtu, tichhuaktu, awmtirtu, boruak chi hrang hrang siamna, kawlphe siamna khawl.
 generci : See genus.
@@ -128,7 +130,7 @@ genre : (zhowur), n. chi, thu phuah kalhmang, lemziak dan chi khat.
 gent : (gent), n. gentleman kaihtawi.
 genteel : (jentil), adj. nungchang mawi, awm dan dik leh zahawm, (Tun lai hi chuan a elsen zawnga mi phungthlu lutuk sawi nan an hmang ber).
 gentile : (jentail), n. Juda hnam ni ve lo tawh phawt chu, jentail.
-gentile : (jentl), adj. zaidam ngilnei, nunnem, dim thiam, hret (gentle slope :awihtlan).
+gentile : (jentl), adj. zaidam ngilnei, nunnem, dim thiam, hret (gentle slope -awihtlan).
 gentility : n. nungchang mawina, pianphung duhawm, hawihhawmna. gentlefolk, n. chhungkaw zahawm. gentleness, n. zaidamna, nunnemna.
 gentleman : (jentlman), n. pa, pu, pa zahawm, pa awm dan mawi. gentlemen's agreement, rinawmna ringawt denchhena intiamna.
 gentry : (jentri), n. mi challang leh zahawm chin.
@@ -147,20 +149,20 @@ Georgian : (jawrjian), adj. British lalber (George-a te hun lai thil, Russia leh
 germ : (j-), n. thil nung te leh mawl ber pawl, chi lei hrik, natna hrik, thil to tur saingho.
 germicide : n. natna hrik that thei bawlhlo. germinate, v.i. tiak, to, saingho tan, kingha, laiking ha.
 german : (garman), jermane (jarmein), adjs. a ber, inkungkaih. germane, adj. kawk, chungthu, kaih hnawih.
-gerrymander (gerimandar : jerimander), v.t. mahni politics pawl hmakhaw thlirna inthlanna bial siam danglam or vote thlakna hmun ruat sawn, a bawplawk leh a ni lo zawnga thudik kai sawi.
+gerrymander : (gerimandar, jerimander), v.t. mahni politics pawl hmakhaw thlirna inthlanna bial siam danglam or vote thlakna hmun ruat sawn, a bawplawk leh a ni lo zawnga thudik kai sawi.
 gest : gests (gest), n. chet danhmang.
 gestapo : (gestapow), n. German ram mipui enthlatu polcie pawl ruk.
 gestation : (jesteshn), n. no pai, nau pai, gestation period, no/nau pai chhung/chen.
 gesticulate : (gestikhiuleit), v.i. zaizir chiam.
-gesture (jestiar : jeschhar), n. mahni rilru lantir nana zaizir, inzahderna thiltih.
+gesture : (jestiar, jeschhar), n. mahni rilru lantir nana zaizir, inzahderna thiltih.
 get : v.t. nei, la, ti, man, inpu. v.i. thleng. get ahead, get along, kal rawh, hma lam pan rawh. get at, ban, thleng, hmu. get away with, hrem tuar lova tumtlakpui, fihlimpui. get over, tuar khawchhuak, get up, tho.
-geyser (gezar : gaizar, gizar), n. tlang kang hnathawh anga lei atanga tui lum or so or tuihu lo irh chhuak.
+geyser : (gezar, gaizar, gizar), n. tlang kang hnathawh anga lei atanga tui lum or so or tuihu lo irh chhuak.
 ghastly : (gastli), adj. mitthi ang, rapthlak.
 ghat : n. lawng kaina, ruang halna hmun (Vai tawng).
 ghee : (gi), n. giu, bawnghnute hriak (Vai tawng).
 ghetto : (getow), n. Judo-ho-awm-na veng.
 ghost : (gowst), n. thlarau, a ang riai ruai, a lem, hmuithla, give up the ghost, thi, chat thla.
-ghoul (gu : gaul), n. ruang ei hmang phung, mi rapthlak. ghoulish, adj. rapthlak.
+ghoul : (gu, gaul), n. ruang ei hmang phung, mi rapthlak. ghoulish, adj. rapthlak.
 giant : (jaiant), n. mi lian, thil reng renga a hrawl danglam bik, ropui fawr.
 gibber : (jibar), v.i. mumal nei lova chiar. gibberish, n. adj. chiar nawk nawk.
 gibbet : (jibet), n. khai hlumna dawh, rit khai sawnna ngul.
@@ -194,14 +196,14 @@ gist : (jist), n. a thupui ber, a lairil, a bulpui.
 give : (giv), v.t. pe, hlan, tichhuak, chhuah. give chase, um, give ear, ngaithla. give
 ground : tawlh, tlawm. give in, tlawm. give out, puang, chhuah, tlachham, ral, give oer, titawp, bansan. give up, tlawm, bansan. give way, tlawm, hnung tawlh.
 gizzard : (gizad), n. thial, ar leh sava thial.
-glacial (gleshial : gleshal), adj. vur ang.
-glacier (glesier : glashiar), n. tlang pang atanga zawi zawia vur khawn tawlh.
+glacial : (gleshial, gleshal), adj. vur ang.
+glacier : (glesier, glashiar), n. tlang pang atanga zawi zawia vur khawn tawlh.
 glad : adj. lawm, lawmawm, gladden, v.t., tilawm, tihlim, tiharh.
 glade : (gleid), n. ramhnuai hmun awng, ngawkar phul.
-gladiator (gladietawr : -tar), n. hmasang rom vanglaia an hmuhnawm siam na lamtual a mihring leh ramsa kawlh suala ei zawng mi.
-gladiolius (gladiawlas : gladaiowas), n. keptuam chi. gladioli, pl.
+gladiator : (gladietawr, -tar), n. hmasang rom vanglaia an hmuhnawm siam na lamtual a mihring leh ramsa kawlh suala ei zawng mi.
+gladiolius : (gladiawlas, gladaiowas), n. keptuam chi. gladioli, pl.
 glair : (gleir), n. artui pawn var (a chhungmu tuamtu).
-glamour (glamar : glamawr), n. thil mit la, thil or mihring nalh tak, mihring nalh or che mawi.
+glamour : (glamar, glamawr), n. thil mit la, thil or mihring nalh tak, mihring nalh or che mawi.
 glance : (glans), v.i. tleu, leu, lau, melh zawk. n, tleuna, melh zawr.
 gland : n. kawchhung tui hnang tangkai tak tak pai chi, thalbe. glandular (glandinlar), adj.
 glare : (gleir), n. tletna, tle, mit ti vai khawp a eng, mi enkhalh thei chi. v.i. tle, mi rn khalh, rum taka melh. glaring, adj. tle, langsar, mualpho.
@@ -298,9 +300,9 @@ gospel : n. Chanchin Tha, thurin ropui tak, thu dik elkhen.
 gossamer : (gowsamar), n. maimawm ril, maimow puan, thil pan tak.
 gossip : (gowsip), n. mi kamtam, mi rel hmang, thian bul.v.i. titi, thu veivir, kamtam.
 Goth : n. hmasang German hnam pakhat, Gothic, adj. Goth hnam thil leh an tawng, mi buru/ tawrawt, biak in tam tak sak dan anga kawngka lu chung kual chhip zum neia sak dan.
-gouge (gauj : guj), kher kuakna thir khen, v.t. kher, ker (mitmu kher, etc.)
-gourd (gawrd : gurd), n. um chi reng reng, bur, um bur, bur tuithawl (bitter gourd : changkha. sponge gourd : awmpawng. bottle gourd : um).
-gourmand (gurmand : gurmow), n. mi vir, chaw heh, mi koham.
+gouge : (gauj, guj), kher kuakna thir khen, v.t. kher, ker (mitmu kher, etc.)
+gourd : (gawrd, gurd), n. um chi reng reng, bur, um bur, bur tuithawl (bitter gourd - changkha. sponge gourd - awmpawng. bottle gourd - um).
+gourmand : (gurmand, gurmow), n. mi vir, chaw heh, mi koham.
 gourmet : (gurme), n. ei tur tuihnai ngaina mi, mi intuituah mi, mi duhtui.
 gout : (gaut), n. kezungpui ruh tuah natna, ruhtuah natna.
 gout : (gu), n. tuina.
@@ -318,9 +320,11 @@ graft : n. ei rukna, hlep rukna.
 grail : (greil), n. Zanriah Hnuhnunga Isua uain no hman.
 grain : (grein), n. mur, fang, mu, thil te tak te, thil tlem te, British buklung te ber, ti mur. v.t. thinga rawng hnwoh, with a grain of salt, thu rinawm lo pawmzam dan.
 gram : gramme (gram), n. tehkhawng or bukna te tak te (gram sang khat chu kilogram).
-Gramineae (graminei : greminei), n. hnim chi reng reng khai khawmna hming.
-graminaceous (graminesias : gramineous (graminias), adjs. hnim ang, graminivorous, adj. hnim ei chi or pet chi.
-grammar : n. tawng dik zirna, grammarian (gramerian), n. tawng dik tak thiam mi.
+Gramineae : (graminei, greminei), n. hnim chi reng reng khai khawmna hming.
+graminaceous : (graminesias, gramineous (graminias), adjs. hnim ang.
+graminivorous : adj. hnim ei chi or pet chi.
+grammar : n. tawng dik zirna.
+grammarian : (gramerian), n. tawng dik tak thiam mi.
 gramophoen : (gramowfawn), n. thingremzai thei.
 grapus : (grampas), n. nghapui chi hrang hrang.
 granary : (granari), n. buh zem, chhek in.
@@ -346,7 +350,7 @@ grasshopper : (grashawpar), n. khau, grasshopper-minded, adj. hna chi khata bet 
 grass-snake : (grasneik), n. rulpaihawl chi.
 grass-widow : (grasuidow), n. pasalte thangbosan hmeichhia.
 grate : (greit), v.t. nawt, nawt pilh, hrut khawk, thial, thei. v.i. khawrh, chher. grating, adj. ha tiziau, beng tikhawrh, chher.
-grateful (greitful : greitfl), adj. lawm.
+grateful : (greitful, greitfl), adj. lawm.
 gratify : (gratifai), v.t. tilawm, titlai, duhtawk ngahtir, gratification, n. duhtawkna, lungawina, nawmna.
 gratis : (gretis), adv. a thlawnin.
 gratitude : (gratitiud), n. lawmna, lawmna chang hriatna.
@@ -365,7 +369,7 @@ grease : (gris), n. thau, hriak, greasy, adj. mawm, thang, grease-paint, n. lemc
 great : (greit), adj. hrawl, ropui nasa, great grandfather, n. pu te pa, great-greatgrandfather, n. pu e pu (chutiang zelin), great grandson, n, tu te fa great great-grandson, n. tu te tu (grandmother leh granddauhter pawh chutiang zelin). greatness, n. ropuina.
 greatcat : n. parandi, kawrchung fual. Great Bear, n. zangkaua.
 greave : (griv), n. thir nghalphow.
-Grecian (grishan : grishian), n. Grik mi, Grik tawng thiam, Grik tawng hmang Juda mi.
+Grecian : (grishan, grishian), n. Grik mi, Grik tawng thiam, Grik tawng hmang Juda mi.
 greed : (grid), n. duhamna.
 greedy : (gridi), adj. duham, virthial, huamhauh, pawmham, kaw pui pu.
 Greek : (grik), n. Grik tawng, tawng hriat loh, Greek Church, Greek Orthodox. Church (Eastern Church an ti bawk), Greece, Russia, Turkey leh ram thenkhata Kristian Kohhran Katholik Kohhran laka intihrang leh Kohhran lu atana Constantinopole bishop vuantu. Greek fire, tihhuha alh thei bawlhlo.
@@ -389,7 +393,7 @@ grig : n. khau, perhpawng, nghaler.
 grill : v.t. chhum, hem hmin, nghaisa, dawp chi-ai.
 grim : adj. hmel huphurhawm, rapthlak, hmel rum.
 grimae : (grimeis), n., v.i. then, hmai chuar, chhiatkhum.
-grimalkin (grimalkin : -mawlkin), n. zawhte tar lam, zawhte nu.
+grimalkin : (grimalkin, -mawlkin), n. zawhte tar lam, zawhte nu.
 grime : (graim), n. mang, vaivut, bawlhhlawh, grimy, bawlhhlawh.
 grin : v.i. nui then, then, v.t. then chunga sawi.
 grind : (graind), v.t. rawt, nawt, tat.
@@ -455,7 +459,7 @@ guinea-fawl : (gini faul), n. vavu, ar vavu chi khat.
 guinea-pig : (gini pig), n. vawk pianhmang anga piang sazu chi khar, (he thil hi mihring chunga damdawi thiam thar ilo an hman chhin hmaa enchhin nan taka an chelek avangin, mihring chungthu sawina a nih chuan) enchhin nana hman.
 guise : (gaiz), n. hmelhmang, lan dan, inthup danglam dan.
 guitar : (gitar), n. tingtang, chawngpereng, (A spelling hi fimkhur tur).
-guich (gaichh : gaizh), n. kawrte chep, ruam khawkrawk.
+guich : (gaichh, gaizh), n. kawrte chep, ruam khawkrawk.
 gulf : (galf), n. khawmual huala tuipui tengsawl, tuipui tengsawl, thil thuk tak, leilawt, livir.
 gull : (gal), n. tuipui sava var chi, rih ar.
 gull : (gal), n. bum awlsam mi, bum hmang (tawng ler), v.t. bum, tihder.
@@ -464,7 +468,17 @@ gully : (gali), n. kawrte chep, lei rut thuk tak.
 gulp : (galp), v.t. dawlh, n. dawlh zat, lem khat.
 gum : (gam), n. hahni, thil charna, gawm, thing huai ban, thelret, gum-boot, n. khawchhiat laia bun chi thelret pheikhawk rawng sang.
 gumption : (gampshn, gamshawn), n. remhriatna.
-gun : (gan), n. silai, gun-barrel, n. silai ngul, gunboat, n. indo lawngte chi, gun-carriage, n. laipui hunna/bunna/nghahchhan (tun lai chuan mi lal deuhte ruang vui liam nan pawh an hmang). guncotton, n. lazam nena cheibawl halpuah puak na tak. gundog, n. uifing. gunfire, silai kah, silai u veivak, gun-lock, silai cheng. gun-man, n. mi hring laka silai chelek ching mi. gun-metal, n. tin leh darsen chhun pawlh, gunner, n. silai kap mi, laipui pu. gun-powder, n. zen, gun-running, mi rama a ruka silai tawlh lut ching. gunshot, silai kah phak. blow great guns, na taka thli tleh. great gun, mi challang tak (tawng ler). stick to one's gun, nghet taka tanhmun khawh.
+gun : (gan), n. silai, gun-barrel, n. silai ngul, gunboat, n. indo lawngte chi, gun-carriage, n. laipui hunna/bunna/nghahchhan (tun lai chuan mi lal deuhte ruang vui liam nan pawh an hmang). 
+guncotton : n. lazam nena cheibawl halpuah puak na tak. 
+gundog : n. uifing.
+gunfire : silai kah, silai u veivak.
+gun-lock : silai cheng.
+gun-man : n. mi hring laka silai chelek ching mi.
+gun-metal : n. tin leh darsen chhun pawlh.
+gunner : n. silai kap mi, laipui pu.
+gun-powder : n. zen.
+gun-running: mi rama a ruka silai tawlh lut ching.
+gunshot : silai kah phak. blow great guns, na taka thli tleh. great gun, mi challang tak (tawng ler). stick to one's gun, nghet taka tanhmun khawh.
 gunny : (gani), n. kawl la, ziza hrui/puan, buara, gunny-bag, n. saiip, kawl la ip, buara.
 gunwale : gunnel (ganl), n. lawng pang tlang/ kotlang.
 gurgitation : (garjiteshn), n. so sang, fawn so.
