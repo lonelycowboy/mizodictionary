@@ -386,7 +386,7 @@ grew : (gru), pa.t. of grow.
 grey : gray (grei), adj. pow, vutbuak, grey-goose, greying, nn. ramvak, grey matter, thluak.
 greyhound : (grehaund), n. uisathiam chi khat.
 grid : gridiron (grid,-aian), n. sa hem hminna thir tahrang, electric hrui zam.
-grief (grif) n. lungngaihna : lungngaih angan, come to greif, chesual, tawhsual tawk.
+grief : (grif) n. lungngaihna, lungngaih angan, come to greif, chesual, tawhsual tawk.
 grieve : (griv), v.t., v.i. tilungni lo, chhaih mangang, lungngai, sun. grievous, adj. na, lungngaihthlak, tuarhlelhawm.
 griffin : (grifin), griffn, gryphon (grifawn) n. ramsa phuahchawp, a tak, sakeibaknei muvanlai thla leh hmui nei.
 grig : n. khau, perhpawng, nghaler.
@@ -401,7 +401,7 @@ grindstone : (graindstawn), n. lungtat vir, thil rawtna or herna lung.
 grip : n. nghet taka hmerna, vawnfung, liang, rilrua chelhna, thununna, v.t. nghet taka hmer, mit la, mi hip.
 gripe : (graip), v.t. hmer, vuan, hmet sawr, pum tina, n. pum nat.
 grisled : (grizld), adj. pow, Same as grizzled.
-grisly (grizli) adj. rapthlak.
+grisly : (grizli) adj. rapthlak.
 gristle : (gril), n. duar, duarda,
 grit : n. thil hawl, sak tak, lung me, ruhna, rilru khauhna. gritty, adj. ngap, me.
 grizzle : (grizl), n. rawng pow. grizzled, grizzly, adjs. pow.
