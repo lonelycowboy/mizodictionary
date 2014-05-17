@@ -1,1035 +1,1124 @@
-baa : n., v.t. beram be dan.
+baa : n., v.t. berâm bê dân.
 Baal : (beal), n. pathian lem, pathian suak.
-babble : (bable), v.i., v.t. nausen anga tawng, chiar nawk nawk.
-babe : (beib), n. nausen.
-baby : n. nausen, babyhood. n. nausen lai. babyish, adj. nausen ang.
-babel : (bebl), n. in sang, tawng mumal nei lo, chiar nawk nawk, mumal lohna. (Babel in sang thu atanga chher a ni).
-baboon : (babun), n. zawng lian chi.
-bacchanal : (bakanal), n., adj. zu pathian betu puithiam, zu heh, zu lam thil.
-bachelor : (bachhelar), n. tlangval, pathlawi nupui nei lo. University degree sang pass.
-bacillus : (basilas), n. natna hrik chi khat. Tuberculosis bacillus.
-back : n. hnung, v.t. hnu dal, chhawmdawl, tan.
+babble : (bable), v.i., v.t. nausên anga \awng, chiar nawk nawk.
+babe : (beib), n. nausên.
+baby : n. nausên.
+babyhood : n. nausên lai.
+babyish : adj. nausên ang.
+babel : (bêbl), n. in sâng, \awng mumal nei lo, chiar nawk nawk, mumal lohna. (Babel in sâng thu a\anga chher a ni).
+baboon : (babûn), n. zâwng lian chi.
+bacchanal : (bakanal), n. adj. zu pathian betu puithiam, zu heh, zu lam thil.
+bachelor : (bachhelar), n. tlangval, pathlawi nupui nei lo. University degree sâng pass.
+bacillus : (basilas), n. natna hrik chi khat. (Tuberculosis bacillus - TB).
+back : n. hnung, v.t. hnu dâl, chhawmdâwl, \an.
 backward : (backuard), adv. hnung lamah, hnufum, hnufual.
-bacon : (bekn), n. vawksa rep or tin.
-bacteria : (baktiria), n. hrik chi hrang hrang, enlenna nena hmuh tham chauh.
+bacon : (bêkn), n. vawksa rêp or \în.
+bacteria : (baktîria), n. hrik chi hrang hrang, enlenna nena hmuh tham chauh.
 bad : adj. sual, dik lo, fel lo. badly, adv. badness, n.
 bade : (bad), pa.t. of bid.
 badge : (baj), n. chhinchhiahna.
-badinage : (badinazh), n. fiamthu or nuihza tawngkam.
+badinage : (badinazh), n. fiamthu or nuihza \awngkam.
 badminton : n. tui thlum, infiamna chi khat.
-baffie : (bafi), v.t. a ngaihna tihre lo, mak tihtir.
-bag : n. ip, sa kah or sangha man, v.t. kap, man, hui, tel.
-baggy : adj. fual, ful (kekawr hak zawh loh hak anga tawp).
-bagatelle : (bagatel), n. thil tenau, hla lenglawng, infiamna chi khat.
-baggage : (Bagij), n. sin thawmhnaw, bungrua.
+baffle : (bafl), v.t. a ngaihna tihre lo, mak tihtîr.
+bag : n. ip, sa kah or sangha man. v.t. kâp, man, hui, têl.
+baggy : adj. fual, dul (kekawr hâk zawh loh hâk anga \awp).
+bagatelle : (bagatel), n. thil tenau, hla lenglâwng, infiamna chi khat.
+baggage : (bagij), n. zin thawmhnaw, bungrua.
 bagpipe : (bagpaip), n. baza.
-bail : (beil), n. thubuai sawi hma or sawi laia intlanchhuahna, bail-bond, n. an tlan bo thulha pawisa engemaw zat chawi huama thubuai fel hmaa lung in tang tlan chhuah. bail, v.t. lawng chhuata tui tling paih.
+bail : (beil), n. thubuai sawi hma or sawi laia intlan chhuahna. v.t. lawng chhuata tui tling paih.
+bail bond : n. an tlan bo \hulha pawisa engemaw zat chawi huama thubuai fel hmaa lung in tâng tlan chhuah.
 bailiff : (beilif), n. police officer chi khat, in hmun lo ram zuartu, in hmun zuara sumdawng.
-bairn : (beirn), n. naupang (Scottish tawng).
-bait : (beit), n. a chah, a thlemna. v.t. thlem (Nghakuai chah, vawmthlak chah, etc.), khualzin hrai, ui umtir, tibuai, zar buai.
-bake : (beik), v.t. ur, kang, hemhmin, em char, baker, n. chhang ur mi, chhang siamtu.
+bairn : (beirn), n. naupang (Scottish \awng).
+bait : (beit), n. a chah, a thlêmna. v.t. thlêm (Nghakuai chah, vawmtlak chah, etc.), khualzin hrâi, ui ûmtîr, tibuai, zar buai.
+bake : (beik), v.t. ur, kang, hem hmin, em char.
+baker : n. chhang ur mi, chhang siamtu.
 bakery : n. chhang siamna or zawrhna hmun.
-balalaika : n. Russia tingtang chi khat (guitar ang deuh), a khuang chi kil thum nei.
-balance : (balans), n. bukna (patla), rilru fim, thil inchawih, thil chuangtlai, pawisa hisap hnua a chuangbang la awm. v.t. buk, tehkhin, khaikhin, intluka siam.
-balcony : (balkawni), n. in chhawng bathlar, banga chuanna tolawt.
-bald : (bawld), adj. lukawlh, hmul nei lo, baldhead, n. lukawlh. baldness, n.
-bale : (beil), n. thil tel, thil fun. bale, n. sual, hliam. baleful, adj. huatna or sualnaa khat, lungngai, ngui.
-balk : baulk (bawk), n. leilet baka a kotlang hnim awmna, thingzai, indipdalna, beidawnna, v.t. pehhel, tim, dal, tibeidawng, tihrilhai.
-ball : (bawl), n. thil mum, bawl, silaimu. ball-bearing. n. khawl inthial lai a inei chhiatloh nana a kara lo vir chhawng tur thir mum te tak te te an zeh teuh. ball, n. lamna.
-ballad : n. hla chi khat, chang khata tlar hnih emaw, tlar li emaw lek lek pai, hla lungleng.
+balalaika : n. Russia \ing\ang chi khat (guitar ang deuh), a khuang chu kil thum nei.
+balance : (balans), n. bûkna (patla), rilru fim, thil inchawih, thil chuangtlai, pawisa hisâp hnua a chuangbâng la awm. v.t. bûk, tehkhin, khaikhin, intluka siam.
+balcony : (balkawni), n. in chhâwng bathlar, banga chuanna tolawt.
+bald : (bawld), adj. lukawlh, hmul nei lo.
+baldhead : n. lukawlh. baldness, n.
+bale : (beil), n. thil têl, thil fûn. bale, n. sual, hliam.
+baleful : adj. huatna or sualnaa khat, lungngai, ngui.
+balk : baulk (bâwk), n. leilet bâka a kotlâng hnim awmna, thing zai, indîpdalna, beidawnna, v.t. pehhêl, tîm, dâl, tibeidawng, tihrilhai.
+ball : (bâwl), n. thil mûm, bâwl, silaimu. ball, n. lâmna.
+ball-bearing : n. khâwl inthial lai a inei chhiatloh nâna a kâra lo vir chhawng tûr thîr mûm tê tak tê tê an zeh teuh. 
+ballad : n. hla chi khat, châng khata tlar hnih emaw, tlar li emaw lek lek pai, hla lungleng.
 ballade : (balad), n. hla chi khat.
-ballerina : (balerina), n. ballet lam thiam hmeichhia.
-ballet : (balet), n. lam ropui ber chi.
-balloon : (balun), n. balun.
-ballot : (balawt), n. vote pekna lehkha, v.t. thlang, inthlang.
+ballast : n. lawngina bungrua a phurh loh laia a thle tûr vên nâna a chhûnga thil rit an dah, thil chelh ngîltu.
+ballerina : (balerina), n. ballet lâm thiam hmeichhia.
+ballet : (bale), n. lâm ropui ber chi.
+balloon : (balun), n. balûn.
+ballot : (balawt), n. vote pêkna lehkha, v.t. thlang, inthlang.
 ballyhoo : (balihu), n. bengchheng taka thil sawi mawi.
-balm : (bam), n. rimtui, damdawi hriak, damdawi, balmy, adj. rimtui, mi tihahdam thei.
+balm : (bam), n. rimtui, damdawi hriak, damdawi.
+balmy : adj. rimtui, mi tihahdam thei.
 balsam : (bawlsam), n. nuaithang.
-baluster : (balustar), n. vawnban, chelhtu ngul, palchawi.
+baluster : (balastar), n. vawn bân, chelhtu ngul, palchawi.
 bamboo : n. mau.
-bamboozie : (bambuzl), v.t. bum, tihder.
-ban : n. puanzarna, thupek, demna, anchhia, khapna, v.t. khap.
-banal : (benal, banal), adj. thil ho, thil satliah.
+bamboozie : (bambuzi), v.t. bum, tihder.
+ban : n. puanzârna, thupêk, demna, anchhia, khapna, v.t. khap.
+banal : (bênal, banal), adj. thil ho, thil satliah.
 banana : n. balhla.
-band : n. a thui khawm or hlin khawmna. band, n. thil vetna (puan them ilo). bandage, n. hliam or pan tuamna. band, n. a ruala mihring chetla, rual khat intiam rual, helho rual khat, ri mawi tumtu pawl. v.t., v.i. inzawm khawm.
+band : n. a \hui khâwm or hlin khâwmna. band, n. thil vêtna (puan them ilo). band, n. a ruala mihring chetla, rual khat intiam rual, helho rual khat, rimawi tumtu pâwl. v.t., v.i. inzawm khâwm.
+bandage : n. hliam or pân tuamna. 
 bandit : n. suamhmang.
 bandy : v.t. vaw thle tawn, innawr tawn, hnial.
-bane : (bein), n. chhiatna, thil sual, hrehawmna, sualna hnar. baneful, adj. mi tichhe chi.
+bane : (bein), n. chhiatna, thil sual, hrehawmna, sualna hnâr.
+baneful : adj. mi tichhe chi.
 bang : n. vuak chawrh, ri dur. v.t. vua, hnek, su or tauh chawrh.
-bangle : (bangl), n. ngun.
-banian : banyan, nn. hmawng.
-banish : v.t. khawtlang zing ata hnawhchhuah.
+bangle : (bangl), n. ngûn.
+banian : banyaan, nn. hmâwng.
+banish : v.t. khawtlang zîng ata hnawh chhuah.
 banister : n. See baluster.
-banjo : (banjow), tingtang (guitar) chi khat (Dan naranin a hmai chu savun a ni thin).
-bank : (bangk), n. mual pawng, tlang dung, luikam, vaukam, v.t.,v.i. a he zawnga thlawhna thlawk. bank, n. pawisa dah thatna or puk theihna company, v.t., v.i. pawisa dah tha, rinchhan, rinpuia neih.
-bankrupt : (bangkrapt), n. adj. sumdawnna kawnga tla chhia, pawisa nei lo. bankruptcy, n.
-banner : n. Sipai Pawl puanzar.
-banquet : (bangkuet, bangkiut), n. ruai pui, v.i ruai anga chaw ei.
-banshee : n. lasi chi khat, a zawl chhungkuaa mi an thih dawna tap rawng rawng thina an sawi.
-bantam : n. ar fek chi, bantamweight, n. boxing-ah chuan pound 112 leh 118 inkara rit.
+banjo : (banjaw), \ing\ang (guitar) chi khat (dân narânin a hmai chu savun a ni \hin).
+bank : (bangk), n. mual pâwng, tlâng dung, luikam, vaukam. v.t., v.i. a hê zâwnga thlawhna thlâwk. bank, n. pawisa dah thatna or pûk theihna company. v.t., v.i. pawisa dah \ha, rinchhan, rinpuia neih.
+bankrupt : (bangkrapt), n. adj. sumdâwnna kawnga tla chhia, pawisa nei lo. bankruptcy, n.
+banner : n. Sipai Pâwl puanzar.
+banquet : (bangkuet, bangkiut), n. ruaipui. v.i ruai anga chaw ei.
+banshee : n. lasi chi khat, a zâwl chhungkuaa mi an thih dâwna \ap rawng rawng \hîna an sawi.
+bantam : n. âr fêk chi.
+bantamweight : n. boxing-ah chuan pound 112 leh 118 inkâra rit.
 banter : v.t. mi dem fiam.
 bantling : n. naupang.
-baptise : (bataiz), v.t. baptisma chantir, hming sa, baptism (baptizm), n.
-bar : n. thil tlawn, thir tlawn dodaltu, zu sem chhuahna dawhkan, zu dawr, thubuai relna hmuna ukil rual, solfa-a a bithliahna rin inkar, v.t. thil tlawna kalh. dodal, kalh.
-barmaid : n. hotel leh zu dawra a semtunu, barman, n. chutiang semtupa.
+baptise : (baptaiz), v.t. baptisma chantir, hming sa. baptism (baptizm), n.
+bar : n. thil tlâwn, thir tlâwn, dodâltu, zu sem chhuahna dawhkân, zu dâwr, thubuai rêlna hmuna ukil rual, solfa-a a bithliahna rin inkâr, v.t. thil tlâwna kalh. dodâl, kalh.
+barmaid : n. hotel leh zu dâwra a semtunu. barman, n. chutiang semtupa.
 barring : prep. tiam lovin.
-barb : n. thal leh fei kibar leh nghakuaia a kibar kawm lai. barbed wire, n. thir hling nei.
-barbarous : (barbaras), adj. hnam mawl, hnam a thil, nunrawng.
-barbarian : (berberian), n. hnam mawl, hnam a. barbaric, adj.
-barbecue : (barbekhiu), v.t. a puma em hmin, pum rep. n. sa repna rap, sa reng reng a puma rep.
-barber : n. lu-met (tu)
-bard : n. hmasang hla phuah mi leh hla sa mi, hla phuah thiam. bardic, adj.
+barb : n. thal leh fei kibar leh nghakuaia a kibar kawm lai.
+barbed wire : n. thîr hlîng nei.
+barbarous : (barbaras), adj. hnam mâwl, hnam â thil, nunrawng.
+barbarian : (berbêrian), n. hnam mâwl, hnam â. barbaric, adj.
+barbecue : (barbekhiu), v.t. a puma em hmin, pum rep. n. sa rêpna rap, sa rêng rêng a puma rêp.
+barber : n. lu-mêt (tu).
+bard : n. hmasâng hla phuah mi leh hla sa mi, hla phuah thiam. bardic, adj.
 bare : (beir), adj. ruak, hmuh theiha awm, tlem tham, rethei, inhawng.
-barefaced : adj. hmai inhawng, zaktheilo. bareheaded, adj. lukhum khum lo.
-bargain : (bargin), n. intiamna, inremna, hlawk taka indawrna. v.i. dawr, nep, dawn, intiam. bargainer, n. dawntu.
-barge : (barj), n. lawng a kuang mawng zawl chi. v.i. zei lo taka che, su bup.
-barge-board : n. dithlifarfem hnuaia ruah dan nana tukrek ang reng thil an vuah phei.
-bark : n. ui bauh ri, sakhi or sazuk huk or hram. v.i. bauh, huk. bark, n. thing hawng.
+barefaced : adj. hmai inhawng, zak thei lo.
+bareheaded : adj. lukhum khum lo.
+bargain : (bargin), n. intiamna, inremna, hlâwk taka indâwrna. v.i. dâwr, nêp, dawn, intiam. bargainer, n. dawntu.
+barge : (barj), n. lawng a kuang mawng zâwl chi. v.i. zei lo taka che, su bup.
+barge-board : n. dithlifarfêm hnuaia ruah dan nâna tukrek ang reng thil an vuah phei.
+bark : n. ui bauh ri, sakhi or sazuk hûk or hram. v.i. bauh, hûk. bark, n. thing hâwng.
 barque : (bark), n. lawng.
 barley : (barli), n. chhangphut buh chi khat.
-barn : n. chhek in, buh in. v.t. chhek.
-barnacle : (barnakl), n. chengkawl or tuikeplung chi, chutianga thiante kianga bei nghet mi thian nghet.
-barnacle : n. sakawr tha za tihreh nana a hmuia thil an vuah.
-barometer : (barawmetar), n. sik leh sa tehna sana, boruak chhah leh pan (boruak danglam) dan tehna khawl, khaw thlir lawkna khawl.
+barn : n. chhêk in, buh in. v.t. chhêk.
+barnacle : (barnakl), n. chengkawl or tuikeplung chi, chutianga \hiante kianga bei nghet mi, \hian nghet. barnacle, n. sakawr tha za tihreh nâna a hmuia thil an vuah.
+barometer : (barawmetar), n. sik leh sa tehna sana, boruak chhah leh pan (boruak danglam) dân tehna khâwl, khaw thlir lâwkna khâwl.
 baron : (barawn), n. lal tenau, lalber hnuaia ram zau khat awptu, thil siamna hmunpuia a hotu.
-baronet : n. British mi lian leh challang zinga a tenau ber.
-barrack : (barak), n. sipai rual riah khawmna in.
-barrage : (barazh, barij), n. ngar, lungreng den, bit taka silai mu kah chhuah (a barrage of questions- a rual emaw, a indawt emawa zawhna tam tak siam).
-barrel : n. thingrem mum sawl (zu ilo dah nana an hman), silai ngul.
-barren : adj. chi thlah thei lo, rah thei lo, phul, ram lo, chhawlh.
-barricade : (barikeid), n. kulh ang renga kawng pin, thual pui anga kawng lo dal. v.t. kawng hnawh ping.
-barrier : (bariar), n. ral dai, ral danna kulh, ramri, tawp chin, thil daidanna.
+baronet : n. British mi lian leh challang zînga a tenau ber.
+barrack : (barak), n. sipai rual riah khâwmna in.
+barrage : (barazh, bârij), n. ngar, lungreng den, bit taka silai mu kah chhuah (a barrage of questions - a rual emaw, a indawt emaw zawhna tam tak siam).
+barrel : n. thingrem mûm sâwl (zu ilo dah nâna an hman), silai ngul.
+barren : adj. chi thlah thei lo, rah thei lo, phûl, ram lo, chhawih.
+barricade : (barikeid), n. kulh ang renga kawng ping, \huai pui anga kawng lo dâl. v.t. kawng hnawh ping.
+barrier : (bariar), n. râl dai, râl danna kulh, ramri, tâwp chin, thil daidanna.
 barrister : n. ukil.
-barrow : (barow), n. leivung paihna tawlailir nawr lirh chi emaw, a lirh loh chi emaw pawh (A nawrh lirh chi hi chu dan naranin 'wheel -barrow' an ti thin).
-barrow : n. thlan chung pawng.
-batter : v.t. pawisaa lei lova zawrhsum inthleng.
-barytone : (baritawn), baritone, n. bass leh tenor inkar aw thum ve tak.
-base : (beis), n. chawlh hmun. bulthut, a bul, innghahna bul, bawlhlova a hlo chi khat. v.t. ngahchhana hmang. adj. rawicha lo, hniam, hmusitawm, bawlhhlawh, sual, pawisa chhia, pawisa lem.
-basal : (beisal), adj. nghahchhan, baseless, adj. nghahchhan nei lo, chhan mumal nei lo.
-basic : adj. a bul. basic-slag, n. thir siamna hmuna an bawlhlo ekchhia lei tha atana an hman. Basic English, n. hnam dangin awlsam taka English tawng an buatsaih.
-baseball : n. ball vawm lo vuak thlawha an chhara an deh theih hmaa a thui thei ang bera lo tlan kuala infiamna.
+barrow : (baraw), n. leivûng paihna tawlailir nawr lirh chi emaw, a lirh loh chi emaw pawh (A nawrh lirh chi hi chu dân narânin 'wheel-barrow' an ti \hîn). barrow, n. thlân chung pâwng.
+barter : v.t. pawisaa lei lova zawrhsum inthleng.
+barytone : (baritawn), baritone, n. bass leh tenor inkar aw thûm ve tak.
+base : (beis), n. chawlhhmun, bul\hut, a bul, innghahna bul, bâwlhlova a hlo chi khat. v.t ngahchhana hmang. base (beis), adj. rawicha lo, hniam, hmuhsitawm, bawlhhlawh, sual, pawisa chhia, pawisa lem.
+basal : (beisal), adj. nghahchhan.
+baseless : adj. nghahchhan nei lo, chhan mumal nei lo.
+basic : adj. a bul.
+basic-slag : n. thîr siamna hmuna an bâwlhlo êkchhia lei\ha atâna an hman.
+Basic English : n. hnam dangina awlsam taka English \awng an buatsaih.
+baseball : n. ball vawm lo vuak thlawha an chhara an deh theih hmaa a thui thei ang bera lo tlân kuala infiamna.
 bash : v.t. hlap, su keh rawp.
-basilica : (bazilika), n. hmasang Rom vanglaia bazar atan emaw rorel nan emawa in hrawl pui an sak, killi leh dung leh vang neia an sak. An Kristian hnuah biak inah te an let a. Biak in ropui tak tihna ang deuhvah an hmang ta.
-basin : (besin, beisn), n. thleng dar, chawhtawlh, dil, lui kam ruam.
-basis : (beisis), n. thil nghahchhan, a bulthut.
-bask : v.i. ni lum aia mu zal.
-basket : n. fawng, kho, em, hrui/mau/thingtang ilova bawm tah reng reng.
-bass : (beis), n. zaipawla a aw hniam ber.
+bashful : adj. zakthei, zakzum.
+basilica : (bazilika), n. hmasâng Rom vânglaia bazâr atan emaw rorêl nân emawa in hrawl pui an sak, kil li leh dung leh vâng neia an sak. An Kristian hnuah Biak Inah te an let a. Biak In ropui tak tihna ang deuhvah an hmang ta.
+basin : (beisin, beisn), n. thlâng dar, chawhtawlh, dil, lui kam ruam.
+basis : (beisis), n. thil nghahchhan, a bul\hut.
+bask : v.i. nilum aia mu zâl.
+basket : n. fawng, kho, êm, hrui/mau/thing\ang ilova bâwm tah rêng rêng.
+bass : (beis), n. zaipâwla a aw hniam ber.
 basse : (bass), n. sangha chi khat.
-bassinet : bassinette, nn. fawng or bawm chhin nei, naute lenvahpuina tawlailir.
-bassoon : (basun), n. hamrik aw hniam tak.
-bastard : n. sawn, fa sawn, fa lak.
-baste : (beist), v.t. vua, hem. v.t. khat deuhva thui.
-bastion : (bastiawn), n. kulh hungna kila khaw thlirna in sang, inhumna, ral venna.
-bat : n. tiang, tiang phek, baseball vuakna tiang mum, lei rawhchan phek. n. bàk.
+bassinet : bassinette, nn. fawng or bâwm chhîn nei, naute lên vahpuina tawlailir.
+bassoon : (basûn), n. hamrîk aw hniam tak.
+bastard : n. sâwn, fa sâwn, falak.
+baste : (beist), v.t. vua, hêm. v.t. khât deuhva \hui.
+bastion : (bastiawn), n. kulh hungna kila khaw thlirna in sâng, inhumna, râl vênna.
+bat : n. tiang, tiang phêk, baseball vuakna tiang mûm, leirawhchan phêk. n. bâk.
 batch : (bachh), n. rual khat.
-bath : n. inbualna tui, inbualna hmun or in, inbualna, thil silna or chhuan lumna tur tui bun. Order of the Bath, British lalberina pasalthaa a nemngheh pawl khat (nemngheh hmaa an inbualtir avanga Bath hming an chawitir hlen tak).
-bathe : (beid), v.t., v.i. bual, inbual, tui cheng, thil sil.
-bathometer : (bathawmetar), n. tui thuk lam tehna khawl.
-bathoe : (bethows), n. thu sawi leh thu ziaka thu zahawm tak atanga a holam zawnga thu tihtawp.
+bath : n. inbualna tui, inbualna hmun or in, inbualna, thil silna or chhuan lumna tûr tui bun. Order of the Bath, British lalberina pasal\haa a nemngheh pâwl khat (nemngheh hmaa an inbualtîr avânga Bath hming an chawitir hlen tâk).
+bathe : (beid), v.t., v.i. bual, inbual, tui chêng, thil sil.
+bathometer : (bathawmetar), n. tui thûk lam tehna khâwl.
+bathos : (bêthaws), n. thu sawi leh thu ziaka thu zahawm tak a\anga a holam zawnga thu tihtâwp.
 bathymeter : (bathimetar), n. bathometer.
 bating : (beiting), prep. tiam lovin.
 batman : n. mi lian sakawr puak phur enkawltu, mi lian hnungzui.
 baton : n. police tiang vai, hla hruaitu tiang vai. v.t. baton-a vua.
-battalion : n. sipai rual khat (sang khat rual vel).
-batten : v.i. in-ei-thau, tlai taka hrai.
-batter : v.t. vaw nawn or hnek nawn awn awn, laipui nena thawng, n. gawm siamna hlo (tui nena chawhpawlha thil char nana an hman). battering-ram, m. kulh kawngkhar sut chhiat nana thingluang an zawn ang hi.
-battery : n. laipui rual, laipui pu pawl, electric siamna inzawm khawm (Kawlphekhawnvar battery kan tih mai hi chu pakhat a nih chuan cell tih a ni a, pakhat aia tam inzawm khawm hi battery a tling chauh a ni).
-battie : (bati), n. indona, insualna. v.i. do, sual, bei, chai.
-battledore : -door (batldawr), n. puan suk lai vuakna, vuakfung phek, ball vuakna tiang phek.
-battlement : n. kulh bang a lai or kotlang vela laipui ngul rawlhna kaw awm.
-bauble : (bowdl), n. tlereuh, naupang thil khalh.
-bowd : n. nawhchizuar ruaitunu, bawdy, adj. hur, zahmawh thil, bawlhhlawh.
-bawl : v.i. khek, te, au ri.
-bay : (bei), adj. sen-uk. n. tuipui khawmual kara tengsawl lut, tuipui peng. n. ban pui inkar. n., v.i. bauh, huk, beleuh, ramsa a kaw tawpa tang mangang hram ri.
-bayonet : (beanit), n. laifei, lailungdawt, v.t. laifeia chhun.
-bazooka : (bazuka), n. rocket kah chhuahna silai, hamrik hawlh tawlh zoh zoh chi.
+battalion : n. sipai rual khat (sangkhat rual vel).
+batten : v.i. in-ei-thau, tlai taka hrâi.
+batter : v.t. vaw nawn or hnek nawn awn awn, laipui nena \hâwng, n. gawm siamna hlo (tui nena chawhpawlha thil châr nâna an hman). 
+battering-ram, m. kulh kawngkhar sut chhiat nâna thingluang an zâwn ang hi.
+battery : n. laipui rual, laipui pu pâwl, electric siamna inzawm khâwm (Khawlphekhawnvar battery kan tih mai hi chu pakhat a nih chuan cell tih a ni a, pakhat aia tam inzawm khâwm hi battery a tling chauh a ni).
+battle : (batl), n. indona, insualna. v.i. do, sual, bei, chai.
+battledore : -door (batldawr), n. puan sûk lai vuakna, vuakfung phêk, ball vuakna tiang phêk.
+battlement : n. kulh bang a lai or kotlâng vela laipui ngul rawlhna kaw awm.
+bauble : (bawdl), n. tlereuh, naupang thil khalh.
+bawd : n. nawhchizuar ruaitunu.
+bawdy : adj. hur, zahmawh thil, bawlhhlawh.
+bawl : v.i. khêk, \ê, au ri.
+bay : (bei), adj. sen-uk. n. tuipui khawmual kâra tengsawl lût, tuipui pêng. n. ban pui inkâr. n., v.i. bauh, hûk, beleuh, ramsa a kaw tâwpa \ang mangang hram ri.
+bayonet : (beanit), n. laifei, lailungdawt. v.t. laifeia chhun.
+bazooka : (bazûka), n. rocket kah chhuahna silai, hamrik hawlh tawlh zoh zoh chi.
 be : (bi), v.i. ni, awm, nung.
 beach : (bichh), n. tuipui kam.
-Beachcomber : (bichhkawmber), n. tuifawn sei pui, lawng chawlhhmuna lenvah ching mi, Pacific tuifinriat thliarkara tuikeplung vai emawa khawsa mi.
-beachhead : n. hmelma ram run dawna tui atanga khawmuala sipai rual an pakaina.
-beacon : (biku), n. hmun hlauhawm chhinchhiah nana hmun sanga khawnvar chhit, tlang chhipa mei det, thlawhna kawng bo loh nana an kaihruaitu atana khawnvar chhit en. v.t. entawn atana eng, en.
-bead : (bid), n., v.t., v.i. thi fang thil, tingmit, thi fang, (Katholik-ho tawngtaina thi (rosary)).
-beadle : (bidk), n. kohhrana bial khat awptu, college-a hotu pakhat.
-beagle : (bigl), n. ui sathiam te chi, enthlatu, khawpui dan kengkawhtu officer.
-beak : (bik), n. sava hmui, hnar, hmui.
-beaker : (bikar), n. no lian, no tung.
-beam : (bim), n. thir or thing ban pui or khanchhuk, thil rel or siam reng renga a za pui ber, eng zung, radio zung.
-bean : (bin), n. be chi reng reng, kawm neia rah chi.
-bear : (ber), v.t. chawi, keng, phur, la, tuar, do, zawn, lam hawi, kawk, hring, pai, v.i. tuar, dawhthei, kawk, dawl zo. 
-bearable : adj. tuar theih, bearing, n. lam hawi, hawiher, inlaichinna.
-bear : (ber), n. savawm.
-beard : (bird), n. khabe hmul, v.t. khabe hmula man, va chapchar.
-beast : (bist), n. ramsa chhia leh tha hriatna nei lo, ramsa ang, nunrawng hur. beastliness.
-beat : (bit), v.t. and v.i. vua, vel, hneh, khum, phe vat vat, zaipawl hruaina tiang vai, chawk kawi, n. thil ri nawn (mar phu, sana chek, etc) bial enkawl huam chhung. beaten. adj. sulhnu, chul mam hnu.
-beatify : (biatifai), v.t. hlimna leh lawmna pe, malsawmna dawntir, chatuan lawmna dawnga chhal. beatific (bietifik), beatifical adjs. beatifically, adv. beatification, n. Katholic Kohhranina van ram kai ngeia a chhalna, mi thianghlim an nemngheh dawna rahbi pakhatna, beatic vision, an ram ropuina hmun.
-beatitude : (biatituid), n. van nawmna, hlimna sang ber chi. beatitudes, n. Mathaia ziaka Krista thu sawite.
-beau : (bow), n. mipa inchei uluk or uar mi, ngaizawngtu tlangval Beaux (bows), pl. of
-beau : beau-ideal, n. hmeltha tawpkhawk.
-beau-monde : (bawmawnd), n. khawvel nawmna.
-beauty : (biuti), n. hmelthatna, nalhna, mawina, hmeltha. beauteous (biutias), adj. hmeltha. beautification, n. cheimawina, beautifier, n. cheimawitu. beautiful, adj. hmeltha. beautifully, adv. beatyparlour (biuti parlawr, parla), n. hmeichhe incheina dawr (sam tihkirna, powder, hnawihsen leh lipstick ilova incheina dawr).
-beaver : (bivar), n. tuia khawsa sazu lam chi, chutiang hmul hlu tak mai, beaver hmula siam lukhum, kutkawr, puan etc. Tawng lerah chuan khabe hmul or khaber hmul nei!
-beblubbered : (biblabard), adj. hmel khawlo khawpa tap.
-becall : (bikhawl), v.t. hming ko or hming lam.
-becalm : (bikham), v.t. thlem, dam, tidam, tilungawi, buai or bengchhenna tireh.
+Beachcomber : (bichhkawmber), n. tuifawn sei pui, lawng chawlhhmuna lên vah chîng mi, Pacific tuifinriat thliarkara tuikeplung vâi emawa khawsa mi.
+beachhead : n. hmelma ram rûn dâwna tui a\anga khawmuala sipai rual an pakaina.
+beacon : (bîkn), n. hmun hlauhawm chhinchhiah nâna hmun sânga khawnvar chhit, tlâng chhipa mei dêt, thlawhna kawng bo loh nâna an kaihhruaitu atâna khawnvar chhit ên. v.t. entawn atâna êng, ên.
+bead : (bîd), n., v.t., v.i. \hi fang thil, \ingmit, \hi fang, Katholik-ho \awng\aina \hi (rosary).
+beadle : (bîdl), n. kohhrana bial khat awptu, college-a hotu pakhat.
+beagle : (bîgl), n. uisathiam tê chi, enthlatu, khawpui dân kengkawhtu officer.
+beak : (bîk), n. sava hmui, hnâr, hmui.
+beaker : (bîkar), n. no lian, no tung.
+beam : (bîm), n. thîr or thing banpui or khanchhuk, thil rel or siam rêng rênga a za pui ber, êng zung, radio zung.
+bean : (bîn), n. be chi rêng rêng, kâwm neia rah chi.
+bear : (bêr), v.t. châwi, keng, phur, la, tuar, do, zâwn, lam hawi, kâwk, hring, pai. v.i. tuar, dawhthei, kâwk, dâwl zo. n. savawm.
+bearable : adj. tuar theih.
+bearing : n. lam hawi, hawiher, inlaichinna.
+beard : (bîrd), n. khabe hmul. v.t. khabe hmula man, va chapchar.
+beast : (bist), n. ramsa chhia leh \ha hriatna nei lo, ramsa ke pali nei, mi nunrawng. 
+beastly : adj. ramsa ang, nunrawng, hur. beastliness, n.
+beat : (bît), v.t. and v.i. vua, vêl, hneh, khûm, phe vat vat, zaipâwl hruaina tiang vai, chawk kâwi, n. thil ri nawn (mar phu, sana chek, etc.), bial enkawl huam chhûng.
+beaten : adj. sulhnu, chûl mâm hnu.
+beatify : (biatifai), v.t. hlimna leh lâwmna pe, malsawmna dawntîr, chatuan lâwmna dawnga chhâl. beatific, (bietifik), beatifical adjs. beatifically, adv.
+beatification : n. Katholic Kohhranina vanram kai ngeia a chhâlna, mi thianghlim an nemngheh dâwna rahbi pakhatna.
+beatic vision : vanram ropuina hmun.
+beatitude : (biatituid), n. van nawmna, hlimna sâng ber chi.
+beatitudes : n. Matthaia ziaka Krista thu sawite.
+beau : (baw), n. mipa inchei uluk or uar mi, ngaizawngtu tlangval.
+Beaux : (baws), pl. of beau. 
+beauideal, n. hmêl\ha tawpkhâwk.
+beau-monde : (bawmawnd), n. khawvêl nawmna.
+beauty : (biuti), n. hmêl\hatna, nalhna, mawina, hmêl\ha.
+beauteous : (biutias), adj. hmêl\ha. 
+beautification : n. cheimawina.
+beautifier : n. cheimawitu. beautifully, adv.
+beauty parlour : (biuti parlawr, parla), n. hmeichhe incheina dâwr (sam tihkirna, powder, hnawihsen leh lipstick ilova incheina dâwr).
+beaver : (bivar), n. tuia khawsa sazu lam chi, chutiang hmul hlu tak mai, beaver hmula siam lukhum, kutkawr, puan etc. |awng lerah chuan khabe hmul or khaber hmul nei.
+beblubbered : (biblabard), adj. hmêl khawlo khawpa \ap.
+becall : (bikhâwl), v.t. hming ko or hming lam.
+becalm : (bikham), v.t. thlêm, dam, tidam, tilungawi, buai or bengchhenna tireh.
 became : (bekheim), pa.t. of become.
-because : (bekhawz), adv. and conj. avangin.
+because : (bekhawz), adv. and conj. avângin.
 bechance : (bichhans) v.i. and adj. a palha lo awm, thil lo thleng palh.
-becharm : v.t. mi hip, ai kaih, mi zel thlu.
-beck : n. lui te.
-beck : n. kut zaizir emaw, lu thin emawa mi kohna, v.i., v.t. chutianga mi ko.
-beckon : (bekn), v.i., v.t. kut zaizir emaw, lu thin emawa ko.
-becloud : (biklaud), v.t. chhum anga hliah hlim.
-become : (bikam), v.i.,v.t. ni, chang, mil timawi, inhmehtir.
+becharm : v.t. mi hîp, ai kaih, mi zêl thlu.
+beck : n. lui te. beck, n. kut zaizir emaw, lu thin emawa mi kohna. v.i., v.t. chutianga mi ko.
+beckon : (bekn), v.i., v.t. kut zaizir emaw, lu thin emawa mi ko.
+becloud : (biklaud), v.t. chhûm anga hliah hlim.
+become : (bikam), v.i., v.t. ni, chang, mil, timawi, inhmehtîr.
 becurl : v.t. tikir, tivial.
-bed : n. khum, huan zawl (thlai leh pangpar chinna hmun), thil innghahnaa or zalna, lui tui luanna (li mawng), thil inthuaha a na (li mawng), thil inthuaha a zen khat, v.t., v.i. pangpar phun, mu, inngai, inpawl.
+bed : n. khum, huan zâwl (thlai leh pangpâr chînna hmun), thil innghahnaa or zâlna, lui tui luanna (li mawng), thil inthuaha a zên khat. v.t., v.i. muttîr, thlai or pangpâr phun, mu, inngai, inpâwl.
 bedbug : (bedbag), n. khumfa.
-bedding : n. puanthuah, mutna thuamhnow, bedfast, adj. khumbet.
-bedpan : n. damlo ek bel.
+bedding : n. puanthuah, mutna thuamhnaw.
+bedfast : adj. khumbet.
+bedpan : n. damlo êk bêl.
 bed-post : n. khum ban.
 bedridden : bedriden, adjs. damlo khumbet.
-bedsore : n. hun rei tak khumbetina an pangti an delh pan.
+bedsore : n. hun rei tak khumbetina an pangti an delh pân.
 bedtime : mut hun.
-bedabble : (bidabl), v.t. phuh huh, tihuh.
-bedaggle : (bidagl), v.t. hnuk huh, hnuk bawlhhlawh.
+bedabble : (bidabl), v.t. phuh huh, tihuh. v.t. hnûk huh, hnûk bawlhhlawh.
 bedarken : v.t. hliah thim.
 bedash : v.t. theh huh.
-bedaub : (bidowb), v.t. chulh, hnawih.
-bedaze : (bideiz), bedazzle (bidazl), vs.t. eng lutuka chhun.
-bedeafan : (bidefu), v.t. tibengchhet.
+bedaub : (bidawb), v.t. chulh, hnawih.
+bedaze : (bideiz), bedazzle (bidazl), v.t. êng lutuka chhun.
+bedeafen : (bidifn), v.t. tibengchhêt.
 bedeck : (bidek), v.t. cheimawi.
-bedevil : (bedevl), v.t. tibuai, tichiai, ramhuai zawl.
-bedew : (bidiu), v.t. dai anga tihnawng.
+bedevil : (bedevl), v.t. tibuai, tichiai, ramhuai zâwl.
+bedew : (bidiu), v.t. dâi anga tihnâwng.
 bedight : (bidait), v.t. chei, thuam.
 bedim : (bidim), v.t. tithim.
-bedizen : (bidaizn, bidizn), v.t. a lepler zawnga chei.
-bedlam : n. mi a dah khawmna hmun, phek buaina hmun London khawpuia mi a dah khawmna hmun (Bethlehem tih kaihtawi).
-bedouin : bedawin (biduin), n. Arab hnam hmun nghet nei lova vak vel chi.
-bedraggle : (bidragl), v.t. lei hnawng leh hmun bawlhhlawha hnuk hrep (bedaggle).
+bedizen : (bidaizn, bidizn), v.t. a lepler zâwnga chei.
+bedlam : n. mi â dah khâwmna hmun, phêk buaina hmun. (London khawpuia mi â dah khâwmna hmun, Bethlehem tih kaihtawi).
+bedouin : bedawin (bidûin), n. Arab hnam hmun nghet nei lova vâk vêl chi.
+bedraggle : (bidragl), v.t. lei hnâwng leh hmun bawlhhlawha hnâk hrep (bedaggle).
 bedrench : v.t. tihuh.
-beddrop : v.t. chungtlak, delh.
+bedrop : v.t. chungtlak, delh.
 beduck : (bidak), v.t. bu zauh, liluh.
-bedung : (bidang), v.t. vaivut phul, ek hnawih.
-bedust : (bidast), v.t. vaivut kaitir.
-bedwarf : (biduawrf), v.t. tite chem chem, sitawma siam.
+bedung : (bidang), v.t. vaivut phul, êk hnawih.
+bedust : (bidast), v.t. vaivut kâitir.
+bedwarf : (biduawrf), v.t. titê chem chem, sitawma siam.
 bedye : (bidai), v.t. rawng dum.
-bee : (bi), n. khuai (a zu nei chi), America ramah chuan a huhova intihlim nan emawa mihring kal khawm, bee-line, khuai haw lam anga ngil leh ding taka thil pan.
-beech : (bichh), n. nawhalh thing ang chi.
-beef : (bif), n. bawng sa, pangtitihrawl tha, thahrui ngah.
-Beelzebub : (bielzibab), n. Philistine-ho pathian lem biak Baal hming chi khat, ramhuai lal.
-been : (bin), pa.p. of be.
-beer : (bir), a. Sap zufang.
-beestings : (bistingz), bawng no neiha a hnute sawr hmasak ber hi.
-beet : (bit), antam bulbawk buluih ang deuh thlum duak chi.
-beetle : (bitl), sephung ang chi reng reng (rawmung tiamin). nungcha thla kawr khauh tak nei chi tawhphawt, beetle-browed, adj. chal lawk, thil poh, tolawt, n. thing tuboh, talhtum, rawtfung or khelawk.
+bee : (bi), n. khuai (a zu nei chi), America ramah chuan a huhova intihlim nân emawa mihring kal khâwm.
+bee-line : khuai haw lam anga ngil leh ding taka thil pan.
+beech : (bîchh), n. nawhalh thing ang chi.
+beef : (bîf), n. bâwng sa, pangti, tihrawl \ha, thahrui ngah.
+Beelzebub : (bielzibab), n. Philistine-ho pathian lem biak, Baal hming chi khat, ramhuai lal.
+been : (bîn), pa.p. of be.
+beer : (bîr), a. Sap zufang.
+beestings : (bîstingz), bâwng no neiha a hnute sâwr hmasak ber.
+beet : (bît), an\am bulbawk buluih ang deuh thlum duak chi.
+beetle : (bîtl), sephung ang chi rêng rêng (rawmung tiamin). nungcha thla kâwr khauh tak nei chi tawh phawt.
+beetle-browed : adj. chal lawk, thil poh, tolawt. n. thing tuboh, talhtum, rawtfung or khelawk.
 befall : (bifawl), v.t., v.i. chunga thleng, chunga tla.
-befit : (bifit), v.t., v.i. hmeh, mil, remchang, dik, awm, befitting, adj. thil awm, thil remchang.
-beflower : (biflauar), v.t. pangpara khuh.
+befit : (bifit), v.t., v.i. hmeh, mil, remchang, dik, âwm.
+befitting : adj. thil âwm, thil remchang.
+beflower : (biflauar), v.t. pangpâra khuh.
 befoam : (bifawm), v.t. thil phuana khuh.
-befog : (bifowg), v.t. tiauchhuma tuam, rilru chibu.
-befool : (biful), v.t. bum, chhaih nawmnah, tham lo taka chhaih (mi phutkhat biaka bia).
-before : (bifawr), prep., adv., conj. ahmaah, beforehand, adv. a hmain.
+befog : (bifawg), v.t. \iauchhuma tuam, rilru chîbu.
+befool : (bifûl), v.t. bum, chhaih nawmnah, tham lo taka chhaih (mi phutkhat biaka bia).
+before : (bifawr), prep., adv., conj. a hmaah.
+beforehand : adv. a hmain.
 befoul : (bifaul), v.t. tikhawlo, ti bawlhhlawh.
-befriend : (bifrend), v.t. kawmngeih, thiana siam, tlawn.
+befriend : (bifrend), v.t. kâwmngeih, \hiana siam, tlawn.
 befuddle : (befadl), v.t. tibuai, mumal lova siam.
-beg : v.t. kutdawh, ngen.
+beg : v.t. kutdawh, ngên.
 beggar : n. kutdawh.
-beget : (biget), v.t. paw chhuak, hring, begat, hman laia beget pa.t. begot aia an hman thin. begotten, begot, pa.p of beget.
+beget : (biget), v.t. paw chhuak, hring. begat, hmanlaia beget pa.t. begot aia an hman \hin.
+begotten : begot, pa.p of beget.
 begild : (bigild), v.t. cheimawi, rangkachaka luan.
-begin : (bigin), v.i., v.t., tan, awm tan, beginner, n. zirtir, mi tharlam.
-begird : v.t. vet.
-begloom : (biglum), v.t. tingui.
-begone : interj. chhuak rawh! thlawk kat rawh!
-begorra : (bigawra), interj. e heu!
+begin : (bigin), v.i., v.t., \an, awm \an.
+beginner : n. zirtir, mi tharlam.
+begird : v.t. vêt.
+begloom : (biglûm), v.t. tingui.
+begone : (bigawn), interj. chhuak rawh! thlawk kat rawh!
+begorra : beggorrah (bigawra), interj. e heu!
 begrime : (bigraim), v.t. tibawlhhlawh.
-begrudge : (biraj), v.t. thik, itsik.
+begrudge : (biraj), v.t. thîk, itsîk.
 beguile : (begail), v.t. bum, thil ninawm hawisan.
-begum : (bigam), Mosolman lal nula emaw, hmeichhe nihna nei sang tak.
-behalf : (bihaf), n. aiah, tanah.
-bahave : (beheiv), v.t., v.i., khawsa, chetla, behaviour, n. nungchang, khawsazia.
+begum : (bîgam), Mosolman lal nula emaw, hmeichhe nihna nei sâng tak.
+behalf : (bihâf), n. aiah, tânah.
+bahave : (biheiv), v.t., v.i., khawsa, chetla.
+behaviour : n. nungchang, khawsazia.
 behead : (bihed), v.t. lu tan chhum.
 beheld : pa.t., pa.p. of behold.
-behest : n. thupek.
-behind : (bihaind), adv. prep. hnungah.
-behold : (behawld), v.t. and v.i. en, hmu, ngai teh. beholden, adj. lawmthu sawi ba, beholder, n.
-behoof : (bihuf), n. hamthatna, remchang.
-behove : behoove (bihuf), v.t. and v.i. remchang, a dik, a awm, a tul.
-beige : (beizh), n. sahmul puan rawng dum lo.
-being : (bing), n. thil awm, thil siam, nihna.
-bejewel : (bijuel), v.t. lunghlu (jewel)-a chei.
-beknown : (binawn), adj. hria, hriat.
-belabour : (bilebar), v.t. vel, vawhrep, nghaisa.
-belate : (beleit), v.t. tikhawtlai, tihnufum. belated, adj. tlai, tlai khaw hnu.
-belaud : (bilowd), v.t. fak.
-belay : (bilei), v.t. tlereuhva chei, khing, hual, zim, lambun, phuar.
+behest : n. thupêk.
+behind : (bihaind), adv., prep. hnungah.
+behold : (behâwld), v.t. and v.i. en, hmu, ngai teh.
+beholden : adj. lawmthu sawi ba. beholder, n.
+behoof : (bihûf), n. ham\hatna, remchang.
+behove : behoove (bihûf), v.t. and v.i. remchang, a dik, a âwm, a \ûl.
+beige : (bêizh), n. sahmul puan rawng dum loh.
+being : (bîng), n. thil awm, thil siam, nihna.
+bejewel : (bijûel), v.t. lunghlu (jewel)-a chei.
+beknown : (bînâwn), adj. hria, hriat.
+belabour : (bilêbar), v.t. vêl, vaw hrep, nghaisa.
+belate : (beleit), v.t. tikhawtlai, tihnufum.
+belated : adj. tlai, tlaikhawhnu.
+belaud : (bilâwd), v.t. fak.
+belay : (bilei), v.t. tlereuhva chei, khing, hual, zîm, lambun, phuar.
 belch : (belchh, belsh), v.t., v.i. irh, phuh chhuak.
-beleaguer : (biligar), v.t. hual, zim.
-belfry : (belfri), n. dar khaina in sang, biak in chhipa dar khaina.
+beleaguer : (bilîgar), v.t. hual, zîm.
+belfry : (belfri), n. dâr khaina in sâng, biak in chhîpa dâr khaina.
 Belgian : (beljian), n., adj. Belgium hnam, Belgian thil.
-Belial : (bilial), n. ramhnuai, angel tlu sualte zinga mi.
-belie : (bilai), v.t., dawttir, dik lova chantir, hmel dik lo lan.
-believe : (biliv), v.t., v.i., ring, awih, belief, n. rinna. believable, adj. believer, n. ringtu.
+Belial : (bîlial), n. ramhnuai, angel tlu sualte zînga mi.
+belie : (bilai), v.t., dâwttir, dik lova chantir, hmel dik lo lan.
+believe : (bilîv), v.t., v.i., ring, awih.
+belief : n. rinna. believable, adj.
+believer : n. ringtu.
 belike : (biliak), adv. mai thei.
-belittle : (bilitl), v.t. deusawn, hmusit, endawng.
-bell : n. dar. bell, v.i. hram, huk.
-belle : (bel), n. nula hmeltha.
+belittle : (bilitl), v.t. deusawh, hmusit, endawng.
+bell : n. dâr. bell, v.i. hrâm, hûk.
+belle : (bel), n. nula hmêl\ha.
 belles-lettres : (belletr), n. thu ziak or phuah nalh tak.
-bellicose : (belikaws), adj. ralhrat, tawrawt, butut.
-belligerent : (belijarent), adj., n. indopui nei lai mek, ralhrat.
-bellow : (below), v.i., v.t., n. bawng bu, ring taka au, thum taka hram.
-bellows : (belowz), n. pum zah chi.
-belly : (beli), n. pum, dul, chhul, thil chhungril, thil kiar lai, kawchhung.
-belong : (bilawng), v.i. inhnamhnawih, tel ve, kalpui, zawm. belongings, n. thuamhnaw, bungrua.
+bellicose : (belikaws), adj. râlhrât, tawrawt, butut.
+belligerent : (belijarent), adj., n. indopui nei lai mêk, râlhrât.
+bellow : (belaw), v.i., v.t., n. bâwng bû, ring taka au, thûm taka hrâm.
+bellows : (belowz), n. pûm zah chi.
+belly : (beli), n. pum, dul, chhûl, thil chhûngril, thil kiar lai, kawchhûng.
+belong : (bilawng), v.i. inhnamhnawih, tel ve, kalpui, zawm.
+belongings : n. thuamhnaw, bungrua.
 belove : (bilav), v.t. hmangaih. beloved (bilavid), adj. n. hmangaih.
-below : (bilow), prep. adv. hnuaiah, hnuaihnung, phu lo, tling lo.
-belt : n., v.i. kawnghren, thil vettu, khawl vir tluanghrui atana hrui phek an hman, ram zau khat, thil vet.
-belvedere : (belvidir), n. in chhunga boruak emaw, eng luh nan emawa zarhliap nei an tihkuak ang hi, mualpawng chunga in thengthaw.
-bemean : (bimin), v.t. hnukhniam, titlawm.
-bemoan : (bimawn), v.t. pawiti, sun.
-bemuddle : (bimadl), v.t. tichibu, mumal nei thei lova siam.
+below : (bilaw), prep. adv. hnuaiah, hnuaihnung, phû lo, tling lo.
+belt : n., v.i. kâwnghrên, thil vêttu, khâwl vir tluanghrui atâna hrui phêk an hman, ram zau khat, thil vêt.
+belvedere : (belvidîr), n. in chhûnga boruak emaw, êng luh nân emawa zarhliap nei an tihkuak ang hi, mualpâwng chunga in thengthaw.
+bemean : (bimîn), v.t. hnûk hniam, titlâwm.
+bemoan : (bimawn), v.t. pawiti, sûn.
+bemuddle : (bimadl), v.t. tichîbû, mumal nei thei lova siam.
 bemuse : (bimiuz), v.t. tichiai.
-bench : n. thutthlengsei, hnathawhna dawhkan sei, thubuai roreltu rual khat, roreltu thutna.
-bend : v.t. thlep, ulh, kuai ku (kur), titlawm.
-beneath : (binith), prep. hmaah.
-benediction : (benedikshn), Pathian malsawmna dilna inkhawm or tawngtai, malsawmna.
-benefaction : (benefakshn), n. thil tha tih, thil thlawn pekna. tanpuina, benefactor, n. thil tha tihsaktu.
-beneficence : (benefisens), n. thil tha tih, tanpuina lawmawm. beneficent, adj.
-benefit : (benifit), n. hlawkna, duhsakna, v.i. hlawkpui.
-benevolence : (benevalens), n. thil tha tih chakna, khawngaih thiltih mirethei tanpuina pawisa thawh. benevolent, adj. thilphal.
-Bengali : (ben-gawli, beng-gawli a ni lo), adj. n. Bengali tawng, Bengali hnam.
-benight : (binait), v.t. thima tuam, hrilhhaina nena khahtir, benighted, adj. thim hnan, thima awm, mawl, vengva lo.
-benign : (benain), adj. tha, zaidam, mi khawngaih thei.
+bench : n. \hutthlêngsei, hnathawhna dawhkân sei, thubuai rorêltu rual khat, rorêltu \hutna.
+bend : v.t. thlep, ulh, kuai kûn (kûr), titlâwm.
+beneath : (binîth), prep. hmaah.
+benediction : (benedikshn), Pathian malsâwmna dîlna inkhâwm or \awng\ai, malsâwmna.
+benefaction : (benefakshn), n. thil \ha tih, thil thlâwn pêkna, \anpuina.
+benefactor : n. thil \ha tihsaktu.
+beneficence : (benefisens), n. thil \ha tih, \anpuina lawmawm. beneficent, adj.
+benefit : (benefit), n. hlâwkna, duhsakna, v.i. hlâwkpui.
+benevolence : (benevalens), n. thil \ha tih châkna, khawngaih thiltih, mi rethei \anpuina pawisa thawh.
+benevolent : adj. thilphal.
+Bengali : (ben-gawli, beng-gawli a ni lo), adj. n. Bengali \awng, Bengali hnam.
+benight : (binait), v.t. thima thuam, hrilhhaina nena khahtir.
+benighted : adj. thim hnan, thima awm, mâwl, vengva lo.
+benign : (benain), adj. \ha, zaidam, mi khawngaih thei.
 benignancy : (binigaansi), n. ngilneihna. benignant, adj. benignly, adv.
-benison : (benizn), n. malsawmna.
-bent : adj., n. kawm, thlep, kual, thlek lam, awn lam, nger lam.
+benison : (benizn), n. malsâwmna.
+bent : adj., n. kawm, thlep, kual, thlêk lam, âwn lam, nger lam.
 benthos : n. tuifinriat mawnga thil nung (hnim, sangha, etc.).
 benumb : (binam), v.t. tihik, tizeng, thil hre lova siam.
 bequeath : (bikuidh), v.t. rochhiah.
-bequest : (bikuest), n. rochhiahna, ro khawm.
+bequest : (bikuest), n. rochhiahna, ro khâwm.
 berate : (bireit), v.t. hau hrep.
-beray : (birei), v.t. tikhawlo, tibawlhhlawh.
+beray : (birêi), v.t. tikhawlo, tibawlhhlawh.
 berceuse : (bersaz), n. nau awih hla.
-bere : beer, bear (bir), n. lukham kawr.
-bereave : (beriv), v.t. thil hlu ruk sak, thil chantir, thihnaa thentir, bereft, bereaved, pa.t., pa.p. of bereave. bereaved, adj. khawhar, lusun thil chan. bereavement, lusunna.
-beret : berret, n. sipai lukhum, sahmul puan thui bial satliaha hnung lam or sir lama a chhip kaih thleh ang chi.
-beriberi : n. vitamin B tlakchham vanga buar or bawr natna (pangti vung lai hian hmeha khuar duk duk thei).
+bere : beer, bear (bîr), n. lukham kâwr.
+bereave : (berîv), v.t. thil hlu rûksak, thil chântir, thihnaa \hentir. bereft, bereaved, pa.t., pa.p. of bereave.
+bereaved : adj. khawhar, lusûn, thil chân.
+bereavement : lusûnna.
+beret : berret, n. sipai lukhum, sahmul puan \hui bial satliaha hnung lam or sir lama a chhîp kaih thleh ang chi.
+beriberi : n. vitamin B tlâkchham vânga buar or bawr natna (pangti vûng lai hian hmeha khuar duk duk thei).
 berry : (beri), n. theihmu chi khat.
-berserk : berserker, (barsark), nn., adj. thinur lama thatho lutuk, thinur vanga a.
-berth : (barth), n. lawng chawlh hmuna lawng inthlunna, lawng, thlawhna, rel, etc. a thutna or mutna pindan. v.t. lawng thlung, mi thutna pe.
-beryl : (beril), n. lunghlu chi thenkhat.
-beseech : (bisichh), v.t. ngen. besought, beseeched, pa.t. and pa.p. of beseech.
-beseem : (bisim), v.t. and v.i., ang, hmeh, inhmeh, phu.
-beset : (biset), v.t. hual nawr, kar, nek.
+berserk : berserker, (barsark), nn., adj. thinur lama thatho lutuk, thinur vânga â.
+berth : (barth), n. lawng chawlh hmuna lawng inthlunna, lawng, thlawhna, rêl, etc. a \hutna or mutna pindan. v.t. lawng thlung, mi \hutna pe.
+beryl : (beril), n. lunghlu chi \henkhat.
+beseech : (bisîchh), v.t. ngên. besought, beseeched, pa.t. and pa.p. of beseech.
+beseem : (bisîm), v.t. and v.i., ang, hmeh, inhmeh, phû.
+beset : (biset), v.t. hual, nawr, kar, nêk.
 beshrew : (bishru), v.t. anchhe lawh khum.
-beside : (bisaid), prep. kiangah, sirah, bulah, chu lo rengah, pawn lamah (beside himself with fury- thinur luat avangin a inthehnghilh or a pawn lamah a cheng tawh), adv. 'chu lovah' 'chu bakah' tihna a nih chuan besides tih nen a inang.
-besiege : (bisij), v.t. hual, sipai nena hual, ninawm khawpa ngen or zar zar buai.
-beslobber : (bislowbar), v.t. chil pik khum, fawp chawk chawk, ngeiawm khawpa fakder.
-besmear : (bismir), v.t. chulh, tat, hnawih, tibawlhhlawh.
-besmirch : (bismarchh), v.t. tibawlhhlawh, tihang, hnawih dum, tiung.
-besmut : (bismat), v.t. inting, hnawih hang.
-besom : (bizam, bezam), n. thingtang or mau kuang hmunphiah.
+beside : (bisaid), prep. kiangah, sirah, bulah, chu lo rêngah, pawn lamah (beside himself with fury - thinur luat avângin a inthehnghilh or a pâwn lamah a chêng tawh), adv. 'chu lovah' 'chu bakah' tihna a nih chuan besides tih nen a inang.
+besiege : (bisîj), v.t. hual, sipai nena hual, ninawm khawpa ngên or zar zar buai.
+beslobber : (bislawbar), v.t. chil pik khum, fâwp chawk chawk, ngeiawm khawpa fakder.
+besmear : (bismîr), v.t. chulh, tât, hnawih, tibawlhhlawh.
+besmirch : (bismarchh), v.t. tibawlhhlawh, tihâng, hnawih dum, tiung.
+besmut : (bismat), v.t. in\ing, hnawih hâng.
+besom : (bîzam, bezam), n. thing\ang or mau kuang hmunphiah.
 bespangle : (bispangl), v.t. thil tle neuh neuhva chei.
 bespatter : v.t. thil bawlhhlawh or tuia theh or phuh, tihmingchhia.
-bespeak : (bispik), v.t. sawi lawk sak, dil sak.
-bespeckle : (bispekl), v.t. chhun hang thliah thliah, tial.
+bespeak : (bispîk), v.t. sawi lâwksak, dilsak.
+bespeckle : (bispekl), v.t. chhun hâng thliah thliah, \ial.
 bespectacled : (bispektakld), adj. tarmit vuah.
-bespit : (bispi), v.t. chil chhak khum or pik khum.
+bespit : (bispit), v.t. chil chhâk khum or pik khum.
 bespread : (bispred), v.t. khuh, phah hnan.
-best : adj. tha ber. n. tihthat theih ang ber, a tha ber.
-bestseller : n. hun engemaw chhunga lehkhabu hralh tla ber.
-bestman : bestmaid, n. inneihnaa mo neitu leh mo thian.
-bestead : (bisted), v.t. chhawk, tanpui, chhawr, tangkai.
-bestial : adj. ramsa ang mai, nun rawng, hur. bestiality, n.
-bestir : v.t. chawk phur.
-bestow : (bistow), v.t. pe, hlan.
-bestride : (bistraid), v.t. kar, kapkalak.
-bet : n., v.t. and v.i. pawisa inchawina, thum vawrna pawisa inchawi.
+best : adj. \ha ber. n. tih\hat theih ang ber, a \ha ber.
+bestseller : n. hun eng emaw chhûnga lehkhabu hralh tla ber.
+bestman : bestmaid, n. inneihnaa mo neitu leh mo \hian.
+bestead : (bisted), v.t. chhâwk, \anpui, chhawr, \angkâi.
+bestial : adj. ramsa ang mai, nunrâwng, hur. bestiality, n.
+bestir : v.t. chawk phûr.
+bestow : (bistow), v.t. pe, hlân.
+bestride : (bistraid), v.t. kâr, kapkalak.
+bet : n., v.t. and v.i. pawisa inchâwina, \humvâwrna pawisa inchâwi.
 beta : (bita), n. Grik hawrawpa a pahnihna (ß).
-betake : (biteik), v.t. kal, mahniaa ti.
-betel : (bitl), n. panruang. betel nut, n. kuva, betel leave, n. panhnah.
-bethel : n. hmun thianghlim, biak buk.
-benthink : (bithingk), v.t. ngaihtuah chhuak, mahni inngaihtuah.
+betake : (biteik), v.t. kal, mahnia ti.
+betel : (bitl), n. panruang.
+betel nut : n. kuhva.
+betel leave : n. panhnah.
+bethel : n. hmun thianghlim, biakbûk.
+bethink : (bithingk), v.t. ngaihtuah chhuak, mahni inngaihtuah.
 betide : (bitaid), v.i. and v.t. lo thleng, chunga tla.
 betimes : (bitaims) adj. a hun dik, hun remchangah.
-betoken : (bitawkn), v.t. entir, kawk, hrilh lawk.
+betoken : (bitawkn), v.t. entir, kâwk, hrilh lâwk.
 betray : (bitrei), v.t. phatsan, bum, tum lohva puangzar.
-betroth : (bitrowdh, betrawth), vt. nupui pasal in hual. betrothal (bitrowdal).
-better : adj. and adv. tha zawk, dam deuh tawh n. aia u, tluk loh.
-betterment : n. hamthatna.
-between : (bituin), prep. and adv. inkarah, laiah.
-betwixt : (bituikst), prep and adj, inkarah.
-bevel : (bevl), n, awih mam, thil mam awn, thil kil zauh lam tehna hmanrua kaih thleh theih.
-beverage : (bevarij), n, zu, thingpui, thil in mi (in chi) reng reng.
+betroth : (bitrawdh, betrawth), vt. nupui pasala inhual. bethrothal (bitrawdal) n.
+better : adj. and adv. \ha zâwk, dam deuh tawh. n. aia û, tluk loh.
+betterment : n. ham\hatna.
+between : (bituin), prep. and adv. inkârah, laiah.
+betwixt : (bituikst), prep and adj, inkârah.
+bevel : (bevl), n, âwih mâm, thil mâm âwn, thil kil zauh lam tehna hmanrua kaih thleh theih.
+beverage : (bevarij), n. zu, thingpui, thil in mi (in chi) rêng rêng.
 bevy : (bevi), n. nula or hmeichhe rual, sava rual.
-bewail : (biueil), v.t. vi. sùn, pawiti.
-beware : (biueir), vt. vi. inveng, pawisa (rawh). v.t. laka inveng.
-beweep : (biuip), vt. tah khum, pawiti.
-bewilder : (biuildar), vt. mak tih tir, chawk buai, tichiai.
-bewitch : (biuichh), v.t. ai kaih, zèl.
-bewitching : adj. hmeltha lutuk.
+bewail : (biueil), v.t. vi. sûn, pawi ti.
+beware : (biueir), vt., vi. invêng, pawisa (rawh). v.t. laka invêng.
+beweep : (biuip), vt. \ah khum, pawi ti.
+bewilder : (biuildar), vt. mak tihtîr, chawk buai, tichiai.
+bewitch : (biuichh), v.t. aikaih, zêl.
+bewitching : adj. hmel\ha lutuk.
 bewray : (birei), v.t. tilang, puang, phawrh chhuak.
-beyond : prep. piah lamah, phak bakah, tih lovah chuan. adv. aia hlaah, n. hriat phak loh, thlarau khawvel.
-biannual : (baianiual), adj. kum hnih zelah, kum khata vawi hnih.
-bias : (baias), n, a kalh or thle zawng, rilru kawi zawng, tikawitu or thununtu.
-bib : n. naute chilthli dawmna, puan awrh, heh uai, hmui ner. v.t., v.i. zu in, tlem tlema zu in reng.
-Bible : (baibl), n, Pathian lehkhabu, lehkhabu rawn ber or ngaihhlut ber, sakhaw hrang hrang lehkhabu ngaihhlut ber. biblical (biblikl), adj.
-bibliography : (bibliowgrafi), n. lehkhabu hrang hrang rawn tur ziak chhuahna.
-bibulous : (bibiulas), adj. thiltui hip lut or fawp thei.
-bicameral : (baikamaral), adj. piandan pahnih nei.
-bicarbonate : (baikarbaneit), n. carbonic acid chi khat.
+beyond : (biîawnd), prep. piah lamah, phâk bâkah, tih lovah chuan. adv. aia hlaah, n. hriat phak loh, thlarâu khawvel.
+biannual : (baianiual), adj. kum hnih zêlah, kum khata vawi hnih.
+bias : (baias), n, a kalh or thle zâwng, rilru kâwi zâwng, ngaihdân, tikâwitu or thununtu.
+bib : n. naute chilthli dâwmna, puan awrh, heh uai, hmui ner. v.t., v.i. zu in, tlêm tlêma zu in reng.
+Bible : (baibl), n. Pathian Lehkhabu, lehkhabu râwn ber or ngaihhlut ber, sakhaw hrang hrang lehkhabu ngaihhlut ber. biblical (biblikl), adj.
+bibliography : (bibliawgrafi), n. lehkhabu hrang hrang râwn tûr ziak chhuahna.
+bibulous : (bibiulas), adj. thil tui hîp lût or fâwp thei.
+bicameral : (baikamaral), adj. pindan pahnih nei.
+bicarbonate : (baikarbaneit), n. carbonic acid chi khat. 
 bicentenary : (baisentinary, -tenari, -tinari), n, adj. kum zahnih thil, zahnih thil.
-biceps : (baiseps), n. banpuam, 'malpuipuam' tih nan pawh an hmang zauh thin.
+biceps : (baiseps), n. banpuam, 'malpuipuam' tih nân pawh an hmang zauh \hîn.
 bicipital : adj. lu pahnih nei.
-bicker : (bikar), vi. thil tenauva hnial, phe vet vet, ri hiau hiau, n. insual buaina. n. thleng, thing kuang chawhtawlh.
+bicker : (bikar), vi. thil tenauva hnial, phe vet vet, ri hiau hiau, n. insual buaina. bicker, n. thleng, thing kuang chawhtawlh.
 bicorporate : (baikawrpareit), adj. lu pakhat leh taksa pahnih nei.
-bicuspid : (baikaspid), adj. hmawr zum or ki pahnih nei, n. hapui hlam.
-bicycle : (baisikl), n. thirsakawr.
-bid : v.t. pek tum, rawt, inneih tur thu puang, thu pe, lilamna chhang, lehkhadena phit zat tur hauh lawk. bid fair, ni mai thei. v.t. dil, sàwm, thu pe, chibaibuk.
+bicuspid : (baikaspid), adj. hmâwr zum or ki pahnih nei. n. hapui hlam.
+bicycle : (baisikl), n. thîrsakawr.
+bid : v.t. pêk tum, rawt, inneih tûr thupuang, thu pe, lilamna chhâng, lehkhadena phit zât tûr hauh lawk. bid, v.t. dîl, sâwm, thu pe, chibai bûk.
+bid fair : ni mai thei. 
 bade : (bad), pa.t. of bid.
-bide : (baid), v.t. nghàk, cheng, chàm. v.t. nghak, zam hlek lova hmachhawn, tuar.
-bident : (baident), n. hmanraw kut or ki pahnih nei, beram kum hniha upa.
+bide : (baid), v.t. nghâk, chêng, châm. v.t. nghâk, zâm hlek lova hmachhawn, tuar.
+bident : (baident), n. hmanraw kut or ki pahnih nei, berâm kum hniha upa.
 biennial : (baienial), adj. kum hnih awh or daih, kum hniha vawikhat awm, thlai or hnim a kum hnihnaa puitlinga thi leh.
-bier : (bir), n. mitthi zàwn hlàng (thinga siam).
-bifacial : (baifeshl), adj. hmai pahnih nei, sir inang lo pahnih nei.
-bifarious : (baiferias), adj. thuang, thlur hnih.
+bier : (bîr), n. mitthi zâwn hlâng (thinga siam).
+bifacial : (baifêshl), adj. hmai pahnih nei, sîr inang lo pahnih nei.
+bifarious : (baifêrias), adj. \huang, thlûr hnih.
 bifilar : (baifailar), adj. zai hnih or hrui hnih nei.
-bifocal : (baifawkal), adj. eng zung thlur khat aia tama siam thei (tarmit leh kawlphekhawnvar darthlalang ilovah te).
-bifold : (baifawld), adj. a let hnih, a thuah hnih.
-bifoliate : (baifawlieit), adj. hnah pahnih nei, hnaha a kàk pahnih nei.
-bifurcate : (baifarkeit), adj. thlur hnih nei, ki hnih or zar pahnih nei, v.i. thlur hnih a then. bifurcation, n.
-big : adj. lian, hrawl, hmangaihna ngah, rign, inngai ropui.
-big horn : n. sathar or saza chikhat.
-bigamy : (bigami), n. nupui/pasal pahnih nei. bigamist, n. nupui/pasal pahnih nei. bigamous, adj.
-biggin : n. naute lukhum, zan mutnaa khum chi sahmul phiar lukhum.
-bigha : n. India in hmun lo ram zau lam tehna (tunlai chuan acre hmun thum a then a hmun khat a zau).
-bigot : (bigawt, bigat), n. mahni pàwl or kohhran atchilh, khaw hmulo khawp a mahni pawl tan mi. bigoted, adj. bigotry, n.
-bijou : (bizhu), n. tlereuh incheina chi, thingrem te tak te.
-bike : (baik), n. thirsakawr (tawnglèr a ni).
-bilabial : (bailebial), adj. hmui pahnih nei, hmui insi emaw, hmui kum emawa hawrawp lam rik ngai (b leh w leh p te ang hian).
-bilateral : (bailataral), adj. sir hnih or pawl hnih kaikawp or khawih. (bilateral agreement- mi or pawl pahnih inremna).
-bilbo : (bilbow), n. ngunhnam, khandaih.
-bile : (bail), n. mìt khà, mìt tui (sa chek khà pawh hi mìt atanga lo kal a ni a, a tui hnang khà hi bile juice an ti awm e). biliary, bilious, adjs.
-bilge : (bilj), n. thingrem muma a puar lai hi, lawng mawng zawl zau lai ber, lawng chhuata tui chhe tling.
-bilingual : (bailinggual), adj. tawng hrang pahnih kalpui, tawng hrang chi hnih thiam.
+bifocal : (baifâwkal), adj. êng zung thlûr khat aia tama siam thei (tarmit leh kawlphekhawnvar dârthlalang ilovah te).
+bifold : (baifawld), adj. a lêt hnih, a thuah hnih.
+bifoliate : (baifawlieit), adj. hnah pahnih nei, hnaha a kâk pahnih nei.
+bifurcate : (baifarkeit), adj. thlûr hnih nei, ki hnih or zâr pahnih nei, v.i. thlûr hniha \hen. bifurcation, n.
+big : adj. lian, hrawl, hmangaihna ngah, ring, inngai ropui.
+big horn : n. sathâr or saza chikhat.
+bigamy : (bigami), n. nupui pasal pahnih neih.
+bigamist : n. nupui/pasal pahnih nei. bigamous, adj.
+biggin : n. naute lukhum, zân mutnaa khum chi sahmul phiar lukhum.
+bigha : n. India in hmun lo ram zau lam tehna (tûnlai chuan acre hmun thum a \hena hmun khata zau).
+bigot : (bigawt, bigat), n. mahni pâwl or kohhran âtchilh, khaw hmulo khawpa mahni pâwl \an mi. bigoted, adj. bigotry, n.
+bijou : (bizhû), n. tlereuh incheina chi, thingrem tê tak tê.
+bike : (baik), n. thîrsakawr (\awnglêr a ni).
+bilabial : (bailêbial), adj. hmui pahnih nei, hmui insi emaw, hmui kum emawa hawrawp lam rîk ngai (b leh w leh p te ang hian).
+bilateral : (bailataral), adj. sîr hnih or pâwl hnih kaikawp or khawih. (Bilateral agreement - mi or pâwl pahnih inremna).
+bilbo : (bilbaw), n. ngûnhnâm, khandaih.
+bile : (bail), n. mît khâ, mît tui (sachek khâ pawh hi mît a\anga lo kal a ni a, a tui hnâng khâ hi bile juice an ti âwm e). biliary, bilious, adjs.
+bilge : (bilj), n. thingrem mûma a puar lai hi, lawng mawng zâwl zau lai ber, lawng chhuata tui chhe tling.
+bilingual : (bailinggual), adj. \awng hrang pahnih kalpui, \awng hrang chi hnih thiam.
 bilk : v.t. bum.
-bill : n. sava hmui, America ramah chuan pawisa note, dàn siamtur ruahman chhinna, hriattirna lian pui tar chhuahna thil phek, pawisa ziah chhuahna. bill of fare, hotel-a an eitur neih chi hrang hrang ziah chhuahna lehkha (menu).
-billet : n. thu inchah ziakna lehkha them, sipai hnena bahrik luahtirna thupek, sipai bahrik, chawlhna hmun ruat lawk. v.t. riahna or chenna hmun pe.
-billiards : n. a sira ip nei dawhkan chunga ball hawlha infiamna, billiard. adj.
-billingsgate : (bilingzgeit), n. tawng chaltlai, anchhia.
-billion : (bilian), n. tluklehdingawn sang khat, France leh America ramah chuan tluklehdingawn khat.
-billon : (bilan), n. thir chhe chi tangkarawtui leh dàr chawhpawlh.
-billow : (bilow), n. tuifawn hrawl tak, v.i. nasa taka fawn.
+bill : n. sava hmui, America ramah chuan pawisa note, dân siamtur ruahman chhinna, hriattirna lianpui târ chhuahna thil phêk, pawisa ziah chhuahna.
+bill of fare : hotel-a an ei tûr neih chi hrang hrang hming ziah chhuahna lehkha (menu).
+billet : n. thu inchah ziakna lehkhathem, sipai hnêna bahrik luahtîrna thupêk, sipai bahrik, chawlhna hmun ruat lâwk. v.t. riahna or chênna hmun pe.
+billiards : n. a sîra ip nei dawhkân chunga ball hawlha infiamna, billiard. adj.
+billingsgate : (billingzgeit), n. \awng chaltlai, ânchhia.
+billion : (bilian), n. tlûklehdingâwn sâng khat. France leh America ramah chuan tlûklehdingâwn khat.
+billon : (bilan), n. thîr chhe chi tangkaraw tui leh dâr chawhpawlh.
+billow : (bilaw), n. tuifâwn hrawl tak, v.i. nasa taka fâwn.
 bilocation : (bilawkeshn), n. a ruala hmun hrang hmun hniha awm theihna.
 bimetalism : (bimetalizm), n. pawisa chhera rangkachak leh tangkarua ang khata an ngaihna.
 bimonthly : (baimanthli), adj. thla hniha vawi khat awm, thla khata vawi hnih awm.
-bin : n. thildahna bàwm, bawlhhlawh bàwm.
-binary : (binari), adj. pahnih inkawp, arsi thiang invir tawn (entlang nen chauhva hmuh kawp theih).
-binate : (baineit), adj. a thianga chawr.
+bin : n. thil dahna bâwm, bawlhhlawh bâwm.
+binary : (binari), adj. pahnih inkawp, arsi \hiang invir tawn (entlang nên chauhva hmuh kawp theih).
+binate : (baineit), adj. a \hianga chawr.
 binaural : (baiawrl), adj. beng pahnih nei.
-bind : (baind), v.t. tàwn, phuar, khirh, tuam, lehkhabu phuah khawma a kawm vuah, thil ti tura intiam or intuk.
-bing : n. thil vum or inchherchhuan, bawlhhlawh bàwm.
+bind : (baind), v.t. \âwn, phuar, khirh, tuam, lehkhabu phuah khâwma a kâwm vuah, thil ti tûra intiam or intuk.
+bing : n. thil vûm or inchherchhuan, bawlhhlawh bâwm.
 binge : (bin, binzh), v.t. and v.i. chiah huh, in vak.
-binnacle : (binak), n. lawnga chhim leh hmàr kàwk dahna bawm.
-binocle : (binawkl, binakl), n. entlang phir.
-binocular : (bainawkhiular), adj. mit pahniha en theih, n. entlang phir (dan naranin binoculars).
-binomial : (bainawmial), adj. a thianga kal.
-bio- : (baiow), adj. nung, thil nung.
-biochemistry : (biawkemistri), n. thil nung timur awm dan zirna.
-biograph : (baiowgraf), n. cinema mi mal chanchin ziahna. 
-biographer : n. mi chanchin ziaktu, biography, n. mi mal dam chhung ziakna bu.
-biology : (baiawlowji), n. thil nung reng reng chanchin chhuina science, biologist, n. chutiang chhuitu chu.
-biophysics : (baiowfiziks), n. biology peng khat, physics lam hawi zawnga thil nung awm dan leh taksa insiam dan chhuina.
-bioscope : (baiowskawp), n. cinema.
-biparous : (biparas ), adj. phir hring.
-bipartite : (baipartait), adj. pàwl hniha inthen, pàwl (party) pahnih inkar thil. bipartisan (baipartizan), adj. pàwl hnih thil. bipartition, n.
-biped : (baiped), n. ramsa or rannung ke pahnih nei, biped, bipedical, adjs.
+binnacle : (binak), n. lawnga chhim leh hmâr kâwk dahna bâwm.
+binocle : (binawkl, binakl), n. entlang phîr.
+binocular : (bainawkhiular), adj. mit pahniha en theih, n. entlang phîr (dan narânin binoculars).
+binomial : (bainâwmial), adj. a \hianga kal.
+bio : (baiow), adj. nung, thil nung.
+biochemistry : (biawkemistri), n. thil nung timur awm dân zirna.
+biograph : (baiawgraf), n. cinema mi mal chanchin ziahna. 
+biographer : n. chanchin ziaktu.
+biography : n. mi mal dam chhâng ziakna bu.
+biology : (baiawlawji), n. thil nung rêng rêng chanchin chhuina science. biologist, n. chutiang chhuitu chu.
+biophysics : (baiawfiziks), n. biology pêng khat, physics lam hawi zâwnga thil nung awm dân leh taksa insiam dân chhuina.
+bioscope : (baiawskawp), n. cinema.
+biparous : (biparas), adj. phîr hring.
+bipartite : (baipartait), adj. pâwl hniha in\hen, pâwl (party) pahnih inkâr thil.
+bipartisan : (baipartizan), adj. pâwl hnih thil. bipartition, n.
+biped : (baiped), n. ramsa or rannung ke pahnih nei. bipedical, adj.
 biplane : (baiplein), n. thlawhna thla cheh (inchherchhuan) nei chi.
-bipod : (baipowd), n. hmanrua or dawhkan ke pahnih nei.
-birch : n. nawhalh thing ang chi pil var puak, chutiang thing tang naupang hremna talhfiak atana an hman.
-bird : n. sava chi reng reng (ar leh varak tiamin), v.i. sava veh, sava thang kam, bird-eyed, adj. mitvar, birdie, n. va te, sava koh duatna. bird's-eye view, n. chung lam atanga thlir.
+bipod : (baipawd), n. hmanrua or dawhkân ke pahnih nei.
+birch : n. nawhalh thing ang chi pil vâr puak, chutiang thing\ang naupang hremna talhfiak atâna an hman.
+bird : n. sava chi rêng rêng (ar leh varak tiamin), v.i. sava veh, sava thang kam.
+bird-eyed : adj. mitvâr.
+birdie : n. va tê, sava koh duatna.
+bird's-eye view : n. chung lam a\anga thlîr.
 biretta : (bireta), n. puithiam lukhum kil li nei.
-birostrate : (bairowstreit), adj. hmui pahnih nei (sava).
-birth : n. lawng lian inthlunna. n. nau hrinna, no neihna, pianna, pian leh murna, a bul. birth-control, n. hmanrua ilo hmanga fa nei tur emaw, fa neih chin tawk nei tura insiamna. birthday, n. pian ni, pian champhaphak.
+birostrate : (bairawstreit), adj. hmui pahnih nei (sava).
+birth : n. lawng lian inthlunna. n. nau hrinna, no neihna, pianna, pian leh mûrna, a bul.
+birth-control : n. hmanrua ilo hmanga fa nei tûr emaw, fa neih chin tâwk nei tûra insiamna.
+birthday : n. pian ni, pian champhaphâk.
 biscuit : (biskit), n. bisikut.
-bisect : (baisekt), v.i., v.t. hmun hniha bung or tan or then (dan naranin intia or inchen rengin), bisection, n. hmun hniha thenna. bisector, n. hmun hniha bungtu.
+bisect : (baisekt), v.i., v.t. hmun hniha bung or tan or \hen (dân narânin intia or inchen rengin).
+bisection : n. hmun hniha \henna.
+bisector : n. hmun hniha bungtu.
 biserial : (baisirial), adj. tlar hniha awm.
-biserrate : (baisereit), adj. serrate (hla tlar) pahnih nei.
-bisexual : (baiseksiual), adj. a nu leh a pa serh nei kawp chi thil nung reng reng (hermaphrodite).
-bishop : (bishawp), n. puithiam or pastor bial tam tak awptu puithiam sàng, uain chi khat.
+biserrate 	: (baisereit), adj. serrate (hla tlar) pahnih nei.
+bisexual : (baiseksiual), adj. a nu leh a pa serh nei kawp chi thil nung rêng rêng (hermaphrodite).
+bishop : (bishawp), n. puithiam or pastor bial tam tak awptu puithiam sâng, uain chi khat.
 bishopess : n. bishop nupui.
 bishopric : n. bishop nihna, bishop bial, v.t. mi ha sawisak sak, ha kaw hnawh sak.
-bismuth : (bismath, bizmat), n. thir hlo chi khat.
-bison : (baisawn, baisan), n. ram bàwng (lawi lampang pawl deuh).
-bit : n. hmawm khat, thil them, a te thei ang ber, hun rei lo te, thingverhna, sakawr kama thir barh. pa.t. of bite.
-bitch : (bichh), n. chinghnia or sihal nu, uipui, a diriam zawnga hmeichhe kohna.
-bite : (bait), v.t., v.i. seh (rûl), chuk, na taka hau, bite the dust, thi.
-bitter : adj. khà, nà, bitterness, n. khàkna, bitter-sweet, adj. nà leh nuam inpawlh, hrehawmna leh nawmna inkawp.
-bitument : (bitiumen), n. thil laih chhuah zinga alh thei chi hrang hrang (petrol, alkatra, etc.)
+bismuth : (bismath, bizmat), n. thîr hlo chi khat.
+bison : (baisawn, baisan), n. ram bâwng (lawi lampang pâwl deuh).
+bit : n. hmawm khat, thil them, a tê thei ang ber, hun rei lo tê, thing verhna, sakawr kama thîr barh. pa.t. of bite.
+bitch : (bichh), n. chinghnia or sihal nu, uipui, a diriam zâwnga hmeichhe kohna.
+bite : (bait), v.t., v.i. seh, (rûl) chuk, na taka hau. bite the dust, thi.
+bitter : adj. khâ, nâ.
+bitterness : n. khâkna.
+bitter-sweet : adj. nâ leh nuam inpawlh, hrehawmna leh nawmna inkawp.
+bitument : (bitiumen), n. thil laih chhuah zînga alh thei chi hrang hrang (petrol, alkatra, etc.).
 bivalve : (bivalv), n. kep pahnih nei chi (tuikep, etc.) adj. valve (kep or kharkhep) pahnih nei.
-bivouac : (bivuak), n. zarhliap nei lova riak, ram palailenga bûk nei lova riak.
-bi-weekly : (baiuikli), adj., adv. chawlhkar khata vawi hnih awm. chawlhkar hniha vawikhat awm. n. chawlhkar khatah vawi hnih chhuak chanchinbu.
-bizarre : (bizar), adj. mak, danglam, chungchuang.
-blab : v.i. tawng teuh, titi or thawnthu sawi v.t. (thuruk) puang.
-black : (blak), adj. dum, hàng, thim, ngui. n. rawng dum, v.t. tidum, hnawih hàng.
-blackmoor : n. Moor hnam vun hàng chi. Negro.
-black-hall : v.t. a kalh zawnga vote thlak.
-black-browed : adj. mitko hmul dum, tum hmuk.
-black-death : n. kum 1348 vela Asia leh Europe khawmualpuia hri chhe (pulh hri) leng.
-black-flag : n. rukru lawng puanzar, mi an khai hlum laia flag dum an khai sàn.
-blackguard : (blagàrd), n. misual, mi nungchang mawi lo, mi hnuaihnung.
+bivouac : (bivuak), n. zârhliap nei lova riak, ram palailenga bûk nei lova riak.
+bi-weekly : (baiuikli), adj., adv. chawlhkâr khata vawi hnih awm, chawlhkâr hniha vawikhat awm. n. chawlhkâr khata vawi hnih chhuak chanchinbu.
+bizarre : (bizâr), adj. mak, danglam, chungchuang.
+blab : v.i. \awng \euh, titi or thawnthu sawi. v.t. (thuruk) puang.
+black : (blak), adj. dum, hâng, thim, ngui. n. rawng dum, v.t. tidum, hnawih hâng. in black and white, ziak ngeia chuang, rawng dang tel lova a dum leh a vâr chauhva milem ziak or thlalâk.
+blackmoor : n. Moor hnam vun hâng chi, Negro.
+black-hall : v.t. a kalh zâwnga vote thlâk.
+black-browed : adj. mitko hmul dum, tûm hmuk.
+black-death : n. kum 1348 vela Asia leh Europe khawmualpuia hri chhe (pulh hri) lêng.
+black flag : n. rûkru lawng puanzar, mi an khaihlum laia flag dum an khai sân.
+blackguard : (blagârd), n. misual, mi nungchang mawi lo, mi hnuaihnung.
 blacking : n. thil dumna rawng.
-blackish : adj. a dum or a hàng kai.
+blackish : adj. a dum or a hâng kai.
 blackjack : n. savun no hrawl tak, rukru lawng flag.
-black leg : n. mi hnuaihnung tak pawisa inkhél hmang.
-black-list : n., v.t. thil tisual hrem ngaite hming ziah chhuahna, hrem atana hming ziak lut.
-blackmail : n., v.t., a tenawm zawnga mi pawisa lak sak, humtu atana misualte rawihna man, a verther zawnga mi pawisa phut chhuah (e.g. 'Cheng za min pek loh chuan i tlangval ngai lo pui ngai angah ka thantir ang che').
-blackout : n. khawpui khawnvar zawng zawng tihthim, mit vai thut, nikhaw hre lova awm thut, ngaihtuahna tawp thut.
-black-quarter : n. ran hri phungzawl anga an tal chiamna.
-blacksmith : n. thir deng.
-black-eye : hnek or vuak emaw avanga mit vel duk churh.
-black market : sawrkar thil control lai lo zawrh rukna. Black Monday, Easter Monday, sikul chawlh zawha luh leh ni.
-black sheep : n. chhungkaw unau zinga a sual fal. in black and white. ziak ngeia chuang, rawng dang tel lova a dum leh a var chauhva milem ziak or thlalak.
-bladder : n. ip fan thei, motor or thirsakawr ke leh football chhunga thelret ham puar (or pump puar) chi, sa phìng, phìng.
-blade : (bleid), n. hnah kau phek, tlahthi, chem or ngunhnam phek dap or hriam lam, virmep bàn (thlawhna hmavir or hmaizaha a bàn).
+black leg : n. mi hnuaihnung tak pawisa inkhêlh hmang.
+black-list : n., v.t. thil tisual hrem ngaite hming ziah chhuahna, hrem atâna hming ziak lût.
+blackmail : n., v.t., a tenawm zâwnga mi pawisa lâksak, humtu atana misûal rawihna man, a verther zâwnga mi pawisa phût chhuah (e.g. 'Cheng za min pêk loh chuan i tlangvâl ngâi lo pui ngâi angah ka thantir ang che').
+blackout : n. khawpui khawnvâr zawng zawng tithim, mit vai thut, nikhaw hre lova awm thut, ngaihtuahna tâwp thut.
+black-quarter : n. ran hri phûngzâwl anga an tâl chiamna.
+blacksmith : n. thîrdêng.
+black eye : hnek or vuak emaw avânga mit vêl duk churh.
+black market : sawrkâr thil control lai lo zawrh rûkna.
+black Monday : Easter Monday, sikul chawlh zawha luh leh ni.
+black sheep : n. chhûngkaw unau zînga a sual fâl. 
+bladder : n. ip fân thei, motor or thîrsakawr ke leh football chhûnga \helret hampuar (or pump puar) chi, sa phîng, phîng.
+blade : (bleid), n. hnah kau phêk, tlahthî, chem or ngunhnâm phêk dâp or hriam lam, virmep bân (thlawhna hmavir or hmaizaha a bân).
 blain : (blain), n. durh, khawihli.
-blame : (bleim), v.t. puh, mawhpuh, mawh phurhtir, dem, n. mawhpuhna, demna.
-blamable : (bleimabl), adj. blameful. adj. dem chi, thiam lo. blamefulness, n. blameless adj. sawisel bo. blameworthy. adj. dem tlàk, dem kài.
-blanch : (blansh), v.t. and v.i., tivàr, vàr.
-bland : adj. màm, nêm, zei, phungthlu, hawihhawm, a elsen zàwng.
-blandish : v.t., fakder, fuihpawrh. blandishment, n. fakderna, vehthlemna.
-blank : (blangk), adj., ziak loh, ruak, hmela engmah lang lo, ngaihna hre lo, hla phuaha a tlar tawpa ri inmil (rhyme) nei lo chi.
+blame : (bleim), v.t. puh, mawhpuh, mawh phurhtir, dem, n. mawhphurhna, demna. blamable, (bleimabl), adj.
+blameful : adj. dem chi, thiam lo. blamefulness, n.
+blameless: adj. sawisel bo.
+blameworthy : adj. dem tlâk, dem kâi.
+blanch : (blansh), v.t. and v.i., tivâr, vâr.
+bland : adj. mâm, nêm, zei, phungthlu, hawihhawm, a elsen zâwng.
+blandish : v.t., fakder, fuihpawrh.
+blandishment : n. fakderna, vehthlemna.
+blank : (blangk), adj., ziak loh, ruak, hmela engmah lang lo, ngaihna hre lo, hla phuaha a tlar tâwpa ri inmil (rhyme) nei lo chi.
 blanket : (blangkit), n. kawmawl, thil hliahkhuhna. v.t. tuam, khuh. wet blanket, n. mi hlim lai chawk nguitu, mi kawm nuam lo.
-blare : (bleir), v.i. khêk, ring taka hràm, tawtawrawt ri ang fiak leh teng inkawp, n. hràm, khêk.
-blarney : (blarni), n. mi fakderna or fuihpawrhna tawngka, blarney-land, n. Ireland.
+blare : (bleir), v.i. khêk, ring taka hrâm, tawtawrawt ri ang fiak leh \eng inkawp, n. hrâm, khêk.
+blarney : (blarni), n. mi fakderna or fuihpawrhna \awngka.
+blarneyland : n. Ireland.
 blase : (blazà), adj. nuam hre tawh lo, da tawh, kham tawh.
-blaspheme : (blasfim), v.t. thil thianghlim sawi chhia or sawi hnawm, v.i. ànka mawi lova tawng, ànchhe lawh. blasphemer, n. blaspheme-tu. blasphemous, adj.
-blasphemy : (blasfemi, blasfimi), n. tawng bawlhhlawh, Pathian zah lohna tawngka.
-blast : (blast), n. thli chhem or tleh thut, boruak phuh fiak deuhva ri thei ham rik (tawtawrawt ham etc.) thil puakina boruak a hlap. hnim or thlai hri (a vuaia a thihpui), v.t. chhem thut. bomb tipuak. v.t. puak theia hal darh or phin darh.
-blasted : adj. ànchhe dawng.
-blatant : (bletant), adj. bengchheng, ri nuai nuai, zahna hmu lo khawpa hrawmhraw or tal bawraw. blatantly, adv.
-blatter : n. ruah theh thawt thawt.
-blaze : (bleiz), n. alh, êng pup pup, langsàr taka tar chhuah. v.i. êng taka alh, blazes, n. pl., meidil alh, nasa taka khawsa.
-blazon : (bleizn), v.t. vantlang hmaa puangzàr, langsar taka tàr. n. pasaltha chhinchhiahna.
-bleach : (blichh), v.t. tivàr, a vàra hnawih, a vàra dum, v.i. a vàra inlet. n. rawng vàra dum. rawng vàr.
-bleak : (blik), adj. rawng or zia nei lo, ngui, hlimawm lo, vawt, hulhliap nei lo. bleakly, adv. bleakness, n.
-blear: (blir), adj. chiang lo, phê ruai, v.t. tifiah lo, bum. bleariness, n. bleary, adj.
-bleat : (blid), vi. n. beràm bê.
-bleed : (blid), v.i., v.t. thisen chhuah or hloh, thi, hrehawm tham khawpa pawisa inlàksak.
-blemish : n. bawlhhlawhna, dikhlelhna or kimhlelna, demawmna, v.t. dikhlelhna kaitir, tibawlhhlawh, tihmingchhia.
-blench : (blench, blensh), v.i. tìm.
-blend : v.t., v.i. rem taka chawhpawlh, inrem, blent, pa.t., pa.p. of blend.
+blaspheme : (blasfîm), v.t. thil thianghlim sawi chhia or sawi hnâwm, v.i. ânka mawi lova \awng, ânchhe lawh. blasphemer, n. blaspheme-tu. blasphemous, adj.
+blasphemy : (blasfemi, blasfimi), n. \awng bawlhhlawh, Pathian zah lohna \awngka.
+blast : (blâst), n. thli chhêm or tleh thut, boruak phuh fiak deuhva ri thei ham rîk (tawtawrawt ham etc.), thil puakina boruak a hlap, hnim or thlai hri (a vuaia a thihpui), v.t. chhêm thut, bomb tipuak. v.t. puak theia hal darh or phin darh.
+blasted : adj. ânchhe dawng.
+blatant : (blêtant), adj. bengchheng, ri nuai nuai, zahna hmu lo khawpa hrawmhrâw or tâl bâwraw. blatantly, adv.
+blatter : n. ruah theh \hawt \hawt.
+blaze : (bleiz), n. alh, êng pup pup, langsâr taka târ chhuah. v.i. êng taka alh. blazes, n. pl., meidil alh, nasa taka khawsa.
+blazon : (bleizn), v.t. vantlâng hmaa puangzâr, langsâr taka târ. n. pasal\ha chhinchhiahna.
+bleach : (blîchh), v.t. tivâr, a vâra hnawih, a vâra dum, v.i. a vâra inlet. n. rawng vâra dum. rawng vâr.
+bleak : (blîk), adj. rawng or zia nei lo, ngui, hlimawm lo, vawt, hulhliap nei lo. bleakly, adv. bleakness, n.
+blear: (blîr), adj. chiang lo, phê ruai, v.t. tifiah lo, bum. bleariness, n. bleary, adj.
+bleat : (blîd), vi. n. berâm bê.
+bleed : (blîd), v.i., v.t. thisen chhuah or hloh, thi, hrehawm tham khawpa pawisa inlâk sak.
+blemish : n. bawlhhlawhna, dikhlelhna or kimhlelna, demawmna, v.t. dikhlelhna kaitîr, tibawlhhlawh, tihmingchhia.
+blench : (blench, blensh), v.i. tîm.
+blend : v.t., v.i. rem taka chawhpawlh, inrem. 
+blent : pa.t., pa.p. of blend.
 blepharism : (blefarizm), n. mit kaih piansualna.
-bless : v.t. tithianghlim, malsàwmna pe, kros chhinchhiahna nena malsàwm, Pathian malsàwmna dil sak, hlimna leh lawmna duhpui, tihlim, chawimawi.
-blest : pa.p. of bless, blessed (blesed), blest, adjs. hlim, nunkhaw nuam, van ram kai, thianghlima chhal, nihlawh, vannei, malsawm dawng, a elsen zawnga hman chuan anchhe dawng, misual, blessedness blessing, nn. malsawmna, thilthlawnpek, chaw ei dawna tawngtaina.
-blet : n. a chhungrila thei ngêt ru.
-blight : (blait), n. thing, hnim leh thlai natna hri (a vei chu an uai a, an thi mai thin).
-blighter : (tawng lepchiah), n. mi tlaktlai lo.
-blighty : (blaiti), n. (sipai tawng ler) mahni ram, mahni in-leh-lo.
+bless : v.t. tithianghlim, malsâwmna pe, kros chhinchhiahna nêna malsâwm, Pathian malsâwmna dîl sak, hlimna leh lâwmna duhpui, tihlim, chawimawi. blest, pa.p. of bless, blessed (blesed).
+blest : adj. hlim, nunkhaw nuam, vân ram kai, thianghlima chhâl, nihlawh, vânnei, malsâwm dawng, a elsên zâwnga hman chuan ânchhe dawng, misual. 
+blessedness blessing : nn. malsâwmna, thilthlâwnpek, chaw ei dâwna \awng\aina.
+blet : n. a chhângrila thei ngêt ru.
+blight : (blait), n. thing, hnim leh thlai natna hri (a vei chu an uai a, an thi mai \hîn).
+blighter : (\awng lepchiah), n. mi tlâktlai lo.
+blighty : (blaiti), n. (sipai \awng lâr) mahni ram, mahni in-leh-lo.
 blimey : (blaimi), interj. e khai! het!
 blimy : (blaimi), interj. e khai! het!
-blind : (blaind), adj. mitdel, hmuh theih loh, kawng mumal nei lo, kal tlang theih loh, khaw hmu lo, rin thiltiha tih, ngaihtuah lova thil tih. n. tukverh puanzar, lehkhadenah chuan mahni chan en lova pawisa vawr, v.t. mit tidel, tithim, khaw hmu lova siam, bum, mit tivai.
+blind : (blaind), adj. mitdel, hmuh theih loh, kawng mumal nei lo, kal tlang theih loh, khaw hmu lo, rin thiltiha tih, ngaihtuah lova thil tih. n. tukverh puanzâr, lehkhadenah chuan mahni chan en lova pawisa vâwr. v.t. mit tidel, tithim, khaw hmu lova siam, bum, mit tivai.
 blindfold : adj. mit tuam.
 blindman's buff : n. pakhat mit tuama indekserh.
 blindness : n. mitdelna.
 blindspot : n. mahni chem kal lohna, kimhlelhna kawng.
 blink : (blingk), v.i., v.t. mit khap sak, mit siai, haider, ensan, melh zawk, n. melh zawk.
-bliss : n. nawmna sang tak, van ram nawmna. blissful, adj.
-blister : n. pangti durh, hnah ilova a sawrbawk, na taka hau, liak hrep.
+bliss : n. nawmna sâng tak, vânram nawmna. blissful, adj.
+blister : n. pangti durh, hnah ilova a sâwrbawk, na taka hau, liak hrep.
 blithe : (blaidh), adj. hlim thei, zuanzang.
-blitz : (blits), n. thlawhna atanga bomb thlak (khum), v.t. thlawhna nena bomb thlak khum.
-blizzard : n. mit men hleih theih loh khawpa na vur thlipui.
-bloat : (blawt), v.t. ham puar, a ai tawk chuahva sangha rep, pung.
-blob : n. far khat, thil mum nem, thil bial, bial.
-bloc : (blawk), n. pawl or sawrkar tangrual.
-block : (blawk), n. lungtum or thingtum (dan naranin kil li nei), thil sah chhanna thing tum of lungtum, thil tum vuak chhan or nem chhan (e.g. bel dolung), chanchinbua milem or thlalak nem kai tura an siam, in pindan tam tak nei, in tlar rual khat, ram bial khat. v.t. dang, dal.
-blockade : n. sipai pawl or indo lawng rualina hmelma kal tlangna an dan chah. v.t. sipai or indo lawng nena lo hual or lo dang.
-blockhead : n. mi chhaw, mi phutkhat.
-block capital : block letter, n. hawrawp pui.
-bloke : (blawk), n. (tawng lepchiah), mi, mihring.
-blond : (blawn), n. and adj. vun ngo leh sam buang (hmeichhe sawi nan chuan blonde tih a ni deuh bik; mahse tun lai hi chuan blond tih hi a hmeichhe tan pawh an chelek tawh a ni).
-blood : (blad), n. thi, thisen, thisena inzawmna mi uluk leh induh mi tak, thinurna, thisen inchhuahna or thah.
-bloodly : adj. thisen kai, nun chhia, tual thah tih lo, tawng leh tawng mawi lo lamah an hman chuan, tawngkam inkara tawng chuang tlai zeh khah mai mai, anchhe awmze nei lo a ni.
-blood-curdling : adj. thil hlauhawm, thisen tikhang (curdle) thei khawpa rapthlak.
-blood-feud : (blad-fiud), n. chhungkua or chi leh kuang inkara thisen inchhuahna a awm avanga buaina lo chhuak.
-blood-money : n. mi thisen chhuah man pawisa tel, mahni chhungte an thah mana zangnadawmna.
-blood-poisoning : n. thisen, tichhe thei chi natna hrik thisena lut.
-blood-relation : n. thisena inzawmna awm, laichin.
-blood-royal : n. lal thisen kai, lal laichin.
+blitz : (blits), n. thlawhna a\anga bomb thlâk (khum), v.t. thlawhna nena bomb thlâk khum.
+blizzard : n. mit men hleih theih loh khawpa nâ vûr thlipui.
+bloat : (blawt), v.t. hâm puar, a ai tâwk chuahva sangha rêp pung.
+blob : n. far khat, thil mûm nêm, thil bial, bial.
+bloc : (blawk), n. pâwl or sawrkar \angrual.
+block : (blawk), n. lungtum or thingtum (dân naranin kil li nei), thil sah chhanna thing tum or lungtum, thil tum vuak chhan or nem chhan (e.g. bêl dolung), chanchinbua milem or thlalâk nem kai tura an siam, in pindan tam tak nei, in tlar rual khat, ram bial khat. v.t. dang, dâl.
+blockade : n. sipai pâwl or indo lawng rualina hmelma kal tlangna an dan chah. v.t. sipai or indo lawng nena lo hual or lo dang.
+blockhead : n. mi chhâw, mi phutkhat.
+block capital : block letter, n. hawrawppui.
+bloke : (blâwk), n. (\awng lepchiah), mi, mihring.
+blond : (blawnd), n. and adj. vun ngo leh sam buang (hmeichhe sawi nân chuan blonde tih a ni deuh bik; mahse tunlai hi chuan blond tih hi a hmeichhe tân pawh an chelek tawh a ni).
+blood : (blad), n. thi, thisen, thisena inzawmna, mi uluk leh induh mi tak, thinurna, thisen inchhuahna or thah.
+bloodly : adj. thisen kai, nun chhia, tualthah \ih lo. |awng leh \awng mawi lo lamah an hman chuan, \awngkam inkâra \awng chuangtlai zeh khah mai mai, ânchhe awmze nei lo a ni.
+blood-bath : n. mihring sâmna.
+blood-curdling : adj. thil hlauhawm, thisen tikhang (curdle) thei khawpa rapthlâk.
+blood-feud : (blad-fiud), n. chhungkua or chi leh kuang inkâra thisen inchhuahna a awm avânga buaina lo chhuak.
+blood-money : n. mi thisen chhuah man pawisa têl, mahni chhungte an thah mana zângnadawmna.
+blood-poisoning : n. thisen tichhe thei chi natna hrik thisena lût.
+blood-relation : n. thisena inzawmna awm laichîn.
+blood-royal : n. lal thisen kâi, lal laichîn.
 bloodshed : n. thisen inchhuahna, inthahna.
-bloodshot : adj. mit sen urh (thinur luattuk vangin).
-blood-thirsty : adj. thisen chhuah chak hliah hliah.
-blood pressure : (-preshar), n. lung atanga thisen rawn insiak chhuakin thisen dawt a tawn chak dan.
-bloom : (blum), n. and v.i. pangpar, par lai, par, thil vul lai or vanglai hun, no tak. tawng lepchiahah chuan bloody tih nena a diriam leh a elsen zawnga thil sawina a ni.
-blossom : (blowsam), n. and v.i. pangpar (dan naranin thei ei chi par), par chhuak, vul lai or vanglai.
-blot : (blawt), n. hmingchhiatna, chhunhan, bawlhhlawh kai, v.t. tibawlhhlawh. chhunhang, nuai reh, tihmingchhia, nemna lehkha nena lehkhatui nem hul.
-blotting paper : n. nemna lehkha.
-blotch : (blowchh), n. and v.t. thil rawng da rian ruan, a rual lova rawng da ruai, pangti bawl hnai la, val kiau kuau.
-blouse : (blauz), n. kawrthuah dul deuh hniang hnuang, hmeichhe kawr thawl deuh, dan naranin tai vela hren rek.
-blow : (blow), v.i. chhem, tleh, ham. v.t. chhem, ham ri, zap, par chhuak.
+bloodshot : adj. mit sen ûrh (thinur luattuk vângin).
+blood-thirsty : adj. thisen chhuah châk hliah hliah.
+blood pressure : (-preshar), n. lung a\anga thisen rawn insiak chhuakin thisen dâwt a tâwn chak dân.
+bloom : (blûm), n. and v.i. pangpâr, pâr lai, pâr, thil vul lai or vânglai hun, no tak. |awng lepchiahah chuan bloody tih nena a diriam leh a elsen zâwnga thil sawina a ni.
+blossom : (blawsam), n. and v.i. pangpâr (dân naranin thei ei chi pâr), pâr chhuak, vul lai or vânglai.
+blot : (blawt), n. hmingchhiatna, chhunhan, bawlhhlawh kai. v.t. tibawlhhlawh, chhun hâng, nuai reh, tihmingchhia, nemna lehkha nena lehkhatui nem hul.
+blotting-paper : n. nem-na lehkha.
+blotch : (blawchh), n. and v.t. thil rawng da rian ruan, a rual lova rawng da ruai, pangti bawl hnâi la, val kiau kuau.
+blouse : (blauz), n. kawrthuah dul deuh hniang hnuang, hmeichhe kawr thâwl deuh, dân naranin tâi vêla hrên rek.
+blow : (blaw), v.i. chhêm, tleh, hâm. v.t. chhêm, hâm ri, zâp, pâr chhuak. blow, n. vuak, hnek, chûm, chhut.
 blow up : puak (darh).
-blow : (blow), n. vuak, hnek, chum, chhut.
-blowzy : (blauzi), adj. tai tuk, bawrchhawr.
+blowzy : (blauzi), adj. tai tûk, bawrchhawr.
 blubber : (blabar) n. nghapui thau or hriak.
-bludgen : (blajan), n. vuakna tiang tawi hmawr bawk nei. v.t. vua.
-blue : (blu), adj. dumpawl, duk, ngui, nguai, dang, dawldang, n. rawng dumpawl, van (mitthim), tuipui.
-blue-jacket : n. lawng sipai (jacket kawr dumpawl ha chi).
-blue-pencil : n. thil ziak thai dikna pencil dumpawl.
-blueprint : n. lehkha dumpawla thlalak negative nem kaina, lehkha panlang tlang theia milem ziah, thil rawtna duan chhinna, thil ruangam duan chhinna, thil ruangam duan chhinna, thil ruangam duan chhinna.
-bluestocking : n. hmeichhe lehkhathiam or intilehkhathiam.
+bludgen : (blajan), n. vuakna tiang tawi hmâwr bâwk nei. v.t. vua.
+blue : (blu), adj. dumpâwl, duk, ngui, nguai, dâng, dawldâng, n. rawng dumpâwl, vân (mitthim), tuipui.
+blue-jacket : n. lawng sipai (jacket kawr dumpâwl ha chi).
+blue-pencil : n. thil ziak thai dikna pencil dumpâwl.
+blueprint : n. lehkha dumpâwla thlalâk negative nem kaina, lehkha pan lang tlang theia milem ziah, thil rawtna duan chhinna, thil ruangam duan chhinna, thil rawtna duan chhinna.
+blue-stocking : n. hmeichhe lehkhathiam or intilehkhathiam.
 blue-stone : n. kahsamar.
 bluish : (bliuish), adj. of blue.
-blue-blood : n. lal thisen kai, mi challang.
+blueblood : n. lal thisen kâi, mi challang.
 blue ribbon : n. lawmman hlu tak (blue riban & ribband an ti bawk). from out of the blue, hnung lama sa barh angin. the blues, ngaina, lam chi khat, American Negro hla lungleng.
-bluff : (blaf), n. vaukam bung vut, lui or tuipui kam kham, inbumna, intihderna, adj. tlang, zep thei lo, awih, v.t. bum, tihder.
+bluff : (blaf), n. vaukam bung vut, lui or tuipui kam khâm, inbumna, intihderna. adj. tlang, zêp thei lo, âwih, v.t. bum, tihder.
 blander : (blandar), v.i. thil tisual, mumal nei lova chetla, hisap dik lo. n. thil tihdik lohna.
-blunderbuss : (blandarbas), n. silai (awlan or ulhbun) ngul tawi tak, kaw zau deuh.
-blunt : (blant), adj. hriam lo, zum lo, bil, hram, hraw, bung, chhaw, chhawih. v.t. tibil, blantness, n.
-blur : (blar), kum deuhhleka lam rik), n. bawlhhlawh kai, chiang lo ruai, phe ruai, v.t. tichiang lo.
-blurb : n. lehkhabu kawm chhung emaw, a phek hmasa ber emawa a chhuahtuina a chhunga thu kalhmang tlangpui a tar chhuah.
+blunderbuss : (blandarbas), n. silai (awlan or ulhbun) ngul tawi tak, kaw zâu deuh.
+blunt : (blant), adj. hriam lo, zum lo, bil, hram, hraw, bung, chhâw, chhawih. v.t. tibil, blantness, n.
+blur : (blar), kum deuh hleka lam rîk), n. bawlhhlawh kai, chiang lo ruai, phe ruai. v.t. tichiang lo.
+blurb : n. lehkhabu kâwm chhûng emaw, a phêk hmasa ber emawa a chhuahtuin a chhûnga thu kalhmang tlângpui a târchhuah.
 blurt : v.t. sawi chhuak phawng.
-blush : (blash), n. v.i. zaka sen awm awm, a sen kai, lawm emaw, hrilhhai emaw, zah luat emaw avanga hmai sen awp awp.
-bluster : (blaster), v.i. zap or chhem ri thut, tawrawt chhuah, chapo taka tawng, n. thli chhem thut anga ri huau, tawng chapo.
-bo : (bow), interj. mi dawizepte tihthaihna or vauna tawngka.
-boa : (bow), n. saphai lam pawl, rul hrawl ber ber chi, an ramsa man fuh tawh chu a ziala zial hlum chi. boa-constrictor, n. boa rul zinga a hrawl ber chi.
-boar : (bawr), n. vawk pa (dan naranin nghalchang), vawk or sanghal sa.
-board : (bawrd), n. thingzai phek, thing phek, chaw, thu rel tura thukhawm (committee, council), thil phek chhah tak (lehkha khawng, tile, etc.), insathahhneh, chess or draught khelhna thil phek, hriattirna or hriattirna tar chhuahna (e.g. notice board), (lawng lamah chuan) lawng sir. v.t. thing pheka khuh, thing phek phah, nit tin thila man neia mi chaw eitir, lawng, thlawhna etc. a chuangkai,
+blush : (blash), n. v.i. zaka sen âwm âwm, a sen kâi, lâwm emaw, hrilhhai emaw, zah luat emaw avânga hmai sen awp awp.
+bluster : (blaster), v.i. zâp or chhêm ri thut, tawrawt chhuah, chapo taka \awng. n. thli chhêm thut anga ri huau, \awng chapo.
+bo : (baw), interj. mi dawizepte tih\haihna or vauna \awngka.
+boa : (bâwa), n. saphai lam pâwl, rûl hrawl ber ber chi, an ramsa man fuh tawh chu a ziala zial hlum chi.
+boa-constrictor : n. boa rûl zînga a hrawl ber chi.
+boar : (bawr), n. vawkpa (dân naranin nghalchang), vawk or sanghal sa.
+board : (bawrd), n. thingzai phêk, thing phêk, chaw, thu rêl tura \hu khâwm (committee, council), thil phâk chhah tak (lehkha khawng, tile, etc.), insathahhneh, chess or draught khelhna thil phêk, hriattirna or hriattirna târ chhuahna (e.g. notice board); (lawng lamah chuan) lawng sîr. v.t. thing phêka khuh, thing phêk phah, nitin thil a man neia mi chaw eitir, lawng, thlawhna etc. a chuang kai.
 boarder : n. hotel emaw, mi in emaw, sikul hostel emawa ei man chawia khawsa.
-board-wages : n. mahni hrawk hlawh tur aia pawisaa lak.
-boast : (bowst), v.i. uang, inchhuang, v.t. uanpui, chhuang. boastful, adj. uang thei, chapo.
-boat : (bawt), n. lawng (dan naranin lawngleng; mahse lawng lian tih nan pawh an hmang).
-boat-house : n. lawng thlunna zar hliap. boating, n. lawng kar dan hmang, lawng nena lenvah.
-boatswain : (bawsn), n. lawng hmanraw lam (a lawngleng phurh, a puanzar, a hruizen, etc.) enkawltu bik.
-bob : (bowb), v.i., v.t. su or bu zauh zauh. n. shilling khat (tawng lepchiah a ni).
-bobbin : n. la or thirzai hlumna thil bial or sawl.
-bobby : (bowbi), n. police (tawng lepchiah a ni).
-bobtail : (bowbtail), n. mei tawi, mei tan tawi.
-bode : (bowd), v.i.,v.t. hril lawk, kawk, entir lawk.
-bodice : (bowdis), n. hmeichhe kawr hnuai. Tun lai chuan hmeichhe kawrchung chhing tih nan pawh an hmang tawh.
-bodikin : (bowdikin), n. taksa (body) te tak te 'Od's bodikins (God's bodikin), Pathian taksa or pumraw te tak te (tawngkam awmze nei mang lo a ni).
-bodkin : (bowdkin), n. chemte (zum), thil chhut pawhna te tak te, hriau lian bil tak.
-body : (bowdi), n.taksa, ruang, taksa kut-ke tel lo, khawl leh thil reng renga a peng pawimawh lai ber, thil hlangna lai ber, tisa thil, rual khat, mihring inthurual.
-bodyguard : (bowdigard), n. lal vengtu sipai.
-body-politic : adj. politic pawl khat zuitute zawng zawng chungchang thil (an hruaitute mai ni lovin).
-body-snatcher : n. a ruka zai atana mihring ruang ru botu.
-boer : (bur), n., adj. South Africa rama Dutch (Holland mi pem lut) thlahte (dan naranin leilet lam beia khawsa).
-bog : n. chirhdiak, v.t. chirhdiaka tang.
-bogy : (bowgi), n. thil hlauhawm leh rapthlak, ramhuai, phung.
-bogey : (bowgi), n. thil hlauhawm leh rapthlak, ramhuai, phung.
-boggle : (bowgl), v.i. hlauhawm hmaa tim, hlauva phu zawk, hreh vanga tawi khawtlai, tim. n. chhuanlam, buarchuar taka thil tih.
-bogie : bogey (bowgi), n. tawlailir rit tak, hniam tak si, rel pindan.
-bogus : (bowgas), adj. a suak, a lem.
-Bohemian : (bawhimian), n. and adj. Bohemian hnam, Czechoslovakia tawng, in leh lo nei lova vak vel hnam (gypsy) anga mumal lova khawsak ching, dan leh hrai pwoisa lova khawsa.
-boil : (bawil), v.t., v.i. and, n. so, chhuang so, sona, pun, khawihli hnai neia vung, thinur so.
-boiler : n. thil chhuan sona, tuihu khawla tui chhuan sona zem. boil over, so liam.
-boisterous : (bawistaras), adj. buai, bengchhen, thunun hleihtheih lohva buai.
-bold : (bawld), adj. huaisen, pawngpawrh, huangtau, luhlul, langsar, bung vut,
-bold faced : adj. luhlul (press khawl lam thiilah chuan ) hawrawp hrow.
-bolide : (bawlaid), n. khawchan or chhawihfa thlawk, dan naranin a tawpa puak chi.
-bollard : n. lawng chhuat emaw, lawng chawlhhmun emawa hruizena lawng thlunna thing or thir phun hniam te.
-bolometer : (bawlawmitar), n. eng zung chak lam tehna sana or khawl.
-Bolshevik : (bawlshavik), n. Russia rama Communist thurin kenkawh tumna kawnga a vung pawl, Communist pawla tawrawt zual. bolshevist, n.
-bolster : n. and, v.t. lukum, thil nghahchhan ting thei, do kang, tungding, bolstering, adj.
-bolt : (bawlt), n. kawng kalhna thir (bawltu), tek, v.t. bawltu a kawng kalh, kawl or thir khaidiat buntir, v.t. tlan thut. zuang thut, tho thut.
-bolus : (bawlas), n. thil mum.
-bomb : (bawm), n. and v.t. bawm, thil puak thei, bawm thlak khum.
-bombard : v.t. bawm emaw, laipui mu emawa deng or kap,
-bombardier : (bawmbardir), n. laipui pu zinga a bel kai hniam ber pawl, bombardment, n. laipuia inkahna, thlawhna atanga bawm inthlak khumna.
-bomshell : n. bawm tehkhinnaah chuan chanchin mak tak puang thut, mi barakhaih thei thu chhak chhuah.
-bombast : n. la sai sa, thil chhung phah, intihvei nana tawng upa leh thu har tak tak chelek. bombastic, adj.
-bonanza : n. rangkachak thahnem tak, ro hlu tak, tangka sum lama vanneihna lian tak.
-bondon : n. thil thlum, mithai, naupang hlimhlawpna thila lehkhaa thil puak thei an funa an pawh puah.
-bond : n. inkungkaihna, inzawmna, inlaichinna, pawisa pe tur emaw, hna thawk tur emawa thu ziaka intiamkamna. bondsman, n. a zakhamna tiamtu, thuhretu. adj. chhiahhlawh dinhmun bondage, n. phuara awm, sal or bawihs tanna,
-bondsman : n. bawih (mipa).
-Bone : n. ruh, ruhrel, bones, n. ruang, v.t. ruh thian. (To bone a fish - sangha ruh thian).
-bone-dry : adj. saruh anga khawro or filh, zawrh khapna thil.
-bond-meal : n. lei tihthat nana saruh an rawt dip.
-bony : adj. ruh ang mai, cher.
-bone of contention : n. inhmuhthiam lohna or intihbuaina chhan.
-bonfire : n. meipui chheh dai hal.
-bonnet : (banit), n. hmeichhe puan lukhum (nurse leh naute lukhum pawhzih ang chi hi), motor khawl chungkhuh, khawl khuhna reng reng.
-bonny : adjs. hmeltha, duhawm, no.
-bonnie : adjs. hmeltha, duhawm, no.
-bonus : n. pawisa pung baka a lukhawng dang awm, thawhlawm pung insema mahni chanvo, hlawhfa or hnathawktute hlawh baka lawmman pek.
-bonze : n. Buddha puithiam.
-boo : (bu), interj., v.i., v.t., a dichim or hnehsawh zawnga eu. 
-booh : (bu), interj., v.i., v.t., a dichim or hnehsawh zawnga eu.
-boo-hoo : v.t. tah hluam hluam.
-booby : (bubi), n. michhaw, pa phutkhat, examnaa hniam ber
-boobyprize : n. exam-na ilova mak hmu hniam ber hnena a elsen zawnga lawmman pek.
-boobytrap : n. mi fiam nana tlakhawlh siam or thang kam, indona hmuna hmelma dai per atana bomb kam.
-boody : (budi), v.i. tum, ngui.
-book : (buk), n. lehkhabu, bu, Bible, lehkhadena tlinna phit zat.
-bookbinder : n. lehkhabu kawm siamtu.
+board-wages : n. mahni hrawk hlawh tûr aia pawisaa lâk.
+boast : (bawst), v.i. uang, inchhuang, v.t. uanpui, chhuang.
+boastful : adj. uang thei, chapo.
+boat : (bawt), n. lawng (dân naranin lawnglêng; mahse lawng lian tih nân pawh an hmang).
+boathouse : n. lawng thlunna zar hliap.
+boating : n. lawng kar dân hmang, lawng nena lenvah.
+boatswain : (bawsn), n. lawng hmanraw lam (a lawngleng phurh, a puanzar, a hruizen, etc.) enkawltu bîk.
+bob : (bawb), v.i., v.t. su or bu zauh zauh. n. shilling khat (\awng lepchiah a ni).
+bobbin : n. la or thîrzai hlûmna thil bial or sâwl.
+bobby : (bawbi), n. police (\awng lepchiah a ni).
+bobtail : (bawbtail), n. mei tawi, mei tan tawi.
+bode : (bawd), v.i., v.t. hril lâwk, kâwk, entir lâwk.
+bodice : (bawdis), n. hmeichhe kawr hnuai. Tunlai chuan hmeichhe kawrchung chhîng tih nân pawh an hmang tawh.
+bodikin : (bawdikin), n. taksa (body) tê tak tê. 'Od's bodikins (God's bodikin), Pathian taksa or pumraw tê tak (\awngkam awmze nei mang lo a ni).
+bodkin : (bawdkin), n. chemtê (zum), thil chhut pawhna tê tak tê, hriau lian bil tak.
+body : (bawdi), n. taksa, ruang, taksa kut-ke tel lo, khâwl leh thil rêng rênga a pêng pawimawh lai ber, thil hlangna lai ber, tisa thil, rual khat, mihring inthurual.
+bodyguard : (bawdigard), n. lal vêngtu sipai.
+body-politic : adj. politic pâwl khat zuitute zawng zawng chungchang thil (an hruaitute mai ni lovin).
+body-snatcher : n. a rûka zai atana mihring ruang ru botu.
+boer : (bûr), n., adj. South Africa rama Dutch (Holland mi pêm lût) thlahte (dân naranin leilet lam beia khawsa).
+bog : n. chirhdiak, v.t. chirhdiaka tâng.
+bogy : (bawgi), n. thil hlauhawm leh rapthlâk, ramhuai, phûng.
+bogey : (bawgi), n. thil hlauhawm leh rapthlâk, ramhuai, phûng.
+boggle : (bawgl), v.i. hlauhawm hmaa tîm, hlauva phu zawk, hreh vânga tâwi khawtlai, tîm. n. chhuanlam, buarchuar taka thil tih.
+bogie : (bâwgi), n. tawlailir rit tak, hniam tak si, rêl pindan.
+bogus : (bâwgas), adj. a suak, a lem.
+Bohemian : (bâwhîmian), n. and adj. Bohemian hnam, Czechoslovakia \awng, in leh lo nei lova vâk vêl hnam (gypsy) anga mumal lova khawsak chîng, dân leh hrai pawisa lova khawsa.
+boil : (bawil), v.t., v.i. and n. so, chhuang so, sona, pûn, khawihli hnâi neia vûng, thinur so.
+boiler : n. thil chhuan sona, tuihu khâwla tui chhuan sona zem.
+boil over : so liam.
+boisterous : (bawistaras), adj. buai, bengchheng, thunun hleih theih lohva buai.
+bold : (bawld), adj. huaisen, pawngpawrh, huangtau, luhlul, langsâr, bung vut.
+bold faced : adj. luhlul (press khâwl lam thilah chuan) hawrawp hraw.
+bolide : (bâwlaid), n. khawchân or chhawihfa thlâwk, dân naranin a tâwpa puak chi.
+bollard : n. lawng chhuat emaw, lawng chawlhhmun emawa hruizêna lawng thlunna thing or thîr phun hniam tê.
+bolometer : (bâwlawmitar), n. êng zung chak lam tehna sana or khâwl.
+Bolshevik : (bawlshavik), n. Russia rama Communist thurin kenkawh tumna kawnga a vung pâwl, Communist pâwla tawrawt zual. Bolshevist, n.
+bolster : n., v.t. lukum, thil nghahchhan ting thei, do kâng, tungding. bolstering, adj.
+bolt : (bawlt), n. kawng kalhna thîr (bawl\u), \êk, v.t. bawl\u a kawng kalh, kawl or thîr khaidiat buntir, v.t. tlân thut, zuang thut, tho thut.
+bolus : (bawlas), n. thil mûm.
+bomb : (bawm), n. and v.t. bawm, thil puak thei, bawm thlâk khum.
+bombard : v.t. bawm emaw, laipui mu emawa dêng or kâp,
+bombardier : (bawmbardîr), n. laipui pu zînga a bel kai hniam ber pâwl.
+bombardment : n. laipuia inkahna, thlawhna a\anga bawm inthlâk khumna.
+bombshell : n. bawm tehkhinnaah chuan chanchin mak tak puang thut, mi barakhaih thei thu chhâk chhuah.
+bombast : n. la sai sa, thil chhung phah, intihvei nâna \awng upa leh thu har tak tak chelek. bombastic, adj.
+bonanza : n. rangkachak \hahnem tak, ro hlu tak, tangka sum lama vanneihna lian tak.
+bonbon : n. thil thlum, mi\hai, naupang hlimhlawpna thila lehkhaa thil puak thei an fûna an pawh puah.
+bond : n. inkungkaihna, inzawmna, inlaichinna, pawisa pe tûr emaw, hna thawk tûr emawa thu ziaka intiamkamna. adj. chhiahhlawh dinhmun. 
+bondage : n. phuara awm, sal or bâwiha tânna.
+bondsman : n. a zakhamna tiamtu, thuhretu. bondsman, n. bâwih (mipa).
+bone : n. ruh, ruhrel.
+bones : n. ruang, v.t. ruh thian. (to bone a fish - sangha ruh thian).
+bonedry : adj. saruh anga khawro or filh, zawrh khapna thil.
+bondmeal : n. lei tih\hat nâna saruh an râwt dip.
+bony : adj. ruh ang mai, chêr.
+bone of contention : n. inhmuhthiam lohna or intihbuaina chhân.
+bonfire : (bawnfair), n. meipui chheh dai hâl.
+bonnet : (banit), n. hmeichhe puan lukhum (nurse leh naute lukhum pawhzih ang chi hi), motor khâwl chungkhuh, khâwl khuhna rêng rêng.
+bonny : adjs. hmêl\ha, duhawm, no.
+bonnie : adjs. hmêl\ha, duhawm, no.
+bonus : (bawnas), n. pawisa pung bâka a lukhâwng dang awm, thawhlâwm pung insema mahni chanvo, hlawhfa or hnathawktute hlawh bâka lawmman pêk.
+bonze : (bawnz), n. Buddha puithiam.
+boo : (bu), interj., v.i., v.t., a dichim or hnehsawh zâwnga eu. 
+booh : (bu), interj., v.i., v.t., a dichim or hnehsawh zâwnga eu.
+boo-hoo : v.t. \ah hluam hluam.
+booby : (bûbi), n. mi chhaw, pa phutkhat, exam-naa hniam ber.
+booby-prize : n. exam-na ilova mak hmu hniam ber hnêna a elsen zâwnga lawmman pêk.
+booby-trap : n. mi fiam nâna tlâk-hawlh siam or thang kam, indona hmuna hmelma dai per atâna bomb kam.
+boody : (bûdi), v.i. tûm, ngui.
+book : (buk), n. lehkhabu, bu, Bible, lehkhadena tlinna phit zât. bring to book, chachhuah, thiamthu sawi tûra koh.
+bookbinder : n. lehkhabu kâwm siamtu.
 book-end : n. lehkhabu chhuar sirtuaka a bang.
 booking-clerk : n. ticket zuartu.
-bookish : adj. lehkhabu chhiar ngaina mi, rual pawl aia lehkhabu lam ngaina mi.
-bookkeeping : n. pawisa hisap vawn dan.
-booklet : n. lehkhabu te tak te,
-bookmaker : n. thu ziak khawn khawm mi, sakawr intlansiakna hmun leh thil intihsiakna hmuna pawisa inchawina lo khawn khawm veltu, pawisa inchawia eizawng mi.
-book-mark : n. lehkhabu phek chhinchhiahna. book-post, n. Daka man tlem zawka lehkhabu thawn dan.
-bookworm : n. lehkhabu nget, lehkhabu chhiar ngaina mi, bring to book, chachhuah, thiamthu sawi tura koh.
-boom : (bum), n., v.i. puanzar, lawnga puanzar kap parhna fung thing tlawn sei tak, puak dur, ri thum dup, ri huau huau, thang thut, hausa thar thut.
-boomerang : (bumarang), n. Australia rama tiang kawi vawm thlawh lo let leh thei chi, thil titu ama sawhkhawk let leh chi, sawhkhawk.
-boon : (bun), n. dilna, ngenna, induhsakna, thil thlawn pek, lawmman.
-boor : (bur), n. thingtlang mi, South Africa rama Dutch pem lut, mi nungchang mawi lo.
-boost : (bust), v.t. hma sawntir, tithang, n. nawrna, tihhmasawnna.
-boot : (but), n. pheikhawk rawng sang nei, v.t. boot bub, pet, chhuih.
-boot-legger : n. mi rama zu zuar tute, thil phal loh zuara sumdawng. boot, v.t. hlawkpui, n. hlep, hamthatna.
-booth : (buth) n. hliap, zarhliap, huau huau or puipun ni chhung lek atana thingpui ilo zawrhnana hliapzar (Telephone booth - kawngkama telephone bunna in te).
-booty : (buti), n. thil ruk khawm, suamhmang or ral runho thawmhnaw ruk, lawmman.
+bookish : adj. lehkhabu chhiar ngaina mi, rual pâwl aia lehkhabu lam ngaina mi.
+bookkeeping : n. pawisa hisâp vawn dan.
+booklet : n. lehkhabu tê tak tê.
+bookmaker : n. thu ziak khawn khâwm mi, sakawr intlansiakna hmun leh thil intihsiakna hmuna pawisa inchawina lo khawn khâwm veltu, pawisa inchâwia eizawng mi.
+bookmark : n. lehkhabu phêk chhinchhiahna.
+bookpost : n. Dâka man tlêm zâwka lehkhabu thawn dân.
+bookworm : n. lehkhabu ngêt, lehkhabu chhiar ngaina mi. 
+boom : (bûm), n., v.i. puanzâr, lawnga puanzâr kap parhna fung thing tlâwn sei tak, puak dur, ri thûm dup, ri huau huau, \hang thut, hausa thar thut.
+boomerang : (bûmarang), n. Australia rama tiang kawi vawm thlawh lo lêt leh thei chi, thil titu lama sawhkhâwk lêt leh chi, sawhkhâwk.
+boon : (bûn), n. dîlna, ngenna, induhsakna, thilthlâwnpêk, lawmman.
+boor : (bûr), n. thingtlang mi, South Africa rama Dutch pêm lût, mi nungchang mawi lo.
+boost : (bûst), v.t. hma sâwntir, ti\hang, n. nawrna, tih hmasâwnna.
+boot : (but), n. pheikhawk rawng sâng nei, v.t. boot bun, pêt, chhuih.  boot, v.t. hlâwkpui, n. hlêp, ham\hatna.
+boot-legger : n. mi rama zu zuar rutu, thil phal loh zuara sumdawng.
+booth : (bûth) n. hliap, zârhliap, huau huau or puipun ni chhûng lek atâna thingpui ilo zawrh nâna hliapzâr (Telephone booth - kawngkama telephone bunna in tê).
+booty : (bûti), n. thil rûk khâwm, suamhmang or ral rûnho thawmhnaw rûk, lawmman.
 borax : (bawraks), n. damdawi bawlhlo chi khat.
-Bordeaux : (bawrdow), n. Bordeauz khaw uain siam.
-border : n. ramri, fem, hmawr, ri. v.t., ri, a fem cheimawi, v.i. inri, inhnaih, teuh.
-bore : (bawr), v.t. chhun pawp, hreuh, ning, kham, n. thil vih kuak, vih pawh, silai kaw zau lam, mi khamawm, titi thiam lo.
+Bordeaux : (bawrdaw), n. Bordeaux khaw uain siam.
+border : n. ramri, fêm, hmâwr, ri. v.t., ri, a fêm cheimawi. v.i. inri, inhnaih, teuh.
+bore : (bawr), v.t. chhun pawp, hreuh, ning, kham. n. thil vih kuak, vih pawp, silai kaw zau lam, mi khamawm, titi thiam lo. bore, (bawr), n. tuifinriat a\anga lui chhuaha tui fâwn lût (mel 60 vel laia thui te a lûtin luia lawngleng pawh a nghaisa hrep thei a ni).
 boredom : (bawrdam), n. ninna, khamna.
-bore : (bawr), n. tuifinriat atanga lui chhuaha tui fawn lut (mel 60 vel laia thui te a lutin luia lawngleng pawh a nghaisa hrep thei a ni).
-boreas : (bawreaz), n. hmar thli, horeal, adj.
-borne : (born), pa.p. of bear, chawi, zawn, phur.
-borough : (barow), n. enkawltu pawl nei khawpui, Parliamenta aiawhtu Member nei khawpui.
-borrow : (bawrow), n. puk, hawh, mi tih dan or hnam dang dan entawn.
-borstal : adj. naupang sual hruai that nana lung ina khung lova chhungkaw zahawm tak tak ina an awmtir.
-bosom : (buzam), n. awm bawr, tang nem, hnute bu, engchhung, thinlung, zingah, adj. lungrukah, kawmngeih.
-boss : (bows), n. thil bawk, v.t. tlereuh bawk nena chei. n. hotu, hruaitu, thuneitu, v.t. ho, kilkawi, mi chaldelh.
-botany : (bawtani), n. hnim, thing leh thlai reng reng chanchin zirna.
-botch : (bowchh), n. vun durh or vung, tawp deuhva thil bel, hnathawh phuai, v.t. buan deuhva bel (puan pawp etc.)
+boreas : (bawreaz), n. hmâr thli. horeal, adj.
+borne : (bawrn), pa.p. of bear, châwi, zâwn, phur.
+borough : (baraw), n. enkawltu pâwl nei khawpui, Parliamenta aiawhtu Member nei khawpui.
+borrow : (bawraw), n. pûk, hawh, mi tih dân or hnam dang dân entawn.
+borstal : adj. naupang sual hruai \hat nâna lung ina khung lova chhungkaw zahawm tak tak ina an awmtir.
+bosom : (buzam), n. awm bâwr, \ang nem, hnute bu, ângchhûng, thinlung, zîngah. adj. lungrûkah, kawmngeih.
+boss : (baws), n. thil bâwk. v.t. tlereuh bâwk nêna chei. boss, n. hotu, hruaitu, thuneitu. v.t. ho, kilkawi, mi chaldelh.
+botany : (bawtani), n. hnim, thing leh thlâi rêng rêng chanchin zirna.
+botch : (bawchh), n. vun durh or vûng, \awp deuhva thil bel, hnathawh phuai. v.t. buan deuhva bel (puan pawp etc.).
 both : adj. and pro. a pahnihin, a kawp, ve ve.
-bother : (bowdar), v.t. tibuai, zar mangang, buaipui.
-bo-tree : (bawtri), n. theipui chi khat (Buddha zuite ngaihsan em em).
-botryoid : botryopidal, (bawtriawid, -al), adjs. grep rah bawr ang.
-bottle : (bawtl), n. saidawium, um, peng, v.t. saidawium thun, um or bura thei rah ilo um, insum, inkhuahkhirh.
-bottle-neck : n. kawng zim chep lai, thil reng reng a khirh or a harsatna lai, a mutan.
-bottom : (bawtam), n, mawng, chhuat, a hniam ber, a bul, mawngtam, thutthlenga a thutphah lai hi, lawng chhuat (a kuang chhuat), li mawng, tuipui mawng, v.t. nghahchhan.
-bottomless : adj. leilawt, mawng nei lo. at bottom, a dik a dik chuan. be at the bottom of, a chhan or a titu bera chu.
-boudoir : (buduar), n. hmeichhe pindan pual bik.
-Bougainvillaea : (bugeinvilia), n. sarawn pangpar.
-bough : (bau), n. thing tang or zar.
+bother : (bawdar), v.t. tibuai, zar mangang, buaipui.
+bo-tree : (bawtri), n. theipui chi khat (Buddha zuitute ngaihsân êm êm).
+botryoid : botryoidal, (bawtriawid, -al), adjs. grep rah bâwr ang.
+bottle : (bawtl), n. saidawiûm, ûm, peng. v.t. saidawiûma thun, ûm or bûra thei rah ilo um, insûm, inkhuahkhirh.
+bottleneck : n. kawng zîm chêp lai, thil rêng rêng a khirh or a harsatna lai, a mutân.
+bottom : (bawtam), n, mawng, chhuat, a hniam ber, a bul, mawngtam, \hutthlenga a \hutphah lai hi, lawng chhuat (a kuang chhuat), li mawng, tuipui mawng, v.t. nghahchhan. at bottom, a dik a dik chuan. be at the bottom of, a chhan or a titu bera chu.
+bottomless : adj. leilâwt, mawng nei lo. 
+boudoir : (buduar), n. hmeichhe pindan pual bîk.
+bougainvillaea : (bugeinvilla), n. sarawn pangpâr.
+bough : (bau), n. thing\ang or zâr.
 boulder : (bawldar), n. lungpui.
-boulevard : (bulavar), n. kawngpui or kawtthler zau tak, a sir tuaka thing intlar.
-bounce : (bauns), v.i.,v.t. sawt, tum, ting.
-bound : (baund), n. phal chin, tiam chin, huang chhung, v.t. chin tuk, khuahkhirh, hual vel. v.i. zuang, tum, sawt.
-boundary : n. ramri, ri chin, fem. boundless, adj. chin nei lo, tawp nei lo.
-bounded : (baunded), adj. intiam, intuk, thil tih ba.
-bounty : (baunti), n. thilphalna, thilthlawnpek, sipaia tang tura inthlemna pawisa,
-bounteous : (bauntias), bountiful, adjs. thilphal.
-bouguet : (buke), n. pangpar tel khawm, pangpar phal or theh.
-Bourbon : n. kalh or dodaltu, vaimim zu.
-bourgeois : (burshua), n. mihring khua-leh-tui, mi khawsa thei pawl. dawrkai, sumdawng, adj. khawsa thei, dan hlui ngaina mi, ninawm, khamthlak.
+boulevard : (bulavar), n. kawngpui or kawtthler zâu tak, a sîr tuaka thing intlar.
+bounce : (bauns), v.i., v.t. sawt, \um, tîng.
+bound : (baund), n. phal chin, tiam chin, huang chhung. v.t. chin tuk, khuahkhirh, hual vêl. v.i. zuang, \um, sawt.
+boundary : n. ramri, ri chin, fêm.
+boundless : adj. chin nei lo, tâwp nei lo.
+bounden : (baunden), adj. intiam, intuk, thil tih ba.
+bounty : (baunti), n. thilphalna, thilthlâwnpDk, sipaia \ang tura inthlêmna pawisa.
+bounteous : (bauntias), bountiful, adjs. thil phal.
+bouquet : (bûkê), n. pangpâr têl khâwm, pangpâr phal or \he.
+Bourbon : (burbawn), n. kalh or dodâltu, vaimim zu.
+bourgeois : (bûrzhua), n. mihring, khua leh tui, mi khawsa thei pâwl, dâwrkai, sumdawng. adj. khawsa thei, dân hlui ngaina mi, ninawm, khamthlâk.
 bourgeoisie : (burzhuazi), n. mimir, mi khawsa thei, mi neinung.
-bourgeon : (barjan), v.i. kuhmum, zik no chhuah, thang, dawk.
-bourn : bourne (bawrn, burn), n. ri chin, huap chin, tum ber.
-bouse : booze, boose, (buz, bauz), n. zu, zu chenna. v.t. zu in, rui.
-bout : (baut), n. thawh hun, thawh ni hun engemaw chhung awh, inelna, intihsiakna, luhaia tluk, sual, tlun.
-bovine : (bowvain), adj. bawng lam thil, bawng ang.
-bow : (bau), v.i., kun, bu, chibai, inphah hnuai, v.t. mi zahawmte bu chunga chibai buka hruai lut. make one's bow, chibai buk zeta kal chhuak, inthiar bo hmaa ennawm chhuahtuina bu chunga entu mipui a chibaina. n. lawng hma lam hmawr.
-bow : (baw), n. thal ngul or kurkum, thal kahna sairawkherh. thil kul reng reng (chhimbal, etc.), tingtang (violin) nawhna, suih, valh, suihtak. 
-bow-backed : adj. zang kul,
+bourgeon : (barjan), v.i. kuhmûm, zik no chhuah, \hang, dawk.
+bourn : bourne (bawrn, bûrn), n. ri chin, huap chin, tum ber.
+bouse : boose, (bûz, bauz), n. zu, zu chenna. v.t. zu in, rui.
+booze : (bûz), n. zu, zu chenna. v.t. zu in, rui.
+bout : (baut), n. thawh hun, thawh ni hun engemaw chhûng awh, inelna, intihsiakna, luhaia tlûk, sual, tlun.
+bovine : (bawvain), adj. bâwng lam thil, bâwng ang.
+bow : (bau), v.i., kûn, bû, chibai, inphah hnuai, v.t. mi zahawmte bu chunga chibai bûka hruai lut. make one's bow, chibai bûk zeta kal chhuak, inthiar bo hmaa ennawm chhuahtu ina bu chunga entu mipui a chibaina.
+bow (bau) : n. thal ngul or kûrkum, thal kahna sairawkherh, thil kûl rêng rêng (chhimbâl, etc.), \ing\ang (violin) nawhna, suih, valh, suih tak. 
+bow-backed : adj. zâng kûl,
 bow-legged : adj. ke kual.
-bowdlerise : (baudlaraiz), v.t. lehkhabua thu zahpuiawm lai lai suat or paih.
-bowel : (bauel), n. kawchhung (ril, pumpui etc.), thil chhungril reng reng. to move one's bowel, daileng, e.
-bower : (bauar), n. huan chhunga hahchawlhna buk, daihlim, pindan chhungril, hmeichhe pindan pual bik.
-bowery : (bauari), n. leilet, thlawhhma (America tawng).
+bowdierise : (budiaraiz), v.t. lehkhabua thu zahpuiawm lai lai suat or paih.
+bowel : (bauel), n. kawchhung (rîl, pumpui, etc.), thil chhûngril rêng rêng. to move one's bowel, dailêng, ê.
+bower : (bauar), n. huan chhûnga hahchawlhna bûk, daihlim, pindan chhûngril, hmeichhe pindan pual bîk.
+bowery : (bauari), n. leilet, thlawhhma (America \awng).
 bowie knife : (bawinaif), n. chemte zum hnung lam leh hriam lam nei.
-bowl : (bawl), n. thing suih mum lian pui theha infiamna. v.t. ball theh lir, ball vawm.
-bowler : (bowlar), n. sahmul lukhum (felt hat) bial.
-bowline : (bawlin), n. puan lawng ngul thlunna hruizen. bowline knot., n. suihtak.
-bowwow : (bauau), n. ui bauh ri (bauh, bauh).
-box : (bawks), n. thingrem, bawm, rel pindam, pindan voh bik, Krismas lawmzawng,
-Boxing-day : n. Sap-ho Krismas lawm zawng inpekna ni, December ni 26.
-box-office : n. ennawm chhuahna (cinema, etc.) hmuna tiket hralhna hmun
-box : (bawks), n. inhnek or inchumna, v.t.,v.i. hnek, chum.
+bowl : (bawl), n. thing suih mûm lianpui theha infiamna. v.t. ball theh lîr, ball vawm. bowl, n. chawhtawlh, berhbu, khuhhriang dar tak, thil kum or khuar lai.
+bowler : (bawlar), n. puan lawng ngul thlunna hruizen.
+bowline knot : n. suihtak.
+bowwow : (bauau), n. ui bauh ri (bauh bauh).
+box : (bawks), n. thingrem, bâwm, rel pindam, pindan voh bîk, Krismas lâwmzâwng. box, (bawks), n. inhnek or inchumna. v.t., v.i. hnek, chûm.
+Boxing day : n. Sapho Krismas lâwm zâwng inpêkna ni, December ni 26.
+box-office : n. ennawm chhuahna (cinema, etc.) hmuna tiket hralhna hmun.
 boxer : n. boxing ti mi.
 boxing : n. inhnekna.
-boy : (bawi), n. mipa naupang. Kawng tam takah chuan patling rual (sipai, hnathawkho, etc.) pawh hi boys an ti thin a, ram thenkhatah chuan mipa naupang tirhchhiahte pawh hi boy an ti thin.
-boyhood : (bawihud), n. mipa naupan lai. boyish, adj. mipa naupang hmel or ze pu. boyrfriend, n. hmeichhe ngaihzawng (bialpa).
-boycott : (bawikawt), v.t.,n. kawmserh, ensan, tuihtlar, mausam.
+boy : (bawi), n. mipa naupang. Kawng tam takah chuan patling rual (sipai, hnathawkho, etc.) pawh hi boys an ti \hîn a, ram \henkhatah chuan mipa naupang tirhchhiahte pawh hi boy an ti \hin.
+boyhood : (bawihud), n. mipa naupan lai.
+boyish : adj. mipa naupang hmel or ze pu.
+boyrfriend : n. hmeichhe ngaihzawng (bialpa).
+boycott : (bawikawt), v.t. n. kawmserh, ensan, tuithlâr, mausâm.
 brabble : (brabl), v.i. chiar bengchheng, inhauh buaina siam.
 braccate : (brakeit), adj. kea hmul nei (sava hmul ang).
-brace : (breis), n. thir kawra ban lam tuamna phow, thil cher nghettu, thul verhna herh virna hmanrua, bracket lian chi ({ ). kekawr darbak, v.t. cher nghet, insingsa, intuai hnum.
-bracelet : (breislit), n. ngun, kut kawl.
-brachial (brekial : brakial), adj. ban lam thil.
+brace : (breis), n. thîr kawra bân lam tuamna phaw, thil cher nghettu, thul verhna herh virna hmanrua, bracket lian chi {}, kekawr dârbak. v.t. cher nghet, insingsa, intuaihnum.
+bracelet : (breislit), n. ngûn, kutkawl.
+brachial : (brekial, brakial), adj. bân lam thil.
 brachy : (braki), tawi.
 brack : (brak), n. puan phuai lai.
-bracket : (brakit), n. thil dona, thil do kangtu, thu or nambar kualkhungna ( ), thil buk thei do kangtu, v.t. bracket nena do kang, kualkhung.
+bracket : (brakit), n. thil dona, thil do kângtu, thu or nambar kualkhungna ( ), thil bûk thei do kângtu, v.t. bracket nena do kâng, kualkhung.
 brackish : (brakish), adj. al pial pual.
-bract : (brakt), n. pangpar a hnah kuang chawr kak lai taka par chhuah chi.
-brag : v.i., v.t. uang, chapo, uanpui. braggart, n. mi chapo, mi uang thei.
-Brahma : (brama), n. China ar chi tha. n. Hindu pathian min ber.
-braid : (breid), v.t. a kikiau zawnga chei or thui or zep. n, zeh or or phiar kikiau.
-Braille : (breil), v.t. mitdelina kut zungtang hmanga thu an chhiar theihna tura hawrwop ker an chheh.
-brain : (brein), n. thluak, finna. v.i. thluak hnam sawk khawpa chhut or vuak.
-brain-sick : adj. rilru kim lo, a,
+bract : (brakt), n. pangpâr a hnah kuang chawr kak lai taka par chhuah chi.
+brag : v.i., v.t. uang, chapo, uanpui.
+braggart : n. mi chapo, mi uang thei.
+Brahma : (brama), n. China ar chi \ha. n. Hindu puithiam min ber.
+braid : (breid), v.t. a kikiau zâwnga chei or \hui or zep. n, zeh or or phiar kikiau.
+Braille : (breil), n. mitdel ina kut zung\ang hmanga thu an chhiar theihna tûra hawrawp ker an chheh.
+brain : (brein), n. thluak, finna. v.i. thluak hnâm sawk khawpa chhut or vuak.
+brain-sick : adj. rilru kim lo, â.
 brain-storm : n. thluak buai thut.
 brain-wave : n. hmangchang hriat chhuah thut.
-braise : (breiz), v.t. chhin upa mung.
+braise : (breiz), v.t. chhîn upa mung.
 brake : (breik), n. thil che lai chelh dinna hmanrua.
 bramble : (brambl), n. ram theihmu chi khat.
-bran : n. favai, zukhawl, thil thapa a si leng.
-branch : (bransh), n. thing tang, thing zar, peng, ban, zar, v.t. peng, zar, tai.
-brand : n. chhinchhiah nana thir linga deh, thil siam leh zawrh sum reng reng chhinchhiahna bik, thil siam chi khat, ngunghnam tle, hmingchhiatna lai, v.t. chhinchhiah nana thir linga deh (bawih leh mahni ran chhinchhiah nan).
+bran : n. favai, zu khâwl, thil \hâpa a si lêng.
+branch : (brânch, brânsh), n. thing\ang, thing zâr, pêng, bân, zâr, v.t. pêng, zâr, \ai.
+brand : n. chhinchhiah nâna thîr linga deh, thil siam leh zawrh sum rêng rêng chhinchhiahna bîk, thil siam chi khat, ngûnhnâm tlê, hmingchhiatna lai. v.t. chhinchhiah nâna thîr linga deh (bâwih leh mahni ran chhinchhiah nân).
 brand-new : adjs. thar var.
-brandish : v.t.,n. hriamhrei vilik.
-brandy : n. Sap zu chi khat.
-brash : n. irh thur, ruah baw hawk. 
-brash : adj. zaktheilo, ti hawr hawr (America tawng).
-brass : (bras), n. dar, pawisa (tawng ler), rimawi tumtu pawla dar hmanraw tumtu pawl (tawtawrawt etc.).
-brasshat : n. sipai officer thusa pawl (sipai tawng ler). brassy, adj. dar ang mai, zaktheilo.
-brassiere : (brasier), n. hmeichhe hnute dawmna.
-brat : n. a diriam zawnga naupang sawina, nauhai, naucha, naupang ninhlei tak.
-bravado : (bravadow), n. huaisenna, vaupung, at huai.
-brave : (breiv), adj. huaisen, ngeng, langsar, a langa mawi, v.t. huai taka tawhchilh, chhel taka tuar chhuak, cho. America rama Red Indian zingah chuan an pasaltha.
-bravely : adv. huai takin, chhel takin, inchei tak leh phur taka thawk chhuak, bravery, n.
-bravo : (bravow), n. misual kawlhrawng tak, tual that atana mi rawih. interj. a tha ! i titha lutuk ! (Hmeichhe thiltih fak nan a nih chuan, brava !).
+brandish : v.t., n. hriamhrei vilik.
+brandy : n. Sâp zu chi khat.
+brash : n. irh thûr, ruah baw hawk. brash, adj. zak thei lo, ti hawr hawr (America \awng).
+brass : (brâs), n. dâr, pawisa (\awng ler), rimawi tumtu pâwla dâr hmanraw tumtu pâwl (tawtawrawt etc.).
+brass-hat : n. sipai officer thusa pâwl (sipai \awng ler).
+brassy : adj. dâr ang mai, zak thei lo.
+brassiere : (brasier), n. hmeichhe hnute dâwmna.
+brat : n. a diriam zâwnga naupang sawina, nauhai, naucha, naupang ninhlei tak.
+bravado : (bravâdaw), n. huaisenna, vaupung, ât huai.
+brave : (breiv), adj. huaisen, ngêng, langsâr, a langa mawi, v.t. hnai taka tawhchilh, chhel taka tuar chhuak, cho, America rama Red Indian zîngah chuan an pasal\ha.
+bravely : adv. huai takin, chhel takin, inchei tak leh phûr taka thawk chhuak. bravery, n.
+bravo : (brâvaw), n. misual kâwlhrâwng tak, tual that atâna mi rawih. interj. a \ha! i ti\ha lutuk! (Hmeichhe thiltih fak nân a nih chuan brava!).
 brawl : n. bengchheng taka intih buaina, insual buaina.
-brawn : n. tihrawl, thahrui, ban puam or chawn sek lai, ti phiar or ti sek lai. sanghal or vawkpa, vawk lu sa leh bawng kethiah bawl.
+brawn : n. tihrâwl, thahrui, ban puam or châwn sek lai, ti phiar or ti sek lai, sanghal or vawkpa, vawk lu sa leh bawng ke\hiah bâwl.
 brawny : adj. sek, thahrui ngah.
-bray : (brei), v.t. chhu sawm. n. sabengtung hram, teng taka be. v.t. sabengtung anga hram.
-braze : (breiz), v.t. dara khuh or luan, brazen, adj. dar lam thil. zaktheilo. brazen-face, n. mi zaktheilo.
-breach : (brichh), n. thil keh, thil tihkeh, thil tawn kuak, thil chhumbung, dan bawhchhiat, thutiam hlen loh, intihbuaina, kulh bang tawn kuak, v.t. su kua.
-bread : (bred), n. chhang, chaw reng reng, chhuan relna.
+bray : (brêi), v.t. chhu sawm. n. sabengtung hrâm, \eng taka bâ. v.t. sabengtung anga hrâm.
+braze : (breiz), v.t. dâra khuh or luan.
+brazen : adj. dâr lam thil, zak thei lo.
+brazen-face : n. zak thei lo.
+breach : (brichh), n. thil keh, thil tihkeh, thil tâwn kuak, thil chhumbung, dân bawhchhiat, thutiam hlen loh, intihbuaina, kulh bang tâwn kuak, v.t. su kua.
+bread : (bred), n. chhang, chaw rêng rêng, chhuan rêlna.
 bread-fruit : n. thei a kung panga hrawl tak tak rah, rawh hmina chhang aia rin theih.
-breadwinner : n. chhungkaw chawmtu.
-bread buttered on both sides : kawng tinrenga vannei, know which side one's bread is buttered on, mahni hmakhaw hria. take the bread out of another's mouth, mi hrawkhrui zai chah, mi ei zawnna tichhia.
-breadth : (bredth), n. vang lam, zau lam, khawhawi zau, rilru zau.
-break : (breik), v.t. tikeh, tichat, thliar hrang, thil tla lai lo dawng, puang, chhu pawp, titliak, mi paukhauhna tizam, ran sawizawi, ngam, hneh. dan bawhchhia, thil chin dawklak simtir, um darh, chan darh. v.t. daidang, thliar hrang, chhum, chat, puak per or dah, hma tawn kua, awm dan danglam thut, hmuh theiha lang, chanchin darh thut, pawisa tlachham, aw tial, tlu, phuan thut, inzawmna chat, thian inban, khaihlak. n. khaihlakna, inzawm lohna, thil tawn kuak, chawlhlawk hun.
-breakdown : n. khawl kal lai chhe palh, keh darh, chipchiar taka then darh or endikna.
-breaker : n. tuifawn vaukama insawh darh.
-breakjaw : adj. thu lam rik harsa tak.
-breakneck : ringruh sawh tliah hlauhawm khawpa tlan chak.
-break-through : thil harsa tawn tlang.
-break-up : kehchhiat.
-breakwater : n. tuifawn daidanna or danna bang.
-breakaway : per, put chhuak.
-break cover : bihrukna hmun atanga ilar chhuak.
-break even : sumdawnna, ec. kawnga hek lo, hlep bawk lo.
-break the ice : mi inkiltawihna pheh saka nelawm leh tawng duh taka siam, mi kawm pawp. 
-break wind : thli up lam, thli dal.
-breakfast : (brekfast), n. tukthuan, v.i.,v.t. tukthuan ei.
-breast : (brest), awm, awm bawr, hmeichhe hnute bu, ran or ramsa hnute bu, rilru or thinlung. v.t. do, tawn, tuar, bun or hung or vuah.
-breast-bone : n. awm ruh.
-breast-deep : adj. (tui) awm thlenga thuk.
-breastplarte : awm phaw.
-breast-stroke : a bawkkhup zawnga tui hleuh (hmai phum lovin).
-breast-wall : thil chim tur dawlna lungrem (retaining wall).
-breastwork : hnawhsarum thila lei bang din. make a clean breast, inpuang, sual puang.
-breath : (breth), n. thaw, thawk, thawk theihna, nunna, thli fim.
+breadwinner : n. chhungkaw châwmtu.
+bread buttered on both sides : kawng tinrênga vannei. know which side one's bread is buttered on, mahni hmakhaw hria. take the bread out of another's mouth, mi hrawkhrui zai chah, mi eizawnna tichhia.
+breadth : (bredth), n. vâng lam, zau lam, khawhawi zau, rilru zau.
+break : (breik), v.t. tikeh, tichat, thliar hrang, thil tla lai lo dawng, puang, chhu pawp, titliak, mi paukhauhna tizâm, ran sawizawi, ngam, hneh, dân bawhchhia, thil chîn dawklak simtir, ûm darh, chan darh. v.i. daidang, thliar hrang, chhum, chat, puak per or dah, hma tâwn kua, awm dân danglam thut, hmuh theiha lang, chanchin darh thut, pawisa tlachham, aw \ial, tlu, phuan thut, inzawmna chat, \hian inbân, khaihlak. n. khaihlakna, inzawm lohna, thil tâwn kuak, chawlhlâwk hun.
+breakdown : n. khâwl kal lai chhe palh, keh darh, chipchiar taka \hen darh or endikna.
+breaker : n. tuifâwn vaukama insawh darh.
+breakjaw : adj. thu lam rîk harsa tak.
+breakneck : ringruh sawh tliah hlauhawm khawpa tlân chak.
+break-through : thil harsa tâwn tlang.
+break-up : keh chhiat.
+breakwater : n. tuifâwn daidanna or danna bang.
+breakaway : per, pût chhuak.
+break cover : bihrûkna hmun a\anga inlâr chhuak.
+break even : sumdawnna etc. kawnga hek lo, hlêp bawk lo.
+break the heart : tilungchhia, lungngai beidawnga siam.
+break the ice : mi inkiltawihna pheh saka nêlawm leh \awng duh taka siam, mi kâwm pawp.
+break the wind : thli ûp lam, thli dâl.
+breakfast : (brekfast), n. tuk\huan, v.i., v.t. tuk\huan ei.
+breast : (brest), âwm, âwm bâwr, hmeichhe hnute bu, ran or ramsa hnute bu, rilru or thinlung. v.t. do, tâwn, tuar, bun or hung or vuah. make a clean breast, inpuang, sual puang.
+breast-bone : n. âwm ruh.
+breast-deep : adj. (tui) âwm thlenga thûk.
+breastplate : âwm phaw.
+breaststroke : a bawkkhup zâwnga tui hleuh (hmai phâm lovin).
+breast-wall : thil chim tur dâwlna lungrem (retaining wall).
+breastwork : hnawhsarum thila lei bang din. 
+breath : (breth), n. thaw, thâwk, thâwk theihna, nunna, thli fim. catch one's breath with bated breath, mak tih luat vâng emaw, hlauh leh zah vâng emawa thaw ngam mang lova thlir.
 breathless : adj. thawchham.
-breath-taking : adj. mak lutuk, hlauhawm, rapthlak. catch one's breath with bated breath, mak tih luat vang emaw, hlauh leh zah vang emawa thow ngam mang lova thlir.
-breathe : (bridh), v.i.,.v.t. thaw, chawlh lawk, khaihlak, nung, dam, thaw lut, hip lut, thawk khum, thaw chhuak.
-breathed : (birdhid), adj. hrilhru, sawi sap.
-breather : n. thawk lak chhung, khaihlak chhung.
-breathing : thaw, thawk.
-breathing-space : breathing-time, thawk lak or chawlh chhung.
-breech : breeches (brichh, bricchis), n. kekawrtlawn, dan naranin a malpui vela puar a khup chin hnuai lam hren tawt, thil hnung lam reng reng, thil mawng.
-breech-loader : n. elhbun, silai mawngthun.
-breed : (brid), v.t.,v.i., n. thlah, vulh, khawi, thlah tha, thlen tir, no pai, no keu, no, chi khat.
-breeze : (briz), n. thli, thli fim, v.i., tleh, thaw.
-breezy : adj. thli ang, engthawl, hawiher harh tak.
-breeze : breese, brize (briz), n. vaihmite, thophurh.
-breen-gun : n. silai puak rang (machine gun te chi), a kawm kokia chhuana kah chi.
-brer : (brar), n. Negro-hovina a samkhai zawnga 'brother' an lam dan.
-brethren : (bredran), n. pl. of brother, hman laia brothers aia an hman, unaute u.
-breviary : (briviari), n. Katholic ho tuk tin Mass rawngbawl tawngtai bu.
-breviate : (brivieit), n. thil hrilhfiahna bu te, ukil thu ziak.
-brevity : (breviti), n. tawina, tawngkam or thu ziak tawina, thu renchemna, tawi famkimna.
-brew : (bru), v.t.,v.i. chhuang so, or lum (thingpui), zu sa, thil um, thu phiar or mung, inmung, inso (buaina or thlipui angin).
+breath-taking : adj. mak lutuk, hlauhawm, râpthlâk. 
+breathe : (bridh), v.i., v.t. thaw, chawlh lâwk, khaihlak, nung, dam, thaw lut, hîp lut, thâwk khum, thaw chhuak.
+breathed : (brîdhid), adj. hrilhru, sawi sap.
+breather : n. thâwk lâk chhâng, khaihlak chhâng.
+breathing : thaw, thâwk.
+breathing-space : breathing-time, thâwk lâk or chawlh chhûng.
+breech : breeches (brîchh, brîcchis), n. kekawrtlawn, dân naranin a malpui vêla puar a khûp chin hnuai lam hrên tâwt, thil hnung lam rêng rêng, thil mawng.
+breech-loader : n. elhbun, silai mawng thun.
+breed : (brid), v.t., v.i., n. thlah, vulh, khâwi, thlah \ha, thlen tîr, no pai, no keu, no, chi khat.
+breeze : (brîz), n. thli, thli fim, v.i., tleh, thâw. breese, brize (briz), n. vaihmite, thophurh.
+breezy : adj. thli ang, engthâwl, hawiher harh tak.
+breen-gun : n. silai puak rang (machine gun tê chi), a kâwm kokia chhuana kah chi.
+brer : (brar), n. Negro-hovina a sam khai zâwnga 'brother' an lam dân.
+brethren : (bredran), n. pl. of brother, hmanlaia brothers aia an hman, unaute u.
+breviary : (brîviari), n. Katholic ho tûk tin Mass rawngbâwl \awng\ai bu.
+breviate : (brîvieit), n. thil hrilhfiahna bu te, ukil thu ziak.
+brevity : (breviti), n. tawina, \awngkam or thu ziak tawina, thu renchemna, tawi famkimna.
+brew : (bru), v.t., v.i. chhuang so or lum (thingpui), zu sa, thil um, thu phiar or mung, inmung, inso (buaina or thlipui angin).
 brewery : n. zu siamna hmun.
 bribe : (braib), n. thamna. v.t. tham.
-bric-a-brac : bricabrac (brikabrak), n. thil hlui (tlereuh ilo) paih phal lohva vawn that.
+bric-a-brac : bricabrac (brikabrak), n. thil hlui (tlereuh ilo) paih phal lohva vawn \hat.
 brick : (brik), n. leirawhchan.
-brick-bat : n., brick them (dan naranin mi vawm nana hmang).
+brick-bat : n., brick them (dân naranin mi vawm nâna hmang).
 brick-layer : n., brick hmanga in satu.
-bridal : (braidal), n., inneihna, mo lawmna ruai. adj., inneihna thil, mo lampang thil.
-bride : (braid), monu, mo tur.
-bridegroom : n., mo neitu, mo neitu tur.
-bridemaid : n. mo thuihruai or zuitu hmeichhe tleirawl.
-bridesmaid : n. mo thuihruai or zuitu hmeichhe tleirawl.
-brideman : n. mo neitu zuitu mipa tleirawl.
-bridesman : n. mo neitu zuitu mipa tleirawl.
-bridewell : (braidual), n. misual hruai thatna hmun, tan in.
-bridge : n., lei, lawng chunga lawng captain dinna, dawhkan, tingtang hrui kam marna, thil inzawmna, hmun rual or awng kham kaina, lehkhaden chi khat. v.t., lei dawh, zawm, kham kai.
-bridge-head : n., ral runnaa a hmahruaite ram lak.
+bridal : (braidal), n. inneihna, mo lawmna ruai. adj. inneihna thil, mo lampang thil.
+bride : (braid), monu, mo tûr.
+bridegroom : n., mo neitu, mo neitu tûr.
+bridemaid : bridesmaid, n. mo \huihruai or zuitu hmeichhe tleirâwl.
+brideman : bridesman, n. mo neitu zuitu mipa tleirâwl.
+bridewell : (braidual), n. misual hruai \hatna hmun, tân in.
+bridge : (brij), n. lei, lawng chunga lawng captain dinna, dawhkân, \ing\ang hrui kam marna, thil inzawmna, hmun rûak or âwng kham kaina, lehkhaden chi khat. v.t., lei dawh, zawm, kham kai.
+bridge-head : n., ral rûnnaa a hmahruaite ram lâk.
 bridle : (bradl), n., sakawr hmuia a kaih herna hrui phuar, inthununna or inkhuahkhirhna thil, luhlul thiltih. v.t., bridle vuah, thunun, khuahkhirh.
 bridle-path : n., sakawr chung chuangte kalna kawng.
-brief : (brif), n. ukil-ina thubuai kalhmang tlangpui a khai khawm, thu kaihtawi or tlangpui. adj., tawi te, tawi famkim.
-briefcase : n., lehkha pawimawh khaina ip.
-brier : (brair), n., hnim buk hling nei, ram rose pangpar, hnim buk chi khat, a zung bawk atanga kuaite siam theih.
-briar : (braiar), n., hnim buk hling nei, ram rose pangpar, hnim buk chi khat, a zung bawk atanga kuaite siam theih.
+brief : (brîf), n. ukil-ina thubuai kalhmang tlângpui a khai khâwm, thu kaihtawi or tlângpui. adj. tawi tê, tawi famkim.
+briefcase : n. lehkha pawimawh khâina ip.
+brier : (brair), n., hnim buk hlîng nei, ram rose pangpâ, hnim buk chi khat, a zung bâwk a\anga kuaite siam theih.
+briar : (braiar), n., hnim buk hlîng nei, ram rose pangpâ, hnim buk chi khat, a zung bâwk a\anga kuaite siam theih.
 brig : n., puanzar lawng ngul pahnih nei chi.
-brigade : (brigeid), n., battalion rual khat khai khawmtu sipai pawl, mipui ho khat.
+brigade : (brigeid), n., battalion rual khat khai khâwmtu sipai pâwl, mipui ho khat.
 brigadier : n., sipai General hniam ber, brigade khat hotu.
 brigand : n., suamhmang.
-brigantine : (brigantin), n., brig ang deuh hleka ngul hnih nei puanzar lawng.
-bright : (brait), adj., eng, lang chiang, hlim thei, fing, thiam thei.
-brighten : v.t., tieng, tieng sauh, hriat loh hre chhuak.
-Bright's disease : n., natna chi khat, kal khawloh vanga zuna thil var tel.
-brilliant : adj., eng tak, tle tak, nalh tak, fing tak, thiam tak.
-brim : n., hmawr, fem, kotlang.
-brimful : adj., a kotlang or rawng thlenga khat, mittui parawl kuang.
+brigantine : (brigantîn), n., brig ang deuh hleka ngul hnih nei puanzar lawng.
+bright : (brait), adj., êng, lang chiang, hlim thei, fing, thiam thei.
+brighten : v.t., tiêng, tiêng sauh, hriat loh hre chhuak.
+Bright's disease : n., natna chi khat, kal khawloh vânga zuna thil vâr tel.
+brilliant : (briliant), adj., êng tak, tle tak, nalh tak, fing tak, thiam tak.
+brim : n., hmâwr, fêm, kotlâng.
+brimful : adj., a kotlâng or rawng thlenga khat, mittui parawl kuang.
 brimming : adj., khat.
 brimstone : n., kât hlo.
 brine : (brain), n., tui al, tuipui tui, tuipui. briny, brinish, adj.
-brine-pan : n., chi ten khangna thleng or khur.
-brine-pit : n., chi ten khangna thleng or khur.
-bring : v.t., la, rawn la, rawn hruai, thlem, rawn keng.
-bringing up : inchawmna, inkaihhruaina, inhruai hratna.
+brine-pan : n., chi ten khangna thlêng or khur.
+brine-pit : n., chi ten khangna thlêng or khur.
+bring : v.t., la, rawn la, rawn hruai, thlêm, rawn keng.
+bringing up : inchâwmna, inkaihhruaina, inhruai hrâtna.
 bring home : finfiah, hrilhfiah.
-brinjal : (brinjawl), n., bawkbawn.
-brink : (bringk), n., kotlang, ko, hmawr, vaukam.
-brisk : adj. zamtha, rang.
+brinjal : (brinjawl), n., bawkbâwn.
+brink : (bringk), n., kotlâng, ko, hmâwr, vaukam.
+brisk : adj. zam \ha, rang.
 bristle : (brisl), n. hmul khauh tak, (pig's bristle - vawk hmul), v.i. hmul thi ding, hmul anga ding sang.
 brittle : (britl), adj. keh awlsam, ram.
-broach : (browchh), v.t. chhun pawp, hawng, sawi chhuak.
-broad : (browd), adj. zau, rilru zau, a tlangpui, broaden, v.t.,v.i. zauh, tizau.
-broadcast : (browdkast), adj., v.t. theh darh, puangzar, radio-a puang (broadcast hian past tense a nei chuang lo).
-broadside : (browdsaid), n. lawng pang or sir lam, lawng panga laipui, lawng pang laipui rual kah.
+broach : (brâwchh), v.t. chhun pawp, hawng, sawi chhuak.
+broad : (brawd), adj. zau, rilru zau, a tlângpui.
+broaden : v.t., v.i. zauh, tizau.
+broadcast : (brawdkast), adj., v.t. theh darh, puang zâr, radio-a puang (broadcast hian past tense a nei chuang lo).
+broadside : (brawdsaid), n. lawng pang or sîr lam, lawng panga laipui, lawng pang laipui rual kah.
 broadway : n. kawtthler or kawng zau, khawpui kawtthler pui ber.
-brocade : (brawkard), n. dan bul.
-broccoli : (brawkali), n. parhlawm (parbawr) chi khat.
-brochure : (browshur), n. lehkhabu te tak te, pamphlet.
-broil : (brawil), n. insual buaina. v.i., v.t. chhum, chhuang so.
-broke : (brawkar), n. sumdawng, thawmhnaw hlui zuartu, palai, puarak, brokerage, n. sumdawnna, mi zawrhsum lei or hralh saka lawmman ei, mi sumdawn sak theihna thu hmuh.
-Bromelia : (bramilia), n. lakhuih lam chi reng reng.
-bronco : (brawngkaw), n. sakawr la sawi hmin loh.
-bronze : (brawnz), n. darsen leh tin chawhpawlh, adj. bronze rawng anga eng-seng deuh puap.
-brooch : (browchh), n. pawl ilo chhinchhiah nan emaw, mahni inchei nan emawa awm vela bel chi thil siam, badge (baj).
-brood : (brud), n. thlah, no, thum, thui, fate, naupang rual, chhuungkua, chi khat, thlah khat, thlahtu, pian leh murna, arte thum, adj. thlahtu atan. v.i.,v.t. awp, tui awp, keu, vulh, lungngai taka ngaihtuah, ding taka ngaihtuah.
-brook : (bruk), n. luite.
-brooklet : n. brook ai pawha te lehzual.
-brook : (bruk), v.t. tuar thei, ngaithei, ngaithiam, hlimpui.
-broom : (brum), n. hmunphiah, v.t. phiat.
-broth : n. sa leh anhnah chhum pawlh (dan naranin a tuihang atan), thil hrik (natna hrik, etc.) vulh nana thil ei theih chi an chawhpawlh.
-brothel : (brawthl, browdhl), n. nawhchi zawrhna hmun or in.
-brother : (bradhar), n. unaupa, nuta, anpui, sangawi zawnpui, sakhaw biakpui.
-brethen : pl. of brother. dan naranin sakhaw biakpuite kohna.
+brocade : (brawkeid), n. silk puana thil lem \hui.
+brocard : (brâwkard), dân bul.
+broccoli : (brawkali), n. parhlâwm (parbâwr) chi khat.
+brochure : (brawshur), n. lehkhabu tê tak tê, pamphlet.
+broil : (brawil), n. insual buaina. v.i., v.t. chhûm, chhuang so.
+broke : (brawk), pa.t. of break.
+broker : (brawkar), n. sumdâwng, thawmhnaw hlui zuartu, palai, puarak.
+brokerage : n. sumdâwnna, mi zawrhsum lei or hralh saka lawmman ei, mi sumdâwnsak theihna thu hmuh.
+Bromelia : (bramîlia), n. lakhuih lam chi rêng rêng.
+bronco : (brawngkaw), n. sakawr la sâwi hmin loh.
+bronze : (brawnz), n. dârsen leh \în chawhpawlh. adj. bronze rawng anga êng-sen deuh puap.
+brooch : (brawchh), n. pâwl ilo chhinchhiah nân emaw, mahni inchei nân emawa âwm vêla bel chi thil siam, badge (baj).
+brood : (brûd), n. thlah, no, \hum, \hui, fate, naupang rual, chhuungkua, chi khat, thlah khat, thlahtu, pian leh murna, arte \hum. adj. thlahtu atân. v.i., v.t. awp, tui awp, keu, vulh, lungngai taka ngaihtuah, ding taka ngaihtuah.
+brook : (bruk), n. lui tê. v.t. tuar thei, ngaithei, ngaithiam, hlimpui.
+brooklet : n. brook ai pawha tê lehzual.
+broom : (brûm), n. hmunphiah, v.t. phiat.
+broth : n. sa leh anhnah chhum pawlh (dân naranin a tui hâng atân), thil hrik (natna hrik, etc.) vulh nâna thil ei theih chi an chawhpawlh.
+brothel : (brawthl, brawdhl), n. nawhchi zawrhna hmun or in.
+brother : (bradhar), n. unaupa, nu\a, anpui, sangawi zâwnpui, sakhaw biakpui.
+brethen : pl. of brother. dân naranin sakhaw biakpuite kohna.
 brotherhood : n. inunauna, mihring rual inzawm or inkungkaihna.
-brother-in-law : n. nupuite nuta, pasalte unaupa.
-broogham : (bruam, brauam, brum), n. sakawr pakhat hnuh chi tawlailir chung leh bang nei, motor reng reng a driver thutna chung nei lo.
-brow : (brau), n. mitko, chaldar, tlang tolawt, hmelhmang, lan dan. 
-browbeat : v.t. en zam, na taka melh, vau.
-brawn : (braun), adj. uk, sen-uk, rawng hang.
-brawned off : adj. ning kham.
-browse : (brauz), v.i. thil chawr no or zik no tlan or pet, ngaihsak mang lo leh bawhkan neia thu chhiar. n. thingtang.
-browsing : n. thil hnah leh zik, hnim peh.
-Bruin : (bruin), n. savawm hming, savawm kohna.
-bruise : (bruz), v.t. vaw sawp, chhu sawp, chhu dip, tikhem, tiphuai, tipem, tipilh, n. hliam, pem, pilh.
+brother-in-law : n. nupuite nu\a, pasalte unaupa.
+broogham : (bruam, brauam, brûm), n. sakawr pakhat hnuh chi tawlailir chung leh bang nei, motor rêng rêng a driver \hutna chung nei lo.
+brow : (brau), n. mitko, chaldâr, tlâng tolawt, hmelhmang, lan dân.
+browbeat : v.t. en zâm, na taka melh, vau.
+brown : (braun), adj. uk, sen-uk, rawng hâng.
+browned off : adj. ning, kham.
+browse : (brauz), v.i. thil chawr no or zîk no tlân or pet, ngaihsak mang lo leh bawhkân neia thu chhiar. n. thing\ang.
+browsing : n. thil hnah leh zîk, hnim peh.
+Bruin : (brûin), n. savawm hming, savawm kohna.
+bruise : (brûz), v.t. vaw sâwp, chhu sâwp, chhu dip, tikhem, tiphuai, tipem, tipilh. n. hliam, pem, pilh.
 bruiser : n. chhu sawmtu, inbuan, inchai leh boxing lama ei zawng mi.
-brunette : (brunet), n. hmeichhe sam dum leh vun hang.
-brunt : (brant), n. tha pui, hu pui, a zangkhauh or nasa lai tak, v.t. a na lai tuar.
-brush : (brash), n. vawk hmula siam thil khuihna or nawhna, lakhuih, rawng hnawihna hmanrua lem ziakna hmanrua, electric khawla thil vir lai lo nawttu, insualna, indona, ral nena intawhchilhna, thing buk or hnim buk hmun, ramhnuai, tul pik. v.t. nawt, khuih, chulh, phiat.
-Brussels sprout : (brasalz spraut), n. zikhlum chi khat a zika hlum mang lova a panga bawk chho thluah.
-brute : (brut), n. ramsa zinga a mawl pawl, mi tawrawt, i nunchhia, adj. ramsa nungchang ang mai, nunchhia, tawrawt, mawl.
-brutal : adj. brute ang mai, khawngaihna tlachham, nunrawng, brutish, adj. brute ang.
-bryology : (braiawlowji), n. lung hmul, hlobet chanchin zirna science.
-bubble : (babl), n. puarpawleng, phuan, thil holam mai mai, thil lolam, v.i. so phuan, so ri bawrh bawrh, tawng bawrh bawrh, adj. takna nei lo, tlo lo.
-bubo : (biubow), n. thal thoh. bubonic, adj.
+brunette : (brunet), n. hmeichhe sam dum leh vun hâng.
+brunt : (brant), n. tha pui, ha pui, a zângkhauh or nasa lai tak, v.t. a na lai tuar.
+brush : (brash), n. vawk hmula siam thil khuihna or nawhna, lakhuih, rawng hnawihna hmanrua, lem ziakna hmanrua, electric khâwla thil vir lai lo nâwttu, insualna, indona, ral nena intawhchilhna, thingbuk or hnim buk hmun, ramhnuai, \ûl pik. v.t. nâwt, khuih, chulh, phiat.
+Brussels sprout : (brasalz spraut), n. zîkhlûm chi khat a zîka hlûm mang lova a panga bâwk chho thluah.
+brute : (brût), n. ramsa zînga a mâwl pâwl, mi tawrawt, mi nunchhia. adj. ramsa nungchang ang mai, nunchhia, tawrawt, mâwl.
+brutal : adj. brute ang mai, khawngaihna tlachham, nunrâwng.
+brutish : adj. brute ang.
+bryology : (braiawlawji), n. lung hmul hlobet chanchin zirna science.
+bubble : (babl), n. puarpawleng, phuan, thil holam mai mai, thil holam. v.i. so phuan, so ri bawrh bawrh, \awng bawrh bawrh. adj. takna nei lo, tlo lo.
+bubo : (biubow), n. \hâl \hoh. bubonic, adj.
 buccal : (bakal), adj. biang lam thil, (buccal flesh - biang ti).
-buccanneer : buccanier (bakanir), n. tuipuia suamhmang, lawng suamhmang.
+buccanneer : buccanier (bakanîr), n. tuipuia suamhmang, lawng suamhmang.
 bulbul : (bulbul), n. tlaiberh.
-Bulgarian : (balgerian), adj., n. Bulgaria thil, Bulgaria hnam or tawng.
-bulge : (bulj), n.,v.i. poh, tolawt, lawr chhuak.
-bulk : (balk), n. tam lam, len lam, tam zawk, tam tak, thil liak tak, bungraw phurh. bulky, adj. hrawl, hnawksak tham, tuanfumpui tham khawpa lian.
-bull : (bul), n. bawngpa til reh loh, bawng chal, nghapui (whale) leh sai leh ram sa chi hrang hranga a pachal,
-bull's-eye : bull-baiting, bawng chal chhaih kawlhna, bawng chal chhaih.
-bull-calf : bawng pa tuai.
-bulldog : ui hmai ner chi kawlhrawng leh kawlh thei tak.
-bullfrog : utawk hrawl tak.
+Bulgarian : (balgerian), adj., n. Bulgaria thil, Bulgaria hnam or \awng.
+bulge : (balj), n. v.i. poh, tolâwt, lawr chhuak.
+bulk : (balk), n. tam lam, len lam, tam zâwk, tam tak, thil lian tak, bungraw phurh.
+bulky : adj. hrawl, hnawksak tham, \uanfumpui tham khawpa lian.
+bull : (bul), n. bâwngpa til reh loh, bâwng chal, nghapui (whale) leh sai leh ramsa chi hrang hranga a pachal. n. pope thupêk, pope dân siam.
+bull's-eye : bull-baiting, bâwng chhaih kawlhna, bâwng chal chhaih.
+bull-calf : bâwng pa tuai.
+bulldog : ui hmai ner chi kâwlhrâwng leh kawlh thei tak.
+bullfrog : u\awk hrawl tak.
 bull-headed : luhlul.
-bull-necked : nghawng chum.
-bull's eye : silai inthemthiamnaa thil kah tura an tar laili tak.
-bull : (bul), n. pope thupek, pope dan siam.
-bulldozer : n. lei laihna leh a vung nawrna motor.
+bull-necked : nghâwng chum.
+bull's eye : silai inthemthiamnaa thil kah târa an târ laili tak.
+bulldozer : n. lei laihna leh a vûng nawrna motor.
 bullet : (bulit), silaimu.
-bulletproof : adj. silai kah tlang theih loh.
-bulletin : (bulatin), n. sawrkar chanchin tar chhuah.
-bullion : (bulian), n. rangkachak leh tangkaraw chher loh or chhun loh.
-bullock : (bulawk), n. bawng pa til reh.
-bully : (buli), n. mi tiduhdahtu, ngam zawngte sawisak hmang, i vau hmang.
-bully : (buli), n.,v.t. inkhel dawna inthahna, inthah.
+bullet-proof : adj. silai kah tlang theih loh.
+bulletin : (bulatin), n. sawrkâr chanchin târ chhuah.
+bullion : (bulian), n. rangkachak leh tangkaraw chher loh or chhûn loh.
+bullock : (bulawk), n. bâwng pa til reh.
+bully : (buli), n. mi tiduhdahtu, ngam zâwngte sawisak hmang, mi vau hmang. bully, (buli), n., v.t. inkhelh dâwna inthahna, inthah.
 bulrush : (bulrash), n. phairuang.
-bullwark : (buluark), n. kulh, kulhpui, ral dai, tuipui kama tuifawn danna bang.
+bullwark : (buluark), n. kulh, kulhpui, râl dai, tuipui kama tuifâwn danna bang.
 bum : (bam), n. mawngtam, pa nikhualo.
-bumble : (bambl), v.i. zei lo taka chetla, buarchuar taka khawsa, bumble-bee, n. khawimu.
-bump : (bamp), v.i.,v.t. su dawp, tauh chawrh, su nghing, ri dur, n. tauh chawrhna, ri dawp, boruak chet buai avanga thlawhna nghing dawt dawt, pun, vung, bumper, n. thil sut palh tur laka inven nana motor hmaa thing kham phei hmatawng an vuah, thil thahnem tawk tak. (A year of bumper crop - Buh ngah kum). adj. thahnem, bump off, that, tihlum.
-bumpkin : (bampkin), n. thingtlang mi mawl.
+bumble : (bambl), v.i. zei lo taka chetla, buarchuar taka khawsa.
+bumble-bee : n. khawimu.
+bump : (bamp), v.i., v.t. su dawp, tauh chawrh, su nghing, ri dur. n. tauh chawrhna, ri dawp, boruak chêt buai avânga thlawhna nghîng dawt dawt, pûn, vûng.
+bumper : n. thil sut palh tûr laka invên nâna motor hmaa thing kham phei hmatawng an vuah, thil \hahnem tâwk tak. (A year of bumper crop - buh ngah kum). adj. \hahnem.
+bump off : that, tihlum.
+bumpkin : (bampkin), n. thingtlâng mi mâwl.
 bumptious : (bampshas), adj. ngeiawm khawpa induh or inngaisang.
-bun : (ban), n. sazupui leh thehlei lam chi koh duatna (hming).
-bunch : (banchh, bansh), n. tel, hlawm, hung, pangpar tel (hmer khat), v.i., v.t., tel khawm, inhawr khawm, a bawra awm.
-bund : (band), n. tuihawk ilo dan nana lei tian.
-bundle : (bandl), n., v.i., v.t. tel, tumtel, tuam, hlawm.
-bungalow : (banggalow), n. bangla.
-bungle : (banggl), n. mumal lo taka thil tih, v.i. zei lo taka khawsa, v.t. buarchuar taka ti.
+bun : (ban), n. chhang thlum (bâwn kan tih ang chi). n. sazupui leh thehlei lam chi koh duatna (hming).
+bunch : (banchh, bansh), n. têl, hlâwm, hung, pangpar têl (hmer khat). v.i., v.t., têl khâwm, inhâwr khâwm, a bâwra awm.
+bund : (band), n. tuihâwk ilo dan nana lei tian.
+bundle : (bandl), n., v.i., v.t. têl, tumtêl, tuam, hlâwm.
+bungalow : (banggalaw), n. bangla.
+bungle : (banggl), n. mumal lo taka thil tih. v.i. zei lo taka khawsa, v.t. buarchuar taka ti.
 bunk : (bangk), n. riahna pindan, bahrik.
-bunkum : (bangkam), n. a hluar zawnga thu sawina, tawngkam mawihnai ringawt uma thu sawi. thil ho, thutak pai lo.
+bunkum : (bangkam), n. a hluar zâwnga thu sawina, \awngkam mawihnai ringawt ûma thu sawi, thil ho, thutak pai lo.
 bunny : (bani), n. sazupui koh duatna, sazupui hming.
-bunsen : (bunsan, bansan), adj. mi fing pakhat R.W. Bunsen-a thil lam kawk.
-bunsen-burner : n. R.W. Bunsen-a khawnvar siam eng lo tak alh sa deuh si.
-bunt : (bant), v.i. ki nena si. butt nen thuhmun.
-bunting : (banting), n. puanzar, cheimawina, puanzar, flag.
-buoy : (bawi), n. lawng kaihhruai nana tuia thil mum (kaihbu ang reng) lang thei an thlun beh. v.t. tuia lang thei tura siam, tikang, chawi sang, tiphur, tihlim, chhawmdawl.
-buoyancy : n. tui or boruaka lan theihna.
-buoyant : adj. tui or boruaka kang thei, zang, hlim.
-bur : burr (bar), n. r (R) hawrawp rika a tlir ri hi, ngur thawm. v.t. aw tial taka phun ri.
-burden : n. (hman lai chuan burthen ti pawhin an sipel) phurrit, phur.
-burden : n. hla thunawn, a thupui ber.
+bunsen : (bûnsan, bansan), adj. mi fing pakhat R.W. Bunsen-a thil lam kâwk.
+bunsen-burner : n. R.W. Bunsen-a khawnvar siam, êng lo tak alh sa deuh si.
+bunt : (bant), v.i. ki nêna insi. butt nen thuhmun.
+bunting : (banting), n. puanzâr, cheimawina puanzâr, flag.
+buoy : (bawi), n. lawng kaihhruai nâna tuia thil mûm (kaihbu ang reng) lâng thei an thlun beh. v.t. tuia lâng thei tûra siam, tikâng, chawi sâng, tiphûr, tihlim, chhawmdâwl.
+buoyancy : n. tui or boruaka lân theihna.
+buoyant : adj. tui or boruaka kâng thei, zâng, hlim.
+bur : burr (bar), n. r(R) hawrawp rîka a tlir ri, ngur thâwm. v.t. aw \ial taka phun ri.
+burden : n. (hmanlai chuan burthen ti pawhin an sipel) phurrit, phur. n. hla thunawn, a thupui ber.
 burdensome : adj. rit, hnawksak.
-bureau : (biurow, barow), n. dawhkan pawhdawh nei chi, pisa.
-bureaucracy : (biurawkrasi), n. sawrkar hna peng hrang hrang neia ram rorel.
-bureaucratic : adj. tawnghmangah chuan, rorelna khawla dan zawh kim tum luat avanga ti kher kher mi.
+bureau : (biuraw, baraw), n. dawhkân pawhdawh nei chi, pisa.
+bureaucracy : (biurawkrâsi), n. sawrkar hna pêng hrang hrang neia ram rorel.
+bureaucratic : adj. \awnghmangah chuan rorêlna khâwla dân zawh kim tum luat avânga ti kher kher mi.
 burg : (burg, barg), n. lung banga hung kual khawpui, kulh.
-burgess : (barjis), n. tualchhung mi, tualchhung mi challang.
-burglar : (barglar), n. rukru, rukru zan vak, v.t. ru, burglary, n. rukruk.
-burgomaster : (bargawmaster), n. Holland leh German rama khawpui bawrhsap.
-burgrave : (bargrwiv), n. khawpui hotu, kulh awptu.
+burgess : (barjis), n. tualchhûng mi, tualchhûng mi challang.
+burgh : (bara), n. borough nen thuhmun.
+burgher : (bargar) n. tualchhûng mi khawpuia chêng.
+burglar : (barglar), n. rûkru, rûkru zân vâk. v.t. ru.
+burglary : n. rûkrûk.
+burgomaster : (bargawmastar), n. Holland leh German rama khawpui bawrhsap.
+burgrave : (bargreiv), n. khawpui hotu, kulh awptu.
 burgundy : (bargandi), n. Burgandy khaw chhuak uain chi khat.
-burial : (barial), n. phum, burial-ground, n. thlanmual (graveyard).
-burke : (bark), v.t. that, rek hlum, chuvangin, tehkhinnaah chuan thawm nei lova hmet mit or hmet dai.
-burlap : (barlap), n. thil funna leh banga bel chi thelretpuan.
-burlesque : (barlesk), n. a ho zawnga mi tih dan zirna, thawnthu or lemchan iloa a hluar leh a nuihzatthlak zawnga mi thu phuah or lemchan dan zir.
+burial : (barial), n. phûm.
+burial-ground : n. thlânmual (graveyard).
+burke : (bark), v.t. that, rêk hlum, (chuvangin tehkhinnaah chuan) thâwm nei lova hmet mit or hmet dâi.
+burlap : (barlap), n. thil fûnna leh banga bel chi \helretpuan.
+burlesque : (barlesk), n. a ho zâwnga mi tih dân zirna, thawnthu or lemchan iloa a hluar leh a nuihzatthlak zâwnga mi thu phuah or lemchan dân zir.
 burly : (barli), adj. hrawl, sa nghet.
-burn : v.i.,v.t. kang, alh, hal, mut, rawh, chakna or phurnaa khat.
-burnish : v.t. nawt phuai, nawt tle.
-burnous : (barnus), n. puan lukhum (Arab hnam khum chi ang).
-burrow : (barow), n. kua, tawmna, bihrukna, v.t. kaw hreuh. burst, v.i.,vt. tipuak, keh sawm, keh darh, thawng thut, su tlang rawp, chang thut, thil ti phawng.
+burn : v.i., v.t. kâng, alh, hâl, mût, rawh, châkna or phûrnaa khat.
+burnish : v.t. nâwt phuai, nâwt tle.
+burnous : (barnûs), n. puan lukhum (Arab hnam khum chi ang).
+burrow : (baraw), n. kua, tawmna, bihrûkna, v.t. kaw hreuh.
+burst : v.i., vt. tipuak, keh sawm, keh darh, \hâwng thut, su tlang rawp, chang thut, thil ti phawng.
 burthen : n. Same as burden.
-bury : (beri), vt. phum, khuh, thukru.
+bury : (beri), vt. phûm, khuh, thukrû.
 bus : n. mihring phurhna motor lian.
-bush : (bush), n. hnim buk, ramhnuai. 
-bushwhack ; ramhnuaia vak, ramhnuaia indo.
-bushy : adj. bush anga buk. beat about the bush, pehhel.
-bushel : (bushel), n. buh leh thei tehkhawng gallon riat dawng, chutiang tehna bawm chu.
-business : (biznis), hna, tih tur, thil tul, sumdawnna, mahni chungthu bik.
-businessman : n. sumdawng. to mean business, tum ruh, thutaka buai.
-bust : (bast), n. lim a awm achin chung lam chuah lang, taksa a lai a chin chung lam.
-bustle : (basl), v.i. phili, buai chung. n. buai philina, che vel.
-busy : (bizi), adj. buai, taima, hna ngah, hmanhlel, v.t. inhmang, hmanhlel, thawk,
-busibody : n. mi chungchanga inrawlh hmang, tul lova inrawlh ve chhen mi.
-but : (bat), prep. tiam lovin, chauh lo chu (all but him , all except him , ani chauh lo chu), conj. mahse.
-butcher : (buchhar), n. sa zuar, ran talh mi, v.t. ran talh, nunrawng taka tihlum.
-butchery : n. ran talhna hmun, mihring samna.
-butler : (batlar), n. milian inchhung vawng feltu chhiahhlawh.
-butt : (bat), n. sangha phek chi reng reng, nghavang.
-butter : (batar), n. bawnghnute hriak (thil kan nan leh chhanga tah), fakderna v.t. butter tat, fakder, tlawn.
+bush : (bush), n. hnim buk, ramhnuai. beat about the bush, pehhel.
+bushwhack : ramhnuaia vâk, ramhnuaia indo.
+bushy : adj. bush anga buk.
+bushel : (bushel), n. buh leh thei tehkhawng gallon riat dawng, chutiang tehna bâwm chu.
+business : (biznis), hna, tih tûr, thil \ûl, sumdawnna, mahni chungthu bîk.
+businessman : n. sumdâwng. to mean business, tum ruh, thutaka buai.
+bust : (bast), n. lim a âwm achin chung lam chuah lang, taksa a lai achin chung lam.
+bustle : (basl), v.i. phili, buai chung. n. buai philina, che vêl.
+busy : (bizi), adj. buai, taima, hna ngah, hmanhlel. v.t. inhmang, hmanhlel, thawk.
+busibody : n. mi chungchanga inrawlh hmang, \ûl lova inrawlh ve chhên mi.
+but : (bat), prep. tiam lovin, chauh lo chu (all but him, all except him - ani chauh lo chu), conj. mahse.
+butcher : (buchhar), n. sa zûar, ran talh mi. v.t. ran talh, nunrawng taka tihlum.
+butchery : n. ran talhna hmun, mihring sâmna.
+butler : (batlar), n. milian inchhâng vawng feltu chhiahhlawh.
+butt : (bat), v.i., v.t., sî, tauh. n. sîkna, tauhna. uain ilo dahna thingzêm lian tak. butt, n. a hmâwr hrawl lam, thingbul, thingtuluang, savun chhah, meizial zûk bung (paih hnu), kuangbâng, chhumbung. n. sangha phâk chi rêng rêng, nghavâng.
+butter : (batar), n. bawnghnute hriak (thil kan nân leh chhanga tah), fakderna. v.t. butter tât, fakder, tlawn.
 butterfly : n. phengphehlep.
 buttock : (batak), n. mawngtam.
-button : (batn), n. kawrkilh, thil hlutna nei lo, thil tenau, v.t. kilh, kawrkilh kilh, tichip or hmet phui.
-buttress : (batis), n. lungbang chelh nghehna pawng, thil chelh nghehna, v.t. do, chelh nghet.
+button : (batn), n. kawrkilh, thil hlutna nei lo, thil tênau. v.t. kilh, kawrkilh kilh, tichip or hmet phui.
+buttress : (batis), n. lungbang chelh nghehna pâwng, thil chelh nghehna, v.t. do, chelh nghet.
 butyric : (biutirik), adj. butter thil.
-buxom : (baksam), adj. thau, chawm, chum leh duhawm, hlim thei, tha za thei, ting thei.
+buxom : (baksam), adj. thau, chawm, chum leh duhawm, hlim thei, tha za thei, tîng thei.
 buy : (bai), v.t. lei, tham.
-buzz : (bas), v.i. thlawk vi, vung, ri cher cher, phun sep sep, rangtaka chetla (tawng ler a ni). v.t. tivi, phun neuh neuh, a ruka thu theh darh, thirhrui khapna hmet ri. n. a vi zawnga ri.
-buzzer : n. electric khawl ri cher cher thei (signal thawnna).
-buzzard : (bazard), n. mu lian chi, sava chi thenkhat, mi phutkhat, mi dawihzep, mi tuanfum, lungphur thlahtu mei leh khawnvar enga thlawh luh thut thut ching, (chuangin) buai deuh nuaia thil ti thut thut mi.
-by : (bai), prep., adv. kiangah, sirah, kal tlangin, pelin, lakah.
+buzz : (bas), v.i. thlâwk, vi, vung, ri cher cher, phun sep sep, rang taka chetla (\awng lâr a ni). v.t., v.i, tivî, phun neuh neuh, a rûka thu theh darh, thirhrui khapna hmet ri. n. a vî zâwnga ri.
+buzzer : n. electric khâwl ri cher cher thei (signal thawnna).
+buzzard : (bazard), n. mu lian chi, sava chi \henkhat, mi phutkhat, mi dawihzep, mi \uanfum, lungphûr thlahtu, mei leh khâwnvar ênga thlawh luh thut thut chîng, (chuvangin) buai deuh nuaia thil ti thut thut mi.
+by : (bai), prep., adv. kiangah, sirah, kal tlangin, pêlin, lakah.
 by-and-by : nakinah, zawi-awiin.
-by-blew : a pang or sir lama hnek or chum, fa sawn.
-by-election : inthlanpui inkara a kahpaha inthlanna.
-bygone : hmasang, khuarel liam hnu, thil kal tawh.
-by-lane : kawtthler peng or penhleh.
-by-name : hming chhe zawk, hming lem.
-by-pass : pehhelna, pumpelh, v.t. kal pel, pehhel.
-by-product : a ekchhia, thil dang siam azara engemaw lo chhuak ve (buhden by -product chu favai, fu-her by-product chu a ekchhia leh a fe).
-byword : tawng tualleng, tlangkam.
-by and large : a tlangpui thuin.
-by and by : by the way, thu danga lai chuan.
-bye : by (bai), n. a ve, a kahpah, (infiamna lamah chuan), inkhing tur thum vawrnaa kawp nei lova chuang ta. adj. a ve, a penhleh.
-bylaw : (bailaw), n. dan siama a penhleh, dan pui atanga a tesep.
+by-blow : a pang or sir lama hnek or chûm, fa sâwn.
+by-election : inthlanpui inkâra a kahpaha inthlanna.
+bygone : hmasâng, khuarei liam hnu, thil kal tawh.
+by-lane : kawtthler pêng or penhleh.
+by-name : hming chhe zâwk, hming lem.
+by-pass : pehhelna, pumpelh. v.t. kal pêl, pehhel.
+by-product : a êkchhia, thil dang siam azâra engemaw lo chhuak ve (buhden by-product chu favai, fu-her by-product chu a êkchhia leh a fê).
+byword : \awng tualleng, tlângkam.
+by and large : a tlângpui thuin.
+by and by : thu danga lai chuan.
+by the way : thu danga lai chuan.
+bye : by (bai), n. a ve, a kahpah, (infiamna lamah chuan), inkhing tûr \hum vâwrnaa kawp nei lova chuang ta. adj. a ve, a penhleh.
+bylaw : (bailaw), n. dân siama a penhleh, dânpui a\anga a tesep.
